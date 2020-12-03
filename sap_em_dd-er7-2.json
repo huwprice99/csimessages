@@ -1,0 +1,90 @@
+
+{
+  "article_events": {
+    "event_type": "DD-ER7",
+    "event_reason": "No Address", 
+    "event_date_time": "",
+    "data_entry_type": "", 
+    "article": {
+      "article_id": "991551110076271971224154190427",
+      "full_barcode": "00393283500245002899 ",
+      "product": {
+        "sub_product_id": "60",
+        "base_service_code": "08",
+        "international_details": null
+      },
+      "status": null
+    },
+    "facility": {
+      "location": {
+        "work_centre_code": "LOCAL",
+        "location_name": "",
+      }
+    },
+    "audit": {
+      "event_id": "",
+      "event_source_name": "WEB",
+    },
+    "consignment": null,
+    "device": {
+      "software_version": "1.52.0.40702",
+      "serial_number": "17103522504972",
+      "IMEI": "353857080115740",
+      "device_id": "50bf1929a01ac719",
+      "model": "TC56",
+      "location": {
+        "geocode": {
+          "latitude": "-76.8029",
+          "longitude": "57.4989",
+          "heading": "0",
+          "speed": "47",
+          "height": "17",
+          "geocode_date_time": "",
+        }
+      }
+    },
+    "event_originator": {
+      "system": {
+        "sender_id": "AUSVIC",
+        "sender_name": "AUSWA "
+      },
+      "person": {
+        "user_name": "Huw Price",
+        "user_role": "User",
+        "person_id": "huwpr",
+      }
+    },
+    "receiver": {
+      "contact_details": "Amaya Morissette",
+      "location": {
+        "address": "Bedfordshire"
+      }
+    },
+    "sender": null,
+    "transfer_to": {
+      "to_location": {
+        "location": null
+      }
+    },
+    "transportation": {
+      "round_number": "0003"
+    },
+    "measurement": null,
+    "container": null,
+    "legacy": null,
+    "delivery": {
+      "requested_location": {
+        "location": {
+          "address": null
+        }
+      },
+      "proof_of_delivery": {
+        "attachment": {
+          "attachment_id": "7c792576-d386-487e-9c67-676acd1aec35",
+          "attachment_type": "Image_Ref"
+        },
+        "service_actions": null
+      }
+    }
+  }
+}
