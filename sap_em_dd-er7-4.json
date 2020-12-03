@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "DD-ER7",
-    "event_reason": "No Address", 
+    "event_type": "",
+    "event_reason": "", 
     "event_date_time": "",
     "data_entry_type": "", 
     "article": {
-      "article_id": "848032164704249480717304092484",
-      "full_barcode": "00393283500245003117 ",
+      "article_id": "",
+      "full_barcode": "00393283500245003155 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "International",
+        "work_centre_code": "",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "APP",
+      "event_source_name": "",
     },
     "consignment": null,
     "device": {
@@ -34,11 +34,11 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-9.7694",
-          "longitude": "42.761",
-          "heading": "1",
-          "speed": "47",
-          "height": "9",
+          "latitude": "21.9845",
+          "longitude": "73.2587",
+          "heading": "0",
+          "speed": "39",
+          "height": "13",
           "geocode_date_time": "",
         }
       }
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "Genoveva Lakin",
+      "contact_details": "",
       "location": {
-        "address": "Bedfordshire"
+        "address": ""
       }
     },
     "sender": null,
