@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "",
-    "event_reason": "", 
-    "event_date_time": "2020-12-07 09:08:10.0113088",
+    "event_type": "DD-ER7",
+    "event_reason": "No Address", 
+    "event_date_time": "2020-12-07 10:40:33.8336357",
     "data_entry_type": "", 
     "article": {
-      "article_id": "",
-      "full_barcode": "00393283500245003261 ",
+      "article_id": "471018369881381013634408900539",
+      "full_barcode": "00393283500245003339 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "",
+        "work_centre_code": "International",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "",
+      "event_source_name": "WEB",
     },
     "consignment": null,
     "device": {
@@ -34,19 +34,19 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-51.7828",
-          "longitude": "6.123",
-          "heading": "1",
-          "speed": "19",
-          "height": "15",
+          "latitude": "30.1689",
+          "longitude": "-81.3321",
+          "heading": "0",
+          "speed": "2",
+          "height": "7",
           "geocode_date_time": "",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "",
-        "sender_name": ""
+        "sender_id": "AUSVIC",
+        "sender_name": "AUSWA "
       },
       "person": {
         "user_name": "Huw Price",
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "",
+      "contact_details": "Daniela Schroeder",
       "location": {
-        "address": ""
+        "address": "Borders"
       }
     },
     "sender": null,
