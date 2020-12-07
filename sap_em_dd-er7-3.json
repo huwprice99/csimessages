@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "",
-    "event_reason": "", 
-    "event_date_time": "2020-12-07 09:08:19.5986745",
-    "data_entry_type": "", 
+    "event_type": "DD-ER7",
+    "event_reason": "Damaged", 
+    "event_date_time": "2020-12-07 11:30:20.7294678",
+    "data_entry_type": "Manual", 
     "article": {
-      "article_id": "",
-      "full_barcode": "00393283500245003292 ",
+      "article_id": "00393283500245003391 ",
+      "full_barcode": "00393283500245003391 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,14 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "",
-        "location_name": "",
+        "work_centre_code": "608278",
+        "location_name": "BUNBURY DC"
       }
     },
+
     "audit": {
-      "event_id": "",
-      "event_source_name": "",
+      "event_id": "6b5479aa-16e7-4c85-b9fe-c1ff50db1353",
+      "event_source_name": "MOBILESTAR"
     },
     "consignment": null,
     "device": {
@@ -34,30 +35,30 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-13.2352",
-          "longitude": "13.5871",
+          "latitude": "-76.2342",
+          "longitude": "107.2977",
           "heading": "1",
-          "speed": "1",
-          "height": "8",
-          "geocode_date_time": "",
+          "speed": "34",
+          "height": "10",
+          "geocode_date_time": "2020-12-07 11:30:20.7294678",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "",
-        "sender_name": ""
+        "sender_id": "MOBILESTAR",
+        "sender_name": "MOBILESTAR"
       },
       "person": {
-        "user_name": "Huw Price",
-        "user_role": "User",
-        "person_id": "huwpr",
+        "user_name": "KONETIS",
+        "user_role": "PDO",
+        "person_id": "25513"
       }
     },
     "receiver": {
-      "contact_details": "",
+      "contact_details": null,
       "location": {
-        "address": ""
+        "address": null
       }
     },
     "sender": null,

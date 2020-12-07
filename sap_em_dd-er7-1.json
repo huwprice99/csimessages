@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "",
-    "event_reason": "", 
-    "event_date_time": "2020-12-07 09:08:16.7633871",
-    "data_entry_type": "", 
+    "event_type": "DD-ER7",
+    "event_reason": "Damaged", 
+    "event_date_time": "2020-12-07 11:30:16.2317307",
+    "data_entry_type": "Manual", 
     "article": {
-      "article_id": "",
-      "full_barcode": "00393283500245003278 ",
+      "article_id": "00393283500245003377 ",
+      "full_barcode": "00393283500245003377 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,14 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "",
-        "location_name": "",
+        "work_centre_code": "608278",
+        "location_name": "BUNBURY DC"
       }
     },
+
     "audit": {
-      "event_id": "",
-      "event_source_name": "",
+      "event_id": "6b5479aa-16e7-4c85-b9fe-c1ff50db1353",
+      "event_source_name": "MOBILESTAR"
     },
     "consignment": null,
     "device": {
@@ -34,30 +35,30 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-3.9856",
-          "longitude": "-160.9504",
-          "heading": "0",
-          "speed": "49",
-          "height": "19",
-          "geocode_date_time": "",
+          "latitude": "-77.2089",
+          "longitude": "-107.8758",
+          "heading": "1",
+          "speed": "21",
+          "height": "20",
+          "geocode_date_time": "2020-12-07 11:30:16.2317307",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "",
-        "sender_name": ""
+        "sender_id": "MOBILESTAR",
+        "sender_name": "MOBILESTAR"
       },
       "person": {
-        "user_name": "Huw Price",
-        "user_role": "User",
-        "person_id": "huwpr",
+        "user_name": "KONETIS",
+        "user_role": "PDO",
+        "person_id": "25513"
       }
     },
     "receiver": {
-      "contact_details": "",
+      "contact_details": null,
       "location": {
-        "address": ""
+        "address": null
       }
     },
     "sender": null,
