@@ -7,7 +7,7 @@
     "data_entry_type": "", 
     "article": {
       "article_id": "",
-      "full_barcode": "00393283500245003223 ",
+      "full_barcode": "00393283500245003247 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -34,11 +34,11 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "15.5768",
-          "longitude": "139.8518",
+          "latitude": "-51.8069",
+          "longitude": "-119.9608",
           "heading": "1",
-          "speed": "48",
-          "height": "12",
+          "speed": "6",
+          "height": "5",
           "geocode_date_time": "",
         }
       }
