@@ -3,11 +3,11 @@
   "article_events": {
     "event_type": "",
     "event_reason": "", 
-    "event_date_time": "",
+    "event_date_time": "2020-12-07 09:08:20.9784549",
     "data_entry_type": "", 
     "article": {
       "article_id": "",
-      "full_barcode": "00393283500245003155 ",
+      "full_barcode": "00393283500245003308 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -34,19 +34,19 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "21.9845",
-          "longitude": "73.2587",
+          "latitude": "-68.4795",
+          "longitude": "139.0096",
           "heading": "0",
-          "speed": "39",
-          "height": "13",
+          "speed": "15",
+          "height": "19",
           "geocode_date_time": "",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "",
+        "sender_name": ""
       },
       "person": {
         "user_name": "Huw Price",

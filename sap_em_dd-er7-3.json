@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "DD-ER7",
-    "event_reason": "No Address", 
-    "event_date_time": "",
+    "event_type": "",
+    "event_reason": "", 
+    "event_date_time": "2020-12-07 09:08:19.5986745",
     "data_entry_type": "", 
     "article": {
-      "article_id": "177421879533373026696903627620",
-      "full_barcode": "00393283500245003148 ",
+      "article_id": "",
+      "full_barcode": "00393283500245003292 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "CSI",
+        "work_centre_code": "",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "WEB",
+      "event_source_name": "",
     },
     "consignment": null,
     "device": {
@@ -34,19 +34,19 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "85.3076",
-          "longitude": "-12.7739",
+          "latitude": "-13.2352",
+          "longitude": "13.5871",
           "heading": "1",
-          "speed": "8",
-          "height": "15",
+          "speed": "1",
+          "height": "8",
           "geocode_date_time": "",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "",
+        "sender_name": ""
       },
       "person": {
         "user_name": "Huw Price",
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "Vinnie Klein",
+      "contact_details": "",
       "location": {
-        "address": "Avon"
+        "address": ""
       }
     },
     "sender": null,

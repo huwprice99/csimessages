@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "DD-ER7",
-    "event_reason": "No Address", 
-    "event_date_time": "",
+    "event_type": "",
+    "event_reason": "", 
+    "event_date_time": "2020-12-07 09:08:18.1911171",
     "data_entry_type": "", 
     "article": {
-      "article_id": "726372840047635343856408024134",
-      "full_barcode": "00393283500245003131 ",
+      "article_id": "",
+      "full_barcode": "00393283500245003285 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "LOCAL",
+        "work_centre_code": "",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "WEB",
+      "event_source_name": "",
     },
     "consignment": null,
     "device": {
@@ -34,10 +34,10 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-13.2248",
-          "longitude": "-112.2476",
+          "latitude": "-55.0945",
+          "longitude": "99.0812",
           "heading": "0",
-          "speed": "17",
+          "speed": "13",
           "height": "16",
           "geocode_date_time": "",
         }
@@ -45,8 +45,8 @@
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "",
+        "sender_name": ""
       },
       "person": {
         "user_name": "Huw Price",
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "Mckenzie Lang",
+      "contact_details": "",
       "location": {
-        "address": "Cambridgeshire"
+        "address": ""
       }
     },
     "sender": null,

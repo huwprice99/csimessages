@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "DD-ER7",
-    "event_reason": "No Address", 
-    "event_date_time": "",
+    "event_type": "",
+    "event_reason": "", 
+    "event_date_time": "2020-12-07 09:08:16.7633871",
     "data_entry_type": "", 
     "article": {
-      "article_id": "429650766702076056702193997525",
-      "full_barcode": "00393283500245003124 ",
+      "article_id": "",
+      "full_barcode": "00393283500245003278 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "International",
+        "work_centre_code": "",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "PO",
+      "event_source_name": "",
     },
     "consignment": null,
     "device": {
@@ -34,19 +34,19 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "52.1167",
-          "longitude": "82.0418",
-          "heading": "1",
-          "speed": "28",
-          "height": "6",
+          "latitude": "-3.9856",
+          "longitude": "-160.9504",
+          "heading": "0",
+          "speed": "49",
+          "height": "19",
           "geocode_date_time": "",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "",
+        "sender_name": ""
       },
       "person": {
         "user_name": "Huw Price",
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "Bryon Stroman",
+      "contact_details": "",
       "location": {
-        "address": "Avon"
+        "address": ""
       }
     },
     "sender": null,
