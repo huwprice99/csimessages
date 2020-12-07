@@ -1,13 +1,13 @@
 
 {
   "article_events": {
-    "event_type": "DD-ER7",
-    "event_reason": "No Address", 
-    "event_date_time": "",
+    "event_type": "",
+    "event_reason": "", 
+    "event_date_time": "26:13.0",
     "data_entry_type": "", 
     "article": {
-      "article_id": "848032164704249480717304092484",
-      "full_barcode": "00393283500245003117 ",
+      "article_id": "",
+      "full_barcode": "00393283500245003223 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,13 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "International",
+        "work_centre_code": "",
         "location_name": "",
       }
     },
     "audit": {
       "event_id": "",
-      "event_source_name": "APP",
+      "event_source_name": "",
     },
     "consignment": null,
     "device": {
@@ -34,19 +34,19 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-9.7694",
-          "longitude": "42.761",
+          "latitude": "15.5768",
+          "longitude": "139.8518",
           "heading": "1",
-          "speed": "47",
-          "height": "9",
+          "speed": "48",
+          "height": "12",
           "geocode_date_time": "",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "",
+        "sender_name": ""
       },
       "person": {
         "user_name": "Huw Price",
@@ -55,9 +55,9 @@
       }
     },
     "receiver": {
-      "contact_details": "Genoveva Lakin",
+      "contact_details": "",
       "location": {
-        "address": "Bedfordshire"
+        "address": ""
       }
     },
     "sender": null,
