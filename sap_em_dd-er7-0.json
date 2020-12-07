@@ -2,12 +2,12 @@
 {
   "article_events": {
     "event_type": "DD-ER7",
-    "event_reason": "No Address", 
-    "event_date_time": "2020-12-07 10:40:33.8336357",
-    "data_entry_type": "", 
+    "event_reason": "Damaged", 
+    "event_date_time": "2020-12-07 11:18:14.5115615",
+    "data_entry_type": "Manual", 
     "article": {
-      "article_id": "471018369881381013634408900539",
-      "full_barcode": "00393283500245003339 ",
+      "article_id": "00393283500245003346 ",
+      "full_barcode": "00393283500245003346 ",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -17,13 +17,14 @@
     },
     "facility": {
       "location": {
-        "work_centre_code": "International",
-        "location_name": "",
+        "work_centre_code": "608278",
+        "location_name": "BUNBURY DC"
       }
     },
+
     "audit": {
-      "event_id": "",
-      "event_source_name": "WEB",
+      "event_id": "6b5479aa-16e7-4c85-b9fe-c1ff50db1353",
+      "event_source_name": "MOBILESTAR"
     },
     "consignment": null,
     "device": {
@@ -34,30 +35,30 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "30.1689",
-          "longitude": "-81.3321",
+          "latitude": "75.3103",
+          "longitude": "74.5451",
           "heading": "0",
-          "speed": "2",
+          "speed": "44",
           "height": "7",
-          "geocode_date_time": "",
+          "geocode_date_time": "2020-12-07 11:18:14.5115615",
         }
       }
     },
     "event_originator": {
       "system": {
-        "sender_id": "AUSVIC",
-        "sender_name": "AUSWA "
+        "sender_id": "MOBILESTAR",
+        "sender_name": "MOBILESTAR"
       },
       "person": {
-        "user_name": "Huw Price",
-        "user_role": "User",
-        "person_id": "huwpr",
+        "user_name": "KONETIS",
+        "user_role": "PDO",
+        "person_id": "25513"
       }
     },
     "receiver": {
-      "contact_details": "Daniela Schroeder",
+      "contact_details": null,
       "location": {
-        "address": "Borders"
+        "address": null
       }
     },
     "sender": null,
