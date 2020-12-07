@@ -35,11 +35,11 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-2.0465",
-          "longitude": "178.2313",
+          "latitude": "-83.8235",
+          "longitude": "-94.8294",
           "heading": "1",
-          "speed": "36",
-          "height": "6",
+          "speed": "3",
+          "height": "15",
           "geocode_date_time": "2020-12-07 11:51:54.4644651",
         }
       }
