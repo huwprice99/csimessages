@@ -3,11 +3,11 @@
   "article_events": {
     "event_type": "DD-ER7",
     "event_reason": "Damaged", 
-    "event_date_time": "2020-12-10 10:15:08.6018779",
+    "event_date_time": "2020-12-11 10:32:32.3650247",
     "data_entry_type": "Manual", 
     "article": {
-      "article_id": "00393283500245004053",
-      "full_barcode": "00393283500245004053",
+      "article_id": "00393283500245004206",
+      "full_barcode": "00393283500245004206",
       "product": {
         "sub_product_id": "60",
         "base_service_code": "08",
@@ -35,12 +35,12 @@
       "model": "TC56",
       "location": {
         "geocode": {
-          "latitude": "-7.1445",
-          "longitude": "-81.7731",
+          "latitude": "71.9819",
+          "longitude": "-178.6383",
           "heading": "1",
-          "speed": "19",
-          "height": "15",
-          "geocode_date_time": "2020-12-10 10:15:08.6018779",
+          "speed": "31",
+          "height": "13",
+          "geocode_date_time": "2020-12-11 10:32:32.3650247",
         }
       }
     },
