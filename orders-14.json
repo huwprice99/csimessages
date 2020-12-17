@@ -1,0 +1,91 @@
+
+{
+  "article_events": {
+    "event_type": "",
+    "event_reason": "", 
+    "event_date_time": "",
+    "data_entry_type": "Manual", 
+    "article": {
+      "article_id": "",
+      "full_barcode": "",
+      "product": {
+        "sub_product_id": "60",
+        "base_service_code": "08",
+        "international_details": null
+      },
+      "status": null
+    },
+    "facility": {
+      "location": {
+        "work_centre_code": "608278",
+        "location_name": "BUNBURY DC"
+      }
+    },
+
+    "audit": {
+      "event_id": "6b5479aa-16e7-4c85-b9fe-c1ff50db1353",
+      "event_source_name": "MOBILESTAR"
+    },
+    "consignment": null,
+    "device": {
+      "software_version": "1.52.0.40702",
+      "serial_number": "17103522504972",
+      "IMEI": "353857080115740",
+      "device_id": "50bf1929a01ac719",
+      "model": "TC56",
+      "location": {
+        "geocode": {
+          "latitude": "87.5079",
+          "longitude": "161.9972",
+          "heading": "0",
+          "speed": "10",
+          "height": "8",
+          "geocode_date_time": "",
+        }
+      }
+    },
+    "event_originator": {
+      "system": {
+        "sender_id": "MOBILESTAR",
+        "sender_name": "MOBILESTAR"
+      },
+      "person": {
+        "user_name": "KONETIS",
+        "user_role": "PDO",
+        "person_id": "25513"
+      }
+    },
+    "receiver": {
+      "contact_details": null,
+      "location": {
+        "address": null
+      }
+    },
+    "sender": null,
+    "transfer_to": {
+      "to_location": {
+        "location": null
+      }
+    },
+    "transportation": {
+      "round_number": "0003"
+    },
+    "measurement": null,
+    "container": null,
+    "legacy": null,
+    "delivery": {
+      "requested_location": {
+        "location": {
+          "address": null
+        }
+      },
+      "proof_of_delivery": {
+        "attachment": {
+          "attachment_id": "7c792576-d386-487e-9c67-676acd1aec35",
+          "attachment_type": "Image_Ref"
+        },
+        "service_actions": null
+      }
+    }
+  }
+}
