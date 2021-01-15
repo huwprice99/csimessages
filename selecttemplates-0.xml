@@ -1,0 +1,27 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CCR001-FinancialData schemaLocation="urn:fsa-gov-uk:MER:CCR001:1 "
+                        http://www.fsa.gov.uk/MER/DRG/DRG/CCR001/v1/CCR001-Schema.xsd" reportingBasis="unconsolidated" currency="GBP" units="single">
+    
+    <BalanceSheetItems>
+        <TotalFundsOrCapital>611182</TotalFundsOrCapital>
+        <IntangibleAssetsOrInvestments>372699</IntangibleAssetsOrInvestments>
+        <SubordinatedDebtAndLoans>651020</SubordinatedDebtAndLoans>
+        <CurrentAssets>
+            <Cash>319572</Cash>
+            <DebtorsOrOther>234076</DebtorsOrOther>
+        </CurrentAssets>
+        <CurrentLiabilities>
+            <Creditors>121386</Creditors>
+        </CurrentLiabilities>
+        <LargestExposures>
+            <Amount>858133</Amount>
+            <CounterpartyName>xgdaTrSQsVsACsyeVcARoNbnFGeVAKbmxXwBEyj</CounterpartyName>
+            <TypeOfExposure>Debtor</TypeOfExposure>
+        </LargestExposures>
+    </BalanceSheetItems>
+    <IncomeStatement>
+        <TotalIncome>400324</TotalIncome>
+        <RetainedProfit>862995</RetainedProfit>
+    </IncomeStatement>
+</CCR001-FinancialData>

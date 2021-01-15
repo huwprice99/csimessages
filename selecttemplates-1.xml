@@ -1,0 +1,83 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<CCR002-Volumes schemaLocation="urn:fsa-gov-uk:MER:CCR002:4 CCR002-Schema.xsd" reportingBasis="unconsolidated" currency="GBP" units="single">
+    <Activities>
+        <Lending>
+            <DebtPurchasing>
+                <FeeMechanism>on-going only</FeeMechanism>
+                <Revenue>12345</Revenue>
+                <TotalCustomers>1000</TotalCustomers>
+                <TotalTransactions>1600</TotalTransactions>
+            </DebtPurchasing>
+            <HirePurchaseCondSaleAgreements>
+                <FeeMechanism>on-going only</FeeMechanism>
+                <Revenue>469877</Revenue>
+                <TotalCustomers>1001</TotalCustomers>
+                <TotalTransactions>1700</TotalTransactions>
+            </HirePurchaseCondSaleAgreements>
+            <HomeCreditLoanAgreements>
+                <FeeMechanism>mainly upfront</FeeMechanism>
+                <Revenue>432748</Revenue>
+                <TotalCustomers>1002</TotalCustomers>
+                <TotalTransactions>1800</TotalTransactions>
+            </HomeCreditLoanAgreements>
+            <BillOfSaleLoanAgreements>
+                <FeeMechanism>mainly upfront</FeeMechanism>
+                <Revenue>988238</Revenue>
+                <TotalCustomers>1003</TotalCustomers>
+                <TotalTransactions>1601</TotalTransactions>
+            </BillOfSaleLoanAgreements>
+            <Pawnbroking>
+                <FeeMechanism>interest only</FeeMechanism>
+                <Revenue>420127</Revenue>
+                <TotalCustomers>1004</TotalCustomers>
+                <TotalTransactions>1701</TotalTransactions>
+            </Pawnbroking>
+            <HighCostShortTermCredit>
+                <FeeMechanism>mainly interest</FeeMechanism>
+                <Revenue>860976</Revenue>
+                <TotalCustomers>1005</TotalCustomers>
+                <TotalTransactions>1801</TotalTransactions>
+            </HighCostShortTermCredit>
+            <Overdrafts>
+                <FeeMechanism>mainly interest</FeeMechanism>
+                <Revenue>220628</Revenue>
+                <TotalCustomers>1000</TotalCustomers>
+                <TotalTransactions>1500</TotalTransactions>
+            </Overdrafts>
+            <OtherRunningAccountCredit>
+                <FeeMechanism>combination</FeeMechanism>
+                <Revenue>844849</Revenue>
+                <TotalCustomers>1006</TotalCustomers>
+                <TotalTransactions>1602</TotalTransactions>
+            </OtherRunningAccountCredit>
+            <OtherLending>
+                <FeeMechanism>upfront only</FeeMechanism>
+                <Revenue>161799</Revenue>
+                <TotalCustomers>1007</TotalCustomers>
+                <TotalTransactions>1702</TotalTransactions>
+            </OtherLending>
+        </Lending>
+        <CreditBroking>
+            <FeeMechanism>mainly interest</FeeMechanism>
+            <Revenue>939190</Revenue>
+            <TotalCustomers>4701</TotalCustomers>
+            <TotalTransactions>7323</TotalTransactions>
+        </CreditBroking>
+        <DebtManagementActivity>
+            <FeeMechanism>combination</FeeMechanism>
+            <Revenue>959379</Revenue>
+            <TotalCustomers>1009</TotalCustomers>
+            <TotalTransactions>1603</TotalTransactions>
+        </DebtManagementActivity>
+        <AllOtherCreditRelatedActivity>
+            <FeeMechanism>combination</FeeMechanism>
+            <Revenue>895374</Revenue>
+            <TotalCustomers>1010</TotalCustomers>
+            <TotalTransactions>1703</TotalTransactions>
+        </AllOtherCreditRelatedActivity>
+    </Activities>
+    <Fees>
+        <TotalAnnualIncome>983755</TotalAnnualIncome>
+    </Fees>
+</CCR002-Volumes>
