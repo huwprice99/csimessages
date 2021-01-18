@@ -6,101 +6,101 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber>244538</FirmReferenceNumber>
+            <FirmReferenceNumber>227348</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
     <LargeExposures>
-        <CapitalResourcesBIPRU10-5-3R>936870</CapitalResourcesBIPRU10-5-3R>
-        <CapitalResourcesBIPRU10-5-4R>993548</CapitalResourcesBIPRU10-5-4R>
+        <CapitalResourcesBIPRU10-5-3R>480177</CapitalResourcesBIPRU10-5-3R>
+        <CapitalResourcesBIPRU10-5-4R>846115</CapitalResourcesBIPRU10-5-4R>
         <Exposures>
             <Exposure>
-                <Counterparty>rVtoMSFGhgAaaEFKf</Counterparty>
-                <GrossExposure>420363</GrossExposure>
-                <Percentage10-5-3>44.86887</Percentage10-5-3>
-                <FundedCreditProtection>149673</FundedCreditProtection>
-                <UnfundedCreditProtection>560103</UnfundedCreditProtection>
-                <ExposureMitigation>2011732</ExposureMitigation>
+                <Counterparty>omsxhkokvIaOoUNGN</Counterparty>
+                <GrossExposure>216878</GrossExposure>
+                <Percentage10-5-3>45.16626</Percentage10-5-3>
+                <FundedCreditProtection>275492</FundedCreditProtection>
+                <UnfundedCreditProtection>647714</UnfundedCreditProtection>
+                <ExposureMitigation>2416891</ExposureMitigation>
                 <OfWhich>
                     <ExemptExposures>
-                        <Amount>332090</Amount>
-                        <ExemptPercentage>35.44675</ExemptPercentage>
+                        <Amount>947450</Amount>
+                        <ExemptPercentage>197.3127</ExemptPercentage>
                     </ExemptExposures>
                     <NonExemptExposures>
-                        <NonTradingBook>896574</NonTradingBook>
-                        <NonTradingBookPercentage>95.69887</NonTradingBookPercentage>
-                        <TradingBook>783068</TradingBook>
-                        <TradingBookPercentage>83.58342</TradingBookPercentage>
-                        <AggregatePercentage>179.2823</AggregatePercentage>
+                        <NonTradingBook>756113</NonTradingBook>
+                        <NonTradingBookPercentage>157.4655</NonTradingBookPercentage>
+                        <TradingBook>713328</TradingBook>
+                        <TradingBookPercentage>148.5552</TradingBookPercentage>
+                        <AggregatePercentage>306.0207</AggregatePercentage>
                     </NonExemptExposures>
                 </OfWhich>
                 <TradingBookConcentrationRiskExcesses>
-                    <Percentage10-5-4>55</Percentage10-5-4>
-                    <LessTenDaysPercentage>20</LessTenDaysPercentage>
-                    <MoreTenDaysPercentage>35</MoreTenDaysPercentage>
+                    <Percentage10-5-4>51</Percentage10-5-4>
+                    <LessTenDaysPercentage>33</LessTenDaysPercentage>
+                    <MoreTenDaysPercentage>18</MoreTenDaysPercentage>
                 </TradingBookConcentrationRiskExcesses>
-                <CNCOM>692707</CNCOM>
-                <PDPercentage>27</PDPercentage>
-                <LGDPercentage>37</LGDPercentage>
-                <ELPercentage>34</ELPercentage>
-                <CreditRiskCapitalRequirement>240236</CreditRiskCapitalRequirement>
+                <CNCOM>319650</CNCOM>
+                <PDPercentage>33</PDPercentage>
+                <LGDPercentage>69</LGDPercentage>
+                <ELPercentage>13</ELPercentage>
+                <CreditRiskCapitalRequirement>546271</CreditRiskCapitalRequirement>
             </Exposure>
             <Total>
-                <Aggregate>179.2823</Aggregate>
+                <Aggregate>306.0207</Aggregate>
                 <TradingBookConcentrationRiskExcesses>
-                    <LessTenDaysPercentage>20</LessTenDaysPercentage>
-                    <MoreTenDaysPercentage>35</MoreTenDaysPercentage>
+                    <LessTenDaysPercentage>33</LessTenDaysPercentage>
+                    <MoreTenDaysPercentage>18</MoreTenDaysPercentage>
                 </TradingBookConcentrationRiskExcesses>
-                <CNCOM>692707</CNCOM>
+                <CNCOM>319650</CNCOM>
             </Total>
         </Exposures>
         <ConfirmFSANotified>true</ConfirmFSANotified>
     </LargeExposures>
     <ConnectedCounterparties>
         <CounterpartiesUnder2-5>
-            <Counterparty>CIFaeuAHQasUnMTxnqvAobYOrSQDKpCbdnuIAUaQjnTIHTIgGxXTTFwAIQJmDVWBxqRasmWspEragq</Counterparty>
-            <GrossExposure>872496</GrossExposure>
-            <Percentage10-5-3>93.12882</Percentage10-5-3>
-            <FundedCreditProtection>547620</FundedCreditProtection>
-            <UnfundedCreditProtection>441867</UnfundedCreditProtection>
-            <ExposureMitigation>1250278</ExposureMitigation>
+            <Counterparty>aSeuSCcdwSbFcWPunoRPJJmhKRtqddXQ</Counterparty>
+            <GrossExposure>294493</GrossExposure>
+            <Percentage10-5-3>61.33009</Percentage10-5-3>
+            <FundedCreditProtection>628489</FundedCreditProtection>
+            <UnfundedCreditProtection>331299</UnfundedCreditProtection>
+            <ExposureMitigation>1020348</ExposureMitigation>
             <OfWhich>
                 <ExemptExposures>
-                    <Amount>788344</Amount>
-                    <ExemptPercentage>84.14657</ExemptPercentage>
+                    <Amount>126763</Amount>
+                    <ExemptPercentage>26.39923</ExemptPercentage>
                 </ExemptExposures>
                 <NonExemptExposures>
-                    <NonTradingBook>259783</NonTradingBook>
-                    <NonTradingBookPercentage>27.72882</NonTradingBookPercentage>
-                    <TradingBook>202151</TradingBook>
-                    <TradingBookPercentage>21.57727</TradingBookPercentage>
-                    <AggregatePercentage>49.3061</AggregatePercentage>
+                    <NonTradingBook>634910</NonTradingBook>
+                    <NonTradingBookPercentage>132.2242</NonTradingBookPercentage>
+                    <TradingBook>258675</TradingBook>
+                    <TradingBookPercentage>53.87076</TradingBookPercentage>
+                    <AggregatePercentage>186.0949</AggregatePercentage>
                 </NonExemptExposures>
             </OfWhich>
         </CounterpartiesUnder2-5>
         <CounterpartyAbove2-5>
-            <Counterparty>gwlJVnqIgxPSYJkOnnqskrcIOvAGEqpvutJnbTYJkOlulynngAreKNfOuBUBLIdPjvzFYXMtnFgvhHzqjnAeY</Counterparty>
-            <GrossExposure>702256</GrossExposure>
-            <Percentage10-5-3>74.95768</Percentage10-5-3>
-            <FundedCreditProtection>216749</FundedCreditProtection>
-            <UnfundedCreditProtection>334911</UnfundedCreditProtection>
-            <ExposureMitigation>1256320</ExposureMitigation>
+            <Counterparty>pgWxBcvIqtLsmEsLlvaGVPerHWIajLasTkrVatRlSlAqXSUgzHfHcsUybGOEuuzDttybowKQCPMMqNsObCBBFspBpSTuDo</Counterparty>
+            <GrossExposure>565587</GrossExposure>
+            <Percentage10-5-3>117.7872</Percentage10-5-3>
+            <FundedCreditProtection>425898</FundedCreditProtection>
+            <UnfundedCreditProtection>797949</UnfundedCreditProtection>
+            <ExposureMitigation>1508137</ExposureMitigation>
             <OfWhich>
                 <ExemptExposures>
-                    <Amount>887054</Amount>
-                    <ExemptPercentage>94.68272</ExemptPercentage>
+                    <Amount>286923</Amount>
+                    <ExemptPercentage>59.75359</ExemptPercentage>
                 </ExemptExposures>
                 <NonExemptExposures>
-                    <NonTradingBook>235915</NonTradingBook>
-                    <NonTradingBookPercentage>25.18119</NonTradingBookPercentage>
-                    <TradingBook>133351</TradingBook>
-                    <TradingBookPercentage>14.23367</TradingBookPercentage>
-                    <AggregatePercentage>39.41486</AggregatePercentage>
+                    <NonTradingBook>576115</NonTradingBook>
+                    <NonTradingBookPercentage>119.9797</NonTradingBookPercentage>
+                    <TradingBook>645099</TradingBook>
+                    <TradingBookPercentage>134.3461</TradingBookPercentage>
+                    <AggregatePercentage>254.3258</AggregatePercentage>
                 </NonExemptExposures>
             </OfWhich>
         </CounterpartyAbove2-5>
-        <TotalGrossExposure>702256</TotalGrossExposure>
+        <TotalGrossExposure>565587</TotalGrossExposure>
     </ConnectedCounterparties>
 
 </FSA008-LargeExposures>

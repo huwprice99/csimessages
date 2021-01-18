@@ -5,33 +5,25 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>265164</FirmReferenceNumber>
+            <FirmReferenceNumber>283341</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
 
     <WholesaleDeposits>
         <FundingDetail>
-            <Counterparty>RandomHelper.GetRandomString(RandomHelper.GetRandomInt(1,100),false,false).ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Counterparty>
-            <Amount></Amount>
-            <WeightedAverageMaturity>RandomHelper.GetRandomFormattedString("##.#").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</WeightedAverageMaturity>
+            <Counterparty>tNSJrVKtHvnSplMttfbOIDPOK</Counterparty>
+            <Amount>581269</Amount>
+            <WeightedAverageMaturity>89.0</WeightedAverageMaturity>
         </FundingDetail>
     </WholesaleDeposits>
 
 
     <RepoFunding>
         <FundingDetail>
-            <Counterparty>RandomHelper.GetRandomString(RandomHelper.GetRandomInt(1,100),false,false).ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Counterparty>
-            <Amount></Amount>
-            <WeightedAverageMaturity>RandomHelper.GetRandomFormattedString("##.#").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</WeightedAverageMaturity>
+            <Counterparty>znCKkcDusvlRJtgwDVMEMrazomGuhaOXdYRJhIxtJyWODAIMTteHckWhmdxXvjmsFkOKAxoUzuToukVMDTzN</Counterparty>
+            <Amount>273359</Amount>
+            <WeightedAverageMaturity>80.7</WeightedAverageMaturity>
         </FundingDetail>
     </RepoFunding>
     

@@ -5,7 +5,7 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber>3137</FirmReferenceNumber>
+            <FirmReferenceNumber>2319</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
@@ -15,35 +15,35 @@
         <CentralGovernmentsBanks>
             <NoExposure>false</NoExposure>
             <PiTOrTTC>PiT</PiTOrTTC>
-            <DefaultDays>2</DefaultDays>
+            <DefaultDays>5</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.642</LowerBound>
-                        <UpperBound>1.205</UpperBound>
+                        <LowerBound>0.594</LowerBound>
+                        <UpperBound>1.836</UpperBound>
                     </PDRange>
-                    <GrossExposure>3586</GrossExposure>
-                    <ExposureAtDefaultEstimate>7070</ExposureAtDefaultEstimate>
+                    <GrossExposure>7162</GrossExposure>
+                    <ExposureAtDefaultEstimate>3518</ExposureAtDefaultEstimate>
                     <Maturity>9</Maturity>
-                    <ProbabilityOfDefault>0.197</ProbabilityOfDefault>
-                    <LossGivenDefault>0.034</LossGivenDefault>
-                    <ExpectedLoss>4401</ExpectedLoss>
-                    <RWEA>1228</RWEA>
+                    <ProbabilityOfDefault>0.328</ProbabilityOfDefault>
+                    <LossGivenDefault>0.96</LossGivenDefault>
+                    <ExpectedLoss>2477</ExpectedLoss>
+                    <RWEA>1909</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>9790</GrossExposure>
-                    <ExposureAtDefaultEstimate>1094</ExposureAtDefaultEstimate>
-                    <Maturity>6</Maturity>
-                    <ProbabilityOfDefault>0.209</ProbabilityOfDefault>
-                    <LossGivenDefault>0.65</LossGivenDefault>
-                    <ExpectedLoss>4716</ExpectedLoss>
-                    <RWEA>6428</RWEA>
+                    <GrossExposure>6002</GrossExposure>
+                    <ExposureAtDefaultEstimate>7654</ExposureAtDefaultEstimate>
+                    <Maturity>3</Maturity>
+                    <ProbabilityOfDefault>0.777</ProbabilityOfDefault>
+                    <LossGivenDefault>0.783</LossGivenDefault>
+                    <ExpectedLoss>8290</ExpectedLoss>
+                    <RWEA>2834</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>13376</GrossExposure>
-                    <ExposureAtDefaultEstimate>8164</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>9117</ExpectedLoss>
-                    <RWEA>7656</RWEA>
+                    <GrossExposure>13164</GrossExposure>
+                    <ExposureAtDefaultEstimate>11172</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>10767</ExpectedLoss>
+                    <RWEA>4743</RWEA>
                 </Total>
             </RiskTable>
         </CentralGovernmentsBanks>
@@ -55,31 +55,31 @@
             <RiskTable>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.658</LowerBound>
-                        <UpperBound>1.469</UpperBound>
+                        <LowerBound>0.302</LowerBound>
+                        <UpperBound>1.895</UpperBound>
                     </PDRange>
-                    <GrossExposure>4367</GrossExposure>
-                    <ExposureAtDefaultEstimate>9182</ExposureAtDefaultEstimate>
+                    <GrossExposure>1738</GrossExposure>
+                    <ExposureAtDefaultEstimate>7520</ExposureAtDefaultEstimate>
                     <Maturity>9</Maturity>
-                    <ProbabilityOfDefault>0.602</ProbabilityOfDefault>
-                    <LossGivenDefault>0.05</LossGivenDefault>
-                    <ExpectedLoss>1747</ExpectedLoss>
-                    <RWEA>9285</RWEA>
+                    <ProbabilityOfDefault>0.374</ProbabilityOfDefault>
+                    <LossGivenDefault>0.103</LossGivenDefault>
+                    <ExpectedLoss>2382</ExpectedLoss>
+                    <RWEA>8609</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>3137</GrossExposure>
-                    <ExposureAtDefaultEstimate>4070</ExposureAtDefaultEstimate>
-                    <Maturity>9</Maturity>
-                    <ProbabilityOfDefault>0.924</ProbabilityOfDefault>
-                    <LossGivenDefault>0.596</LossGivenDefault>
-                    <ExpectedLoss>1380</ExpectedLoss>
-                    <RWEA>1467</RWEA>
+                    <GrossExposure>2319</GrossExposure>
+                    <ExposureAtDefaultEstimate>4383</ExposureAtDefaultEstimate>
+                    <Maturity>1</Maturity>
+                    <ProbabilityOfDefault>0.53</ProbabilityOfDefault>
+                    <LossGivenDefault>0.956</LossGivenDefault>
+                    <ExpectedLoss>1856</ExpectedLoss>
+                    <RWEA>8462</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>7504</GrossExposure>
-                    <ExposureAtDefaultEstimate>13252</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>3127</ExpectedLoss>
-                    <RWEA>10752</RWEA>
+                    <GrossExposure>4057</GrossExposure>
+                    <ExposureAtDefaultEstimate>11903</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>4238</ExpectedLoss>
+                    <RWEA>17071</RWEA>
                 </Total>
             </RiskTable>
         </Institutions>
@@ -87,35 +87,35 @@
         <Corporates>
             <NoExposure>false</NoExposure>
             <PiTOrTTC>PiT</PiTOrTTC>
-            <DefaultDays>1</DefaultDays>
+            <DefaultDays>6</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.503</LowerBound>
-                        <UpperBound>1.025</UpperBound>
+                        <LowerBound>0.298</LowerBound>
+                        <UpperBound>1.33</UpperBound>
                     </PDRange>
-                    <GrossExposure>8339</GrossExposure>
-                    <ExposureAtDefaultEstimate>7875</ExposureAtDefaultEstimate>
-                    <Maturity>3</Maturity>
-                    <ProbabilityOfDefault>0.63</ProbabilityOfDefault>
-                    <LossGivenDefault>0.249</LossGivenDefault>
-                    <ExpectedLoss>5381</ExpectedLoss>
-                    <RWEA>8473</RWEA>
+                    <GrossExposure>8458</GrossExposure>
+                    <ExposureAtDefaultEstimate>2631</ExposureAtDefaultEstimate>
+                    <Maturity>5</Maturity>
+                    <ProbabilityOfDefault>0.236</ProbabilityOfDefault>
+                    <LossGivenDefault>0.453</LossGivenDefault>
+                    <ExpectedLoss>2452</ExpectedLoss>
+                    <RWEA>4663</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>3488</GrossExposure>
-                    <ExposureAtDefaultEstimate>1329</ExposureAtDefaultEstimate>
-                    <Maturity>2</Maturity>
-                    <ProbabilityOfDefault>0.031</ProbabilityOfDefault>
-                    <LossGivenDefault>0.061</LossGivenDefault>
-                    <ExpectedLoss>5609</ExpectedLoss>
-                    <RWEA>9058</RWEA>
+                    <GrossExposure>6097</GrossExposure>
+                    <ExposureAtDefaultEstimate>8195</ExposureAtDefaultEstimate>
+                    <Maturity>1</Maturity>
+                    <ProbabilityOfDefault>0.979</ProbabilityOfDefault>
+                    <LossGivenDefault>0.586</LossGivenDefault>
+                    <ExpectedLoss>9853</ExpectedLoss>
+                    <RWEA>8579</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>11827</GrossExposure>
-                    <ExposureAtDefaultEstimate>9204</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>10990</ExpectedLoss>
-                    <RWEA>17531</RWEA>
+                    <GrossExposure>14555</GrossExposure>
+                    <ExposureAtDefaultEstimate>10826</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>12305</ExpectedLoss>
+                    <RWEA>13242</RWEA>
                 </Total>
             </RiskTable>
         </Corporates>
@@ -126,21 +126,21 @@
         <Mortgages>
             <NoExposure>false</NoExposure>
             <PiTOrTTC></PiTOrTTC>
-            <DefaultDays>3442</DefaultDays>
+            <DefaultDays>9687</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange></PDRange>
-                    <GrossExposure>6976</GrossExposure>
-                    <ExposureAtDefaultEstimate>2676</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.538</ProbabilityOfDefault>
-                    <LossGivenDefault>0.405</LossGivenDefault>
-                    <ExpectedLoss>3473</ExpectedLoss>
-                    <RWEA>8265</RWEA>
+                    <GrossExposure>1103</GrossExposure>
+                    <ExposureAtDefaultEstimate>3838</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.323</ProbabilityOfDefault>
+                    <LossGivenDefault>0.718</LossGivenDefault>
+                    <ExpectedLoss>9671</ExpectedLoss>
+                    <RWEA>6191</RWEA>
                 </BandRow>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.004</LowerBound>
-                        <UpperBound>1.408</UpperBound>
+                        <LowerBound>0.649</LowerBound>
+                        <UpperBound>1.775</UpperBound>
                     </PDRange>
                     <GrossExposure>820</GrossExposure>
                     <ExposureAtDefaultEstimate>420</ExposureAtDefaultEstimate>
@@ -150,17 +150,17 @@
                     <RWEA>80</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>4896</GrossExposure>
-                    <ExposureAtDefaultEstimate>6268</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.465</ProbabilityOfDefault>
-                    <LossGivenDefault>0.656</LossGivenDefault>
-                    <ExpectedLoss>6185</ExpectedLoss>
-                    <RWEA>1016</RWEA>
+                    <GrossExposure>7723</GrossExposure>
+                    <ExposureAtDefaultEstimate>6843</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.734</ProbabilityOfDefault>
+                    <LossGivenDefault>0.803</LossGivenDefault>
+                    <ExpectedLoss>7692</ExpectedLoss>
+                    <RWEA>6245</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>11872</GrossExposure>
-                    <ExposureAtDefaultEstimate>8944</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>9281</ExpectedLoss>
+                    <GrossExposure>8826</GrossExposure>
+                    <ExposureAtDefaultEstimate>10681</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>12436</ExpectedLoss>
                     <RWEA></RWEA>
                 </Total>
             </RiskTable>
@@ -169,32 +169,32 @@
         <QRRE>
             <NoExposure>false</NoExposure>
             <PiTOrTTC></PiTOrTTC>
-            <DefaultDays>8216</DefaultDays>
+            <DefaultDays>1071</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
-					<LowerBound>0.457</LowerBound>
-                    <UpperBound>1.673</UpperBound>
+					<LowerBound>0.849</LowerBound>
+                    <UpperBound>1.924</UpperBound>
 					</PDRange>
-                    <GrossExposure>3099</GrossExposure>
-                    <ExposureAtDefaultEstimate>9225</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.204</ProbabilityOfDefault>
-                    <LossGivenDefault>0.898</LossGivenDefault>
-                    <ExpectedLoss>2443</ExpectedLoss>
-                    <RWEA>4231</RWEA>
+                    <GrossExposure>4927</GrossExposure>
+                    <ExposureAtDefaultEstimate>5216</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.279</ProbabilityOfDefault>
+                    <LossGivenDefault>0.402</LossGivenDefault>
+                    <ExpectedLoss>8639</ExpectedLoss>
+                    <RWEA>3870</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>3447</GrossExposure>
-                    <ExposureAtDefaultEstimate>1069</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.005</ProbabilityOfDefault>
-                    <LossGivenDefault>0.179</LossGivenDefault>
-                    <ExpectedLoss>1201</ExpectedLoss>
-                    <RWEA>5759</RWEA>
+                    <GrossExposure>8670</GrossExposure>
+                    <ExposureAtDefaultEstimate>2458</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.076</ProbabilityOfDefault>
+                    <LossGivenDefault>0.478</LossGivenDefault>
+                    <ExpectedLoss>5800</ExpectedLoss>
+                    <RWEA>1600</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>6546</GrossExposure>
-                    <ExposureAtDefaultEstimate>10294</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>9990</ExpectedLoss>
+                    <GrossExposure>13597</GrossExposure>
+                    <ExposureAtDefaultEstimate>7674</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>5470</ExpectedLoss>
                     <RWEA></RWEA>
                 </Total>
             </RiskTable>
@@ -203,32 +203,32 @@
         <SME>
             <NoExposure>false</NoExposure>
             <PiTOrTTC></PiTOrTTC>
-            <DefaultDays>9598</DefaultDays>
+            <DefaultDays>7441</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
-					<LowerBound>0.361</LowerBound>
-                    <UpperBound>1.204</UpperBound>
+					<LowerBound>0.261</LowerBound>
+                    <UpperBound>1.428</UpperBound>
 					</PDRange>
-                    <GrossExposure>2924</GrossExposure>
-                    <ExposureAtDefaultEstimate>6297</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.911</ProbabilityOfDefault>
-                    <LossGivenDefault>0.584</LossGivenDefault>
-                    <ExpectedLoss>2068</ExpectedLoss>
-                    <RWEA>7020</RWEA>
+                    <GrossExposure>2732</GrossExposure>
+                    <ExposureAtDefaultEstimate>7703</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.44</ProbabilityOfDefault>
+                    <LossGivenDefault>0.007</LossGivenDefault>
+                    <ExpectedLoss>9286</ExpectedLoss>
+                    <RWEA>2209</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>6683</GrossExposure>
-                    <ExposureAtDefaultEstimate>9371</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.079</ProbabilityOfDefault>
-                    <LossGivenDefault>0.241</LossGivenDefault>
-                    <ExpectedLoss>9056</ExpectedLoss>
-                    <RWEA>4178</RWEA>
+                    <GrossExposure>5587</GrossExposure>
+                    <ExposureAtDefaultEstimate>8392</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.844</ProbabilityOfDefault>
+                    <LossGivenDefault>0.321</LossGivenDefault>
+                    <ExpectedLoss>7043</ExpectedLoss>
+                    <RWEA>6882</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>9607</GrossExposure>
-                    <ExposureAtDefaultEstimate>15668</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>11198</ExpectedLoss>
+                    <GrossExposure>8319</GrossExposure>
+                    <ExposureAtDefaultEstimate>16095</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>9091</ExpectedLoss>
                     <RWEA></RWEA>
                 </Total>
             </RiskTable>
@@ -238,32 +238,32 @@
         <Other>
             <NoExposure>false</NoExposure>
             <PiTOrTTC></PiTOrTTC>
-            <DefaultDays>2204</DefaultDays>
+            <DefaultDays>1422</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.7</LowerBound>
-                        <UpperBound>1.648</UpperBound>					
+                        <LowerBound>0.841</LowerBound>
+                        <UpperBound>1.045</UpperBound>					
 					</PDRange>
-                    <GrossExposure>1853</GrossExposure>
-                    <ExposureAtDefaultEstimate>1416</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.798</ProbabilityOfDefault>
-                    <LossGivenDefault>0.124</LossGivenDefault>
-                    <ExpectedLoss>6696</ExpectedLoss>
-                    <RWEA>4844</RWEA>
+                    <GrossExposure>5545</GrossExposure>
+                    <ExposureAtDefaultEstimate>7954</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.303</ProbabilityOfDefault>
+                    <LossGivenDefault>0.757</LossGivenDefault>
+                    <ExpectedLoss>1776</ExpectedLoss>
+                    <RWEA>9098</RWEA>
                 </BandRow>                   
                 <InDefault>
-                    <GrossExposure>1281</GrossExposure>
-                    <ExposureAtDefaultEstimate>9055</ExposureAtDefaultEstimate>
-                    <ProbabilityOfDefault>0.869</ProbabilityOfDefault>
-                    <LossGivenDefault>0.278</LossGivenDefault>
-                    <ExpectedLoss>5839</ExpectedLoss>
-                    <RWEA>1100</RWEA>
+                    <GrossExposure>6657</GrossExposure>
+                    <ExposureAtDefaultEstimate>5771</ExposureAtDefaultEstimate>
+                    <ProbabilityOfDefault>0.196</ProbabilityOfDefault>
+                    <LossGivenDefault>0.708</LossGivenDefault>
+                    <ExpectedLoss>4226</ExpectedLoss>
+                    <RWEA>4056</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>3134</GrossExposure>
-                    <ExposureAtDefaultEstimate>10471</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>5944</ExpectedLoss>
+                    <GrossExposure>12202</GrossExposure>
+                    <ExposureAtDefaultEstimate>13725</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>13154</ExpectedLoss>
                     <RWEA></RWEA>
                 </Total>
             </RiskTable>
@@ -275,29 +275,29 @@
         <CentralGovernmentsBanks>
             <NoExposure>false</NoExposure>
             <PiTOrTTC>PiT</PiTOrTTC>
-            <DefaultDays>2137</DefaultDays>
+            <DefaultDays>3045</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
                         <LowerBound>0.000</LowerBound>
                         <UpperBound>0.035</UpperBound>
                     </PDRange>
-                    <GrossExposure>7574</GrossExposure>
-                    <ExposureAtDefaultEstimate>7416</ExposureAtDefaultEstimate>
-                    <Maturity>2</Maturity>
+                    <GrossExposure>6345</GrossExposure>
+                    <ExposureAtDefaultEstimate>6070</ExposureAtDefaultEstimate>
+                    <Maturity>9</Maturity>
                     <ProbabilityOfDefault>0.025</ProbabilityOfDefault>
                     <LossGivenDefault>0.055</LossGivenDefault>
-                    <ExpectedLoss>9352</ExpectedLoss>
-                    <RWEA>7046</RWEA>
+                    <ExpectedLoss>2587</ExpectedLoss>
+                    <RWEA>7854</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>7889</GrossExposure>
-                    <ExposureAtDefaultEstimate>9990</ExposureAtDefaultEstimate>
-                    <Maturity>2</Maturity>
+                    <GrossExposure>7793</GrossExposure>
+                    <ExposureAtDefaultEstimate>5425</ExposureAtDefaultEstimate>
+                    <Maturity>8</Maturity>
                     <ProbabilityOfDefault>15.005</ProbabilityOfDefault>
                     <LossGivenDefault>0.755</LossGivenDefault>
-                    <ExpectedLoss>6867</ExpectedLoss>
-                    <RWEA>1201</RWEA>
+                    <ExpectedLoss>1500</ExpectedLoss>
+                    <RWEA>7573</RWEA>
                 </InDefault>
                 <Total>
                     <GrossExposure></GrossExposure>
@@ -311,35 +311,35 @@
         <Institutions>
             <NoExposure>false</NoExposure>
             <PiTOrTTC>PiT</PiTOrTTC>
-            <DefaultDays>7010</DefaultDays>
+            <DefaultDays>5289</DefaultDays>
             <RiskTable>
                 <BandRow>
                     <PDRange>
                         <LowerBound>0.000</LowerBound>
                         <UpperBound>0.035</UpperBound>
                     </PDRange>
-                    <GrossExposure>2944</GrossExposure>
-                    <ExposureAtDefaultEstimate>2537</ExposureAtDefaultEstimate>
-                    <Maturity>8</Maturity>
+                    <GrossExposure>1306</GrossExposure>
+                    <ExposureAtDefaultEstimate>2282</ExposureAtDefaultEstimate>
+                    <Maturity>1</Maturity>
                     <ProbabilityOfDefault>0.030</ProbabilityOfDefault>
                     <LossGivenDefault>0.060</LossGivenDefault>
-                    <ExpectedLoss>2823</ExpectedLoss>
-                    <RWEA>8365</RWEA>
+                    <ExpectedLoss>7825</ExpectedLoss>
+                    <RWEA>1207</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>8245</GrossExposure>
-                    <ExposureAtDefaultEstimate>3825</ExposureAtDefaultEstimate>
+                    <GrossExposure>2391</GrossExposure>
+                    <ExposureAtDefaultEstimate>8843</ExposureAtDefaultEstimate>
                     <Maturity>8</Maturity>
                     <ProbabilityOfDefault>15.010</ProbabilityOfDefault>
                     <LossGivenDefault>0.760</LossGivenDefault>
-                    <ExpectedLoss>4300</ExpectedLoss>
-                    <RWEA>9349</RWEA>
+                    <ExpectedLoss>6139</ExpectedLoss>
+                    <RWEA>6185</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>11189</GrossExposure>
-                    <ExposureAtDefaultEstimate>6362</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>7123</ExpectedLoss>
-                    <RWEA>17714</RWEA>
+                    <GrossExposure>3697</GrossExposure>
+                    <ExposureAtDefaultEstimate>11125</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>13964</ExpectedLoss>
+                    <RWEA>7392</RWEA>
                 </Total>
             </RiskTable>
         </Institutions>
@@ -347,36 +347,36 @@
         <Corporates>
             <NoExposure>false</NoExposure>
             <PiTOrTTC>PiT</PiTOrTTC>
-            <DefaultDays>7432</DefaultDays>
+            <DefaultDays>3634</DefaultDays>
             
             <RiskTable>
                 <BandRow>
                     <PDRange>
-                        <LowerBound>0.388</LowerBound>
-                        <UpperBound>1.581</UpperBound>
+                        <LowerBound>0.009</LowerBound>
+                        <UpperBound>1.528</UpperBound>
                     </PDRange>
-                    <GrossExposure>4286</GrossExposure>
-                    <ExposureAtDefaultEstimate>9649</ExposureAtDefaultEstimate>
-                    <Maturity>8</Maturity>
-                    <ProbabilityOfDefault>0.947</ProbabilityOfDefault>
-                    <LossGivenDefault>1.832</LossGivenDefault>
-                    <ExpectedLoss>3188</ExpectedLoss>
-                    <RWEA>7252</RWEA>
+                    <GrossExposure>1580</GrossExposure>
+                    <ExposureAtDefaultEstimate>2371</ExposureAtDefaultEstimate>
+                    <Maturity>9</Maturity>
+                    <ProbabilityOfDefault>0.461</ProbabilityOfDefault>
+                    <LossGivenDefault>1.902</LossGivenDefault>
+                    <ExpectedLoss>7042</ExpectedLoss>
+                    <RWEA>2813</RWEA>
                 </BandRow>
                 <InDefault>
-                    <GrossExposure>7507</GrossExposure>
-                    <ExposureAtDefaultEstimate>5748</ExposureAtDefaultEstimate>
-                    <Maturity>9</Maturity>
-                    <ProbabilityOfDefault>0.727</ProbabilityOfDefault>
-                    <LossGivenDefault>1.133</LossGivenDefault>
-                    <ExpectedLoss>4399</ExpectedLoss>
-                    <RWEA>9586</RWEA>
+                    <GrossExposure>4575</GrossExposure>
+                    <ExposureAtDefaultEstimate>9877</ExposureAtDefaultEstimate>
+                    <Maturity>6</Maturity>
+                    <ProbabilityOfDefault>0.899</ProbabilityOfDefault>
+                    <LossGivenDefault>1.216</LossGivenDefault>
+                    <ExpectedLoss>7279</ExpectedLoss>
+                    <RWEA>6226</RWEA>
                 </InDefault>
                 <Total>
-                    <GrossExposure>14076</GrossExposure>
-                    <ExposureAtDefaultEstimate>10743</ExposureAtDefaultEstimate>
-                    <ExpectedLoss>7904</ExpectedLoss>
-                    <RWEA>13680</RWEA>
+                    <GrossExposure>7582</GrossExposure>
+                    <ExposureAtDefaultEstimate>10025</ExposureAtDefaultEstimate>
+                    <ExpectedLoss>15332</ExpectedLoss>
+                    <RWEA>5647</RWEA>
                 </Total>
             </RiskTable>
             

@@ -6,55 +6,55 @@
         
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>248156</FirmReferenceNumber>
+            <FirmReferenceNumber>292256</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
        
     <RetailDeposits>
         <Current>
-            <TypeABalance></TypeABalance>
-            <TypeBBalance></TypeBBalance>
+            <TypeABalance>74178</TypeABalance>
+            <TypeBBalance>69654</TypeBBalance>
         </Current>
         <TaxAdvantaged>
-            <TypeABalance></TypeABalance>
-            <TypeBBalance></TypeBBalance>
+            <TypeABalance>50998</TypeABalance>
+            <TypeBBalance>20974</TypeBBalance>
         </TaxAdvantaged>
         <OnDemand>
-            <TypeABalance></TypeABalance>
-            <TypeBBalance></TypeBBalance>
+            <TypeABalance>38097</TypeABalance>
+            <TypeBBalance>40204</TypeBBalance>
         </OnDemand>
         <FixedTerm>
-            <TypeABalance></TypeABalance>
-            <TypeBBalance></TypeBBalance>
+            <TypeABalance>96112</TypeABalance>
+            <TypeBBalance>77575</TypeBBalance>
         </FixedTerm>
         <FixedNotice>
-            <TypeABalance></TypeABalance>
-            <TypeBBalance></TypeBBalance>
+            <TypeABalance>27011</TypeABalance>
+            <TypeBBalance>86224</TypeBBalance>
         </FixedNotice>
     </RetailDeposits>
 
     <CorporateAccounts>
         <Current>
-            <TypeBBalance></TypeBBalance>
+            <TypeBBalance>58639</TypeBBalance>
         </Current>
         <TaxAdvantaged>
-            <TypeBBalance></TypeBBalance>
+            <TypeBBalance>15500</TypeBBalance>
         </TaxAdvantaged>
         <OnDemand>
-            <TypeBBalance></TypeBBalance>
+            <TypeBBalance>44656</TypeBBalance>
         </OnDemand>
         <FixedTerm>
-            <TypeBBalance></TypeBBalance>
+            <TypeBBalance>68260</TypeBBalance>
         </FixedTerm>
         <FixedNotice>
-            <TypeBBalance></TypeBBalance>
+            <TypeBBalance>87559</TypeBBalance>
         </FixedNotice>
     </CorporateAccounts>
 
     <FSCSTypeProtection>
-        <ProtectedBalance></ProtectedBalance>
-        <UnprotectedBalance></UnprotectedBalance>
+        <ProtectedBalance>13052</ProtectedBalance>
+        <UnprotectedBalance>20524</UnprotectedBalance>
     </FSCSTypeProtection>
 
 

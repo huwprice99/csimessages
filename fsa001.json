@@ -7,161 +7,161 @@
     <GroupInfo>
         <GroupReference>H1234</GroupReference>
         <OtherGroupFirms>
-            <FirmReferenceNumber>299418</FirmReferenceNumber>
+            <FirmReferenceNumber>218701</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
     <Assets>
         <Cash>
-            <Trading>954904</Trading>
-            <NonTrading>897954</NonTrading>
+            <Trading>392376</Trading>
+            <NonTrading>873469</NonTrading>
         </Cash>
         <InCollection>
-            <Trading>512656</Trading>
-            <NonTrading>554056</NonTrading>
+            <Trading>107177</Trading>
+            <NonTrading>108499</NonTrading>
         </InCollection>
         <Bills>
-            <Trading>483255</Trading>
-            <NonTrading>417141</NonTrading>
+            <Trading>204878</Trading>
+            <NonTrading>576098</NonTrading>
         </Bills>
         <DepositsLoansCreditInstitutions>
-            <Trading>120702</Trading>
-            <NonTrading>959753</NonTrading>
+            <Trading>203900</Trading>
+            <NonTrading>350300</NonTrading>
         </DepositsLoansCreditInstitutions>
         <LoansAdvancesCustomers>
-            <Trading>540140</Trading>
-            <NonTrading>249028</NonTrading>
+            <Trading>962316</Trading>
+            <NonTrading>405440</NonTrading>
         </LoansAdvancesCustomers>
         <DebtSecurities>
-            <Trading>503229</Trading>
-            <NonTrading>585801</NonTrading>
+            <Trading>729177</Trading>
+            <NonTrading>711417</NonTrading>
         </DebtSecurities>
         <EquityShares>
-            <Trading>802386</Trading>
-            <NonTrading>962128</NonTrading>
+            <Trading>993693</Trading>
+            <NonTrading>181454</NonTrading>
         </EquityShares>
         <InvestmentGroupUndertakings>
-            <Trading>905426</Trading>
-            <NonTrading>771927</NonTrading>
+            <Trading>424263</Trading>
+            <NonTrading>113228</NonTrading>
         </InvestmentGroupUndertakings>
         <ReverseRepurchases>
-            <Trading>744959</Trading>
-            <NonTrading>551767</NonTrading>
+            <Trading>200375</Trading>
+            <NonTrading>193782</NonTrading>
         </ReverseRepurchases>
         <Derivatives>
-            <Trading>599910</Trading>
-            <NonTrading>607227</NonTrading>
+            <Trading>931375</Trading>
+            <NonTrading>640466</NonTrading>
         </Derivatives>
         <Goodwill>
-            <Trading>954417</Trading>
-            <NonTrading>497148</NonTrading>
+            <Trading>635365</Trading>
+            <NonTrading>196763</NonTrading>
         </Goodwill>
         <OtherIntangible>
-            <Trading>619868</Trading>
-            <NonTrading>868409</NonTrading>
+            <Trading>890753</Trading>
+            <NonTrading>405518</NonTrading>
         </OtherIntangible>
         <TangibleFixed>
-            <Trading>872586</Trading>
-            <NonTrading>467469</NonTrading>
+            <Trading>173582</Trading>
+            <NonTrading>281724</NonTrading>
         </TangibleFixed>
         <PrepaymentsAccruals>
-            <Trading>722258</Trading>
-            <NonTrading>131853</NonTrading>
+            <Trading>605661</Trading>
+            <NonTrading>632943</NonTrading>
         </PrepaymentsAccruals>
         <Other>
-            <Trading>388514</Trading>
-            <NonTrading>326225</NonTrading>
+            <Trading>685344</Trading>
+            <NonTrading>507452</NonTrading>
         </Other>
         <TotalAssets>
-            <Trading>9725210</Trading>
-            <NonTrading>8847886</NonTrading>
+            <Trading>8140235</Trading>
+            <NonTrading>6178553</NonTrading>
         </TotalAssets>
     </Assets>
     <Liabilities>
-        <OwnBankNotes>181794</OwnBankNotes>
-        <ItemsInCollection>628032</ItemsInCollection>
-        <DepositsIncludingOverdraftsLoans>948724</DepositsIncludingOverdraftsLoans>
+        <OwnBankNotes>665128</OwnBankNotes>
+        <ItemsInCollection>228154</ItemsInCollection>
+        <DepositsIncludingOverdraftsLoans>732430</DepositsIncludingOverdraftsLoans>
         <CustomerAccounts>
-            <Total>2721908</Total>
-            <Retail>731894</Retail>
-            <Emoney>539811</Emoney>
-            <Corporate>684291</Corporate>
-            <Intragroup>385211</Intragroup>
-            <Other>380701</Other>
+            <Total>2465200</Total>
+            <Retail>437857</Retail>
+            <Emoney>308949</Emoney>
+            <Corporate>710364</Corporate>
+            <Intragroup>106950</Intragroup>
+            <Other>901080</Other>
         </CustomerAccounts>
-        <TradingLiabilities>368127</TradingLiabilities>
-        <DebtSecuritiesInIssue>340179</DebtSecuritiesInIssue>
-        <CoveredBonds>157427</CoveredBonds>
-        <Derivatives>771597</Derivatives>
-        <SaleReposCashCollateral>607921</SaleReposCashCollateral>
-        <RetirementBenefit>214617</RetirementBenefit>
-        <Taxation>460314</Taxation>
-        <Provisions>897943</Provisions>
-        <Subordinated>878064</Subordinated>
-        <Accruals>260139</Accruals>
-        <Other>400835</Other>
-        <Subtotal>9837621</Subtotal>
-        <ShareCapital>327110</ShareCapital>
-        <Reserves>200437</Reserves>
-        <MinorityInterests>486422</MinorityInterests>
-        <TotalLiabilities>18573096</TotalLiabilities>
+        <TradingLiabilities>994707</TradingLiabilities>
+        <DebtSecuritiesInIssue>939443</DebtSecuritiesInIssue>
+        <CoveredBonds>892093</CoveredBonds>
+        <Derivatives>886171</Derivatives>
+        <SaleReposCashCollateral>748240</SaleReposCashCollateral>
+        <RetirementBenefit>588606</RetirementBenefit>
+        <Taxation>286187</Taxation>
+        <Provisions>926641</Provisions>
+        <Subordinated>267366</Subordinated>
+        <Accruals>215843</Accruals>
+        <Other>478352</Other>
+        <Subtotal>11314561</Subtotal>
+        <ShareCapital>787170</ShareCapital>
+        <Reserves>129395</Reserves>
+        <MinorityInterests>418605</MinorityInterests>
+        <TotalLiabilities>14318788</TotalLiabilities>
     </Liabilities>
     <MemorandumItems>
         <Derivatives>
             <ForeignExchange>
-                <NotionalAmount>750864</NotionalAmount>
-                <Assets>835237</Assets>
-                <Liabilities>663808</Liabilities>
+                <NotionalAmount>822222</NotionalAmount>
+                <Assets>836031</Assets>
+                <Liabilities>983484</Liabilities>
             </ForeignExchange>
             <InterestRate>
-                <NotionalAmount>999804</NotionalAmount>
-                <Assets>510432</Assets>
-                <Liabilities>579855</Liabilities>
+                <NotionalAmount>296308</NotionalAmount>
+                <Assets>393276</Assets>
+                <Liabilities>859396</Liabilities>
             </InterestRate>
             <CreditDerivatives>
-                <NotionalAmount>227004</NotionalAmount>
-                <Assets>103238</Assets>
-                <Liabilities>876000</Liabilities>
+                <NotionalAmount>770327</NotionalAmount>
+                <Assets>936717</Assets>
+                <Liabilities>262678</Liabilities>
             </CreditDerivatives>
             <EquityStockIndex>
-                <NotionalAmount>162752</NotionalAmount>
-                <Assets>653432</Assets>
-                <Liabilities>277920</Liabilities>
+                <NotionalAmount>210253</NotionalAmount>
+                <Assets>471505</Assets>
+                <Liabilities>216328</Liabilities>
             </EquityStockIndex>
             <Commodity>
-                <NotionalAmount>401200</NotionalAmount>
-                <Assets>307663</Assets>
-                <Liabilities>225621</Liabilities>
+                <NotionalAmount>324588</NotionalAmount>
+                <Assets>310264</Assets>
+                <Liabilities>891714</Liabilities>
             </Commodity>
             <Other>
-                <NotionalAmount>861878</NotionalAmount>
-                <Assets>545301</Assets>
-                <Liabilities>451992</Liabilities>
+                <NotionalAmount>639558</NotionalAmount>
+                <Assets>364626</Assets>
+                <Liabilities>779889</Liabilities>
             </Other>
             <Total>
-                <NotionalAmount>3403502</NotionalAmount>
-                <Assets>2955303</Assets>
-                <Liabilities>3075196</Liabilities>
+                <NotionalAmount>3063256</NotionalAmount>
+                <Assets>3312419</Assets>
+                <Liabilities>3993489</Liabilities>
             </Total>
             <AfterNetting>
-                <Assets>1207137</Assets>
-                <Liabilities>771597</Liabilities>
+                <Assets>1571841</Assets>
+                <Liabilities>886171</Liabilities>
             </AfterNetting>
         </Derivatives>
         <OtherItems>
-            <CreditSubstitutes>287960</CreditSubstitutes>
-            <TransactionContingents>927926</TransactionContingents>
-            <TradeContingents>149926</TradeContingents>
-            <RecourseAssetSales>203685</RecourseAssetSales>
-            <ForwardPurchases>175513</ForwardPurchases>
-            <ForwardForwardDeposits>536246</ForwardForwardDeposits>
-            <PartlyPaid>123984</PartlyPaid>
-            <NIFsRUFs>223960</NIFsRUFs>
-            <BillEndorsements>771913</BillEndorsements>
-            <OtherCommitments>496852</OtherCommitments>
-            <ClientMoney>233948</ClientMoney>
-            <Customers>1279</Customers>
+            <CreditSubstitutes>154564</CreditSubstitutes>
+            <TransactionContingents>481887</TransactionContingents>
+            <TradeContingents>785772</TradeContingents>
+            <RecourseAssetSales>692105</RecourseAssetSales>
+            <ForwardPurchases>317950</ForwardPurchases>
+            <ForwardForwardDeposits>943100</ForwardForwardDeposits>
+            <PartlyPaid>755229</PartlyPaid>
+            <NIFsRUFs>386506</NIFsRUFs>
+            <BillEndorsements>124582</BillEndorsements>
+            <OtherCommitments>136558</OtherCommitments>
+            <ClientMoney>998286</ClientMoney>
+            <Customers>8462</Customers>
         </OtherItems>
     </MemorandumItems>
 </FSA001-BalanceSheet>

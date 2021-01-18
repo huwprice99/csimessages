@@ -5,25 +5,25 @@
     
     <UnderlyingFlowsBalancesCurrency>
         <CurrencyBasis>single</CurrencyBasis>
-        <Currency></Currency>
+        <Currency>4399</Currency>
     </UnderlyingFlowsBalancesCurrency>
     
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>1256</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
     
     <MemoItems>
-        <NonDatedCapitalResources></NonDatedCapitalResources>
+        <NonDatedCapitalResources>8057</NonDatedCapitalResources>
         <LiquidityFacilities>
             <BankOfEngland>
-                <OMO></OMO>
-                <CollateralUpgrade></CollateralUpgrade>
-                <Others></Others>
+                <OMO>3667</OMO>
+                <CollateralUpgrade>8939</CollateralUpgrade>
+                <Others>1285</Others>
             </BankOfEngland>
             <OtherCentralBank>
                 <OMO>302</OMO>
@@ -31,582 +31,582 @@
                 <Others>304</Others>
             </OtherCentralBank>
         </LiquidityFacilities>
-        <PeakCollateralUKSettlement></PeakCollateralUKSettlement>
-        <PeakCollateralNonUKSettlement></PeakCollateralNonUKSettlement>
+        <PeakCollateralUKSettlement>5584</PeakCollateralUKSettlement>
+        <PeakCollateralNonUKSettlement>3844</PeakCollateralNonUKSettlement>
     </MemoItems>
     <SecurityWholeLoanCommodity>
         <LiquidAssetBufferSecurities>
-            <UnencumberedPosition></UnencumberedPosition>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <UnencumberedPosition>1952</UnencumberedPosition>
+            <OpenMaturity>8347</OpenMaturity>
+            <From3To6Months>9914</From3To6Months>
+            <From6MonthsTo1Year>1629</From6MonthsTo1Year>
+            <From1To2Years>7861</From1To2Years>
+            <From2To5Years>8389</From2To5Years>
+            <MoreThan5Years>3610</MoreThan5Years>
         </LiquidAssetBufferSecurities>
         <OtherHighQualityGovernment>
             <CentralBanksSupranationalsGovernments>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <UnencumberedPosition>5212</UnencumberedPosition>
+                <OpenMaturity>2338</OpenMaturity>
+                <From3To6Months>6359</From3To6Months>
+                <From6MonthsTo1Year>5604</From6MonthsTo1Year>
+                <From1To2Years>3305</From1To2Years>
+                <From2To5Years>8457</From2To5Years>
+                <MoreThan5Years>9858</MoreThan5Years>
             </CentralBanksSupranationalsGovernments>
             <USBackedSecurities>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>4399</UnencumberedPosition>
+                <OpenMaturity>2368</OpenMaturity>
+                <From3To6Months>8212</From3To6Months>
                 <From6MonthsTo1Year>-807</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <From1To2Years>7304</From1To2Years>
+                <From2To5Years>1575</From2To5Years>
+                <MoreThan5Years>7718</MoreThan5Years>
             </USBackedSecurities>
         </OtherHighQualityGovernment>
         <OwnNameSecuritiesWholeLoans>
-            <UnencumberedPosition></UnencumberedPosition>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
+            <UnencumberedPosition>1391</UnencumberedPosition>
+            <OpenMaturity>1403</OpenMaturity>
+            <From3To6Months>7909</From3To6Months>
             <From6MonthsTo1Year>-907</From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <From1To2Years>4473</From1To2Years>
+            <From2To5Years>3030</From2To5Years>
+            <MoreThan5Years>9881</MoreThan5Years>
         </OwnNameSecuritiesWholeLoans>
         <AssetBackedAndCovered>
             <AssetBackedSecurities>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>7755</UnencumberedPosition>
+                <OpenMaturity>8334</OpenMaturity>
+                <From3To6Months>5494</From3To6Months>
                 <From6MonthsTo1Year>-1007</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
+                <From1To2Years>4043</From1To2Years>
+                <From2To5Years>9054</From2To5Years>
                 <MoreThan5Years>1010</MoreThan5Years>
             </AssetBackedSecurities>
             <CoveredBonds>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>1256</UnencumberedPosition>
+                <OpenMaturity>8386</OpenMaturity>
+                <From3To6Months>2221</From3To6Months>
                 <From6MonthsTo1Year>-1107</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
+                <From1To2Years>6962</From1To2Years>
+                <From2To5Years>9587</From2To5Years>
                 <MoreThan5Years>1110</MoreThan5Years>
             </CoveredBonds>
         </AssetBackedAndCovered>
         <SecuritiesIssuedByGroup>
-            <UnencumberedPosition></UnencumberedPosition>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
+            <UnencumberedPosition>6286</UnencumberedPosition>
+            <OpenMaturity>3015</OpenMaturity>
+            <From3To6Months>5852</From3To6Months>
             <From6MonthsTo1Year>-1207</From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
+            <From1To2Years>1465</From1To2Years>
+            <From2To5Years>7155</From2To5Years>
             <MoreThan5Years>1210</MoreThan5Years>
         </SecuritiesIssuedByGroup>
         <HighQualityCorporateBonds>
             <UKCreditInstitutions>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>8532</UnencumberedPosition>
+                <OpenMaturity>8622</OpenMaturity>
+                <From3To6Months>1457</From3To6Months>
                 <From6MonthsTo1Year>-1307</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
+                <From1To2Years>6733</From1To2Years>
+                <From2To5Years>7632</From2To5Years>
                 <MoreThan5Years>1310</MoreThan5Years>
             </UKCreditInstitutions>
             <NonUKCreditInstitutions>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>4643</UnencumberedPosition>
+                <OpenMaturity>6076</OpenMaturity>
+                <From3To6Months>5488</From3To6Months>
                 <From6MonthsTo1Year>-1407</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
+                <From1To2Years>1864</From1To2Years>
+                <From2To5Years>6765</From2To5Years>
                 <MoreThan5Years>1410</MoreThan5Years>
             </NonUKCreditInstitutions>
             <NonCreditInstitutions>
-                <UnencumberedPosition></UnencumberedPosition>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
+                <UnencumberedPosition>5308</UnencumberedPosition>
+                <OpenMaturity>3574</OpenMaturity>
+                <From3To6Months>2553</From3To6Months>
                 <From6MonthsTo1Year>-1507</From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
+                <From1To2Years>2252</From1To2Years>
+                <From2To5Years>2013</From2To5Years>
                 <MoreThan5Years>1510</MoreThan5Years>
             </NonCreditInstitutions>
         </HighQualityCorporateBonds>
         <EquitiesInMajorIndices>
-            <UnencumberedPosition></UnencumberedPosition>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
+            <UnencumberedPosition>3413</UnencumberedPosition>
+            <OpenMaturity>6530</OpenMaturity>
+            <From3To6Months>5809</From3To6Months>
             <From6MonthsTo1Year>-1607</From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
+            <From1To2Years>7834</From1To2Years>
+            <From2To5Years>4847</From2To5Years>
             <MoreThan5Years>1610</MoreThan5Years>
         </EquitiesInMajorIndices>
         <OtherSecuritiesAndCommodities>
-            <UnencumberedPosition></UnencumberedPosition>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
+            <UnencumberedPosition>9665</UnencumberedPosition>
+            <OpenMaturity>7639</OpenMaturity>
+            <From3To6Months>1214</From3To6Months>
             <From6MonthsTo1Year>-1707</From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
+            <From1To2Years>6907</From1To2Years>
+            <From2To5Years>6858</From2To5Years>
             <MoreThan5Years>1710</MoreThan5Years>
         </OtherSecuritiesAndCommodities>
     </SecurityWholeLoanCommodity>
     <WholesaleAsset>
         <LiquidAssetBuffer>
-            <MoneyMarketFunds></MoneyMarketFunds>
-            <CentralBankReservesDeposits></CentralBankReservesDeposits>
+            <MoneyMarketFunds>6700</MoneyMarketFunds>
+            <CentralBankReservesDeposits>9923</CentralBankReservesDeposits>
         </LiquidAssetBuffer>
         <LendingTo>
             <GroupEntities>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>9655</NonDefinedMaturity>
+                <From3To6Months>7181</From3To6Months>
+                <From6MonthsTo1Year>5789</From6MonthsTo1Year>
+                <From1To2Years>3155</From1To2Years>
+                <From2To5Years>8691</From2To5Years>
+                <MoreThan5Years>9400</MoreThan5Years>
             </GroupEntities>
             <UKCreditInstitutions>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>6288</NonDefinedMaturity>
+                <From3To6Months>4648</From3To6Months>
+                <From6MonthsTo1Year>6498</From6MonthsTo1Year>
+                <From1To2Years>2467</From1To2Years>
+                <From2To5Years>7120</From2To5Years>
+                <MoreThan5Years>1019</MoreThan5Years>
             </UKCreditInstitutions>
             <NonUKCreditInstitutions>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>4218</NonDefinedMaturity>
+                <From3To6Months>2563</From3To6Months>
+                <From6MonthsTo1Year>4628</From6MonthsTo1Year>
+                <From1To2Years>5161</From1To2Years>
+                <From2To5Years>9301</From2To5Years>
+                <MoreThan5Years>7291</MoreThan5Years>
             </NonUKCreditInstitutions>
         </LendingTo>
         <OwnAccountSecurities>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <From3To6Months>4549</From3To6Months>
+            <From6MonthsTo1Year>9162</From6MonthsTo1Year>
+            <From1To2Years>9149</From1To2Years>
+            <From2To5Years>8070</From2To5Years>
+            <MoreThan5Years>2896</MoreThan5Years>
         </OwnAccountSecurities>
         <OwnNameSecurities>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <From3To6Months>1492</From3To6Months>
+            <From6MonthsTo1Year>5032</From6MonthsTo1Year>
+            <From1To2Years>6504</From1To2Years>
+            <From2To5Years>3017</From2To5Years>
+            <MoreThan5Years>8657</MoreThan5Years>
         </OwnNameSecurities>
         <ReverseRepo>
             <LiquidAssetBufferSecurities>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>4579</OpenMaturity>
+                <From3To6Months>6192</From3To6Months>
+                <From6MonthsTo1Year>9932</From6MonthsTo1Year>
+                <From1To2Years>5818</From1To2Years>
+                <From2To5Years>6730</From2To5Years>
+                <MoreThan5Years>2920</MoreThan5Years>
             </LiquidAssetBufferSecurities>
             <OtherHighQualityGovernment>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>2958</OpenMaturity>
+                <From3To6Months>6352</From3To6Months>
+                <From6MonthsTo1Year>3892</From6MonthsTo1Year>
+                <From1To2Years>6293</From1To2Years>
+                <From2To5Years>6299</From2To5Years>
+                <MoreThan5Years>9011</MoreThan5Years>
             </OtherHighQualityGovernment>
             <AssetBackedAndCovered>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>3079</OpenMaturity>
+                <From3To6Months>3092</From3To6Months>
+                <From6MonthsTo1Year>7281</From6MonthsTo1Year>
+                <From1To2Years>5413</From1To2Years>
+                <From2To5Years>5500</From2To5Years>
+                <MoreThan5Years>3512</MoreThan5Years>
             </AssetBackedAndCovered>
             <HighQualityCorporateBonds>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>2141</OpenMaturity>
+                <From3To6Months>5093</From3To6Months>
+                <From6MonthsTo1Year>9841</From6MonthsTo1Year>
+                <From1To2Years>4933</From1To2Years>
+                <From2To5Years>8000</From2To5Years>
+                <MoreThan5Years>9530</MoreThan5Years>
             </HighQualityCorporateBonds>
             <EquitiesInMajorIndices>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>8618</OpenMaturity>
+                <From3To6Months>9681</From3To6Months>
+                <From6MonthsTo1Year>2227</From6MonthsTo1Year>
+                <From1To2Years>4533</From1To2Years>
+                <From2To5Years>9951</From2To5Years>
+                <MoreThan5Years>7493</MoreThan5Years>
             </EquitiesInMajorIndices>
             <Other>
-                <OpenMaturity></OpenMaturity>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <OpenMaturity>9536</OpenMaturity>
+                <From3To6Months>9441</From3To6Months>
+                <From6MonthsTo1Year>4817</From6MonthsTo1Year>
+                <From1To2Years>1440</From1To2Years>
+                <From2To5Years>4645</From2To5Years>
+                <MoreThan5Years>7709</MoreThan5Years>
             </Other>
         </ReverseRepo>
     </WholesaleAsset>
     <OtherAsset>
         <NonRetailLendingExposures>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <To2Weeks></To2Weeks>
-            <From2WeeksTo1Month></From2WeeksTo1Month>
-            <From1To3Months></From1To3Months>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>9881</NonDefinedMaturity>
+            <To2Weeks>6580</To2Weeks>
+            <From2WeeksTo1Month>3355</From2WeeksTo1Month>
+            <From1To3Months>8307</From1To3Months>
+            <From3To6Months>8971</From3To6Months>
+            <From6MonthsTo1Year>5767</From6MonthsTo1Year>
+            <From1To2Years>1296</From1To2Years>
+            <From2To5Years>1269</From2To5Years>
+            <MoreThan5Years>1676</MoreThan5Years>
         </NonRetailLendingExposures>
         <RetailLendingExposures>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <To2Weeks></To2Weeks>
-            <From2WeeksTo1Month></From2WeeksTo1Month>
-            <From1To3Months></From1To3Months>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>1238</NonDefinedMaturity>
+            <To2Weeks>5802</To2Weeks>
+            <From2WeeksTo1Month>9673</From2WeeksTo1Month>
+            <From1To3Months>4572</From1To3Months>
+            <From3To6Months>3447</From3To6Months>
+            <From6MonthsTo1Year>6391</From6MonthsTo1Year>
+            <From1To2Years>5591</From1To2Years>
+            <From2To5Years>9290</From2To5Years>
+            <MoreThan5Years>3699</MoreThan5Years>
         </RetailLendingExposures>
         <SSPEs>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <To2Weeks></To2Weeks>
-            <From2WeeksTo1Month></From2WeeksTo1Month>
-            <From1To3Months></From1To3Months>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>1543</NonDefinedMaturity>
+            <To2Weeks>7044</To2Weeks>
+            <From2WeeksTo1Month>4894</From2WeeksTo1Month>
+            <From1To3Months>1149</From1To3Months>
+            <From3To6Months>3749</From3To6Months>
+            <From6MonthsTo1Year>7020</From6MonthsTo1Year>
+            <From1To2Years>2636</From1To2Years>
+            <From2To5Years>8600</From2To5Years>
+            <MoreThan5Years>8520</MoreThan5Years>
         </SSPEs>
     </OtherAsset>
     <Repo>
         <LiquidAssetBufferSecurities>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>9618</OpenMaturity>
+            <From3To6Months>8142</From3To6Months>
+            <From6MonthsTo1Year>3424</From6MonthsTo1Year>
+            <From1To2Years>2888</From1To2Years>
+            <From2To5Years>9935</From2To5Years>
+            <MoreThan5Years>5270</MoreThan5Years>
         </LiquidAssetBufferSecurities>
         <OtherHighQualityGovernment>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>8549</OpenMaturity>
+            <From3To6Months>2941</From3To6Months>
+            <From6MonthsTo1Year>5723</From6MonthsTo1Year>
+            <From1To2Years>6886</From1To2Years>
+            <From2To5Years>2629</From2To5Years>
+            <MoreThan5Years>7107</MoreThan5Years>
         </OtherHighQualityGovernment>
         <AssetBackedAndCovered>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>2150</OpenMaturity>
+            <From3To6Months>6528</From3To6Months>
+            <From6MonthsTo1Year>2426</From6MonthsTo1Year>
+            <From1To2Years>9128</From1To2Years>
+            <From2To5Years>7366</From2To5Years>
+            <MoreThan5Years>4350</MoreThan5Years>
         </AssetBackedAndCovered>
         <HighQualityCorporateBonds>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>2125</OpenMaturity>
+            <From3To6Months>3591</From3To6Months>
+            <From6MonthsTo1Year>8870</From6MonthsTo1Year>
+            <From1To2Years>4630</From1To2Years>
+            <From2To5Years>1646</From2To5Years>
+            <MoreThan5Years>3316</MoreThan5Years>
         </HighQualityCorporateBonds>
         <EquitiesInMajorIndices>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>8103</OpenMaturity>
+            <From3To6Months>1232</From3To6Months>
+            <From6MonthsTo1Year>3021</From6MonthsTo1Year>
+            <From1To2Years>8635</From1To2Years>
+            <From2To5Years>1466</From2To5Years>
+            <MoreThan5Years>2671</MoreThan5Years>
         </EquitiesInMajorIndices>
         <Other>
-            <OpenMaturity></OpenMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <OpenMaturity>3491</OpenMaturity>
+            <From3To6Months>2196</From3To6Months>
+            <From6MonthsTo1Year>3115</From6MonthsTo1Year>
+            <From1To2Years>1683</From1To2Years>
+            <From2To5Years>6612</From2To5Years>
+            <MoreThan5Years>9263</MoreThan5Years>
         </Other>
     </Repo>
     <WholesaleLiability>
         <PrimaryIssuances>
             <SeniorSecurities>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <From3To6Months>7914</From3To6Months>
+                <From6MonthsTo1Year>2682</From6MonthsTo1Year>
+                <From1To2Years>3716</From1To2Years>
+                <From2To5Years>3546</From2To5Years>
+                <MoreThan5Years>1753</MoreThan5Years>
             </SeniorSecurities>
             <DatedSubordinatedSecurities>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <From3To6Months>6922</From3To6Months>
+                <From6MonthsTo1Year>3748</From6MonthsTo1Year>
+                <From1To2Years>5230</From1To2Years>
+                <From2To5Years>8580</From2To5Years>
+                <MoreThan5Years>7631</MoreThan5Years>
             </DatedSubordinatedSecurities>
             <StructuredNotes>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <From3To6Months>4423</From3To6Months>
+                <From6MonthsTo1Year>4119</From6MonthsTo1Year>
+                <From1To2Years>2215</From1To2Years>
+                <From2To5Years>5993</From2To5Years>
+                <MoreThan5Years>6944</MoreThan5Years>
             </StructuredNotes>
         </PrimaryIssuances>
         <CoveredBonds>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <From3To6Months>2803</From3To6Months>
+            <From6MonthsTo1Year>6986</From6MonthsTo1Year>
+            <From1To2Years>3683</From1To2Years>
+            <From2To5Years>8431</From2To5Years>
+            <MoreThan5Years>2960</MoreThan5Years>
         </CoveredBonds>
         <GroupEntities>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>5706</NonDefinedMaturity>
+            <From3To6Months>3536</From3To6Months>
+            <From6MonthsTo1Year>6153</From6MonthsTo1Year>
+            <From1To2Years>7307</From1To2Years>
+            <From2To5Years>3332</From2To5Years>
+            <MoreThan5Years>2002</MoreThan5Years>
         </GroupEntities>
         <UKCreditInstitutions>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>9878</NonDefinedMaturity>
+            <From3To6Months>7071</From3To6Months>
+            <From6MonthsTo1Year>3394</From6MonthsTo1Year>
+            <From1To2Years>1445</From1To2Years>
+            <From2To5Years>3296</From2To5Years>
+            <MoreThan5Years>4983</MoreThan5Years>
         </UKCreditInstitutions>
         <NonUKCreditInstitutions>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>8824</NonDefinedMaturity>
+            <From3To6Months>5397</From3To6Months>
+            <From6MonthsTo1Year>2124</From6MonthsTo1Year>
+            <From1To2Years>8711</From1To2Years>
+            <From2To5Years>3975</From2To5Years>
+            <MoreThan5Years>1286</MoreThan5Years>
         </NonUKCreditInstitutions>
         <CentralBanksSupranationalsGovernments>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>5420</NonDefinedMaturity>
+            <From3To6Months>6128</From3To6Months>
+            <From6MonthsTo1Year>8348</From6MonthsTo1Year>
+            <From1To2Years>4454</From1To2Years>
+            <From2To5Years>4776</From2To5Years>
+            <MoreThan5Years>2673</MoreThan5Years>
         </CentralBanksSupranationalsGovernments>
         <NonCreditFinancialInstitutions>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>8615</NonDefinedMaturity>
+            <From3To6Months>3270</From3To6Months>
+            <From6MonthsTo1Year>9676</From6MonthsTo1Year>
+            <From1To2Years>5137</From1To2Years>
+            <From2To5Years>3117</From2To5Years>
+            <MoreThan5Years>6274</MoreThan5Years>
         </NonCreditFinancialInstitutions>
         <NonFinancialEnterprisesTypeA>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>2671</NonDefinedMaturity>
+            <From3To6Months>6875</From3To6Months>
+            <From6MonthsTo1Year>7114</From6MonthsTo1Year>
+            <From1To2Years>7530</From1To2Years>
+            <From2To5Years>1342</From2To5Years>
+            <MoreThan5Years>7468</MoreThan5Years>
         </NonFinancialEnterprisesTypeA>
         <ConditionalLiabilities>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>4250</NonDefinedMaturity>
+            <From3To6Months>3106</From3To6Months>
+            <From6MonthsTo1Year>6031</From6MonthsTo1Year>
+            <From1To2Years>5806</From1To2Years>
+            <From2To5Years>3552</From2To5Years>
+            <MoreThan5Years>4494</MoreThan5Years>
         </ConditionalLiabilities>
         <SSPEs>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>2740</NonDefinedMaturity>
+            <From3To6Months>8306</From3To6Months>
+            <From6MonthsTo1Year>8187</From6MonthsTo1Year>
+            <From1To2Years>6972</From1To2Years>
+            <From2To5Years>9684</From2To5Years>
+            <MoreThan5Years>4269</MoreThan5Years>
         </SSPEs>
     </WholesaleLiability>
     <OtherLiability>
         <Deposits>
             <NonFinancialEnterprisesTypeB>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <To2Weeks></To2Weeks>
-                <From2WeeksTo1Month></From2WeeksTo1Month>
-                <From1To3Months></From1To3Months>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>7241</NonDefinedMaturity>
+                <To2Weeks>2299</To2Weeks>
+                <From2WeeksTo1Month>9688</From2WeeksTo1Month>
+                <From1To3Months>7905</From1To3Months>
+                <From3To6Months>2271</From3To6Months>
+                <From6MonthsTo1Year>2053</From6MonthsTo1Year>
+                <From1To2Years>2875</From1To2Years>
+                <From2To5Years>8834</From2To5Years>
+                <MoreThan5Years>3118</MoreThan5Years>
             </NonFinancialEnterprisesTypeB>
             <SME>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <To2Weeks></To2Weeks>
-                <From2WeeksTo1Month></From2WeeksTo1Month>
-                <From1To3Months></From1To3Months>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>3683</NonDefinedMaturity>
+                <To2Weeks>4241</To2Weeks>
+                <From2WeeksTo1Month>1794</From2WeeksTo1Month>
+                <From1To3Months>3163</From1To3Months>
+                <From3To6Months>6891</From3To6Months>
+                <From6MonthsTo1Year>2041</From6MonthsTo1Year>
+                <From1To2Years>7357</From1To2Years>
+                <From2To5Years>9044</From2To5Years>
+                <MoreThan5Years>9393</MoreThan5Years>
             </SME>
             <RetailTypeA>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <To2Weeks></To2Weeks>
-                <From2WeeksTo1Month></From2WeeksTo1Month>
-                <From1To3Months></From1To3Months>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>1159</NonDefinedMaturity>
+                <To2Weeks>5320</To2Weeks>
+                <From2WeeksTo1Month>3203</From2WeeksTo1Month>
+                <From1To3Months>4712</From1To3Months>
+                <From3To6Months>9049</From3To6Months>
+                <From6MonthsTo1Year>5978</From6MonthsTo1Year>
+                <From1To2Years>1833</From1To2Years>
+                <From2To5Years>5077</From2To5Years>
+                <MoreThan5Years>4144</MoreThan5Years>
             </RetailTypeA>
             <RetailTypeB>
-                <NonDefinedMaturity></NonDefinedMaturity>
-                <To2Weeks></To2Weeks>
-                <From2WeeksTo1Month></From2WeeksTo1Month>
-                <From1To3Months></From1To3Months>
-                <From3To6Months></From3To6Months>
-                <From6MonthsTo1Year></From6MonthsTo1Year>
-                <From1To2Years></From1To2Years>
-                <From2To5Years></From2To5Years>
-                <MoreThan5Years></MoreThan5Years>
+                <NonDefinedMaturity>9633</NonDefinedMaturity>
+                <To2Weeks>4896</To2Weeks>
+                <From2WeeksTo1Month>3061</From2WeeksTo1Month>
+                <From1To3Months>7422</From1To3Months>
+                <From3To6Months>1529</From3To6Months>
+                <From6MonthsTo1Year>5326</From6MonthsTo1Year>
+                <From1To2Years>8054</From1To2Years>
+                <From2To5Years>2292</From2To5Years>
+                <MoreThan5Years>6968</MoreThan5Years>
             </RetailTypeB>
         </Deposits>
-        <ClientBrokerageFreeCash></ClientBrokerageFreeCash>
+        <ClientBrokerageFreeCash>2416</ClientBrokerageFreeCash>
     </OtherLiability>
     <OffBalanceSheet>
         <ForeignExchangeFlows>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <From3To6Months>9752</From3To6Months>
+            <From6MonthsTo1Year>2515</From6MonthsTo1Year>
+            <From1To2Years>8630</From1To2Years>
+            <From2To5Years>5030</From2To5Years>
+            <MoreThan5Years>6569</MoreThan5Years>
         </ForeignExchangeFlows>
         <FacilitiesReceived>
-            <NonDefinedMaturity></NonDefinedMaturity>
-            <To2Weeks></To2Weeks>
-            <From2WeeksTo1Month></From2WeeksTo1Month>
-            <From1To3Months></From1To3Months>
-            <From3To6Months></From3To6Months>
-            <From6MonthsTo1Year></From6MonthsTo1Year>
-            <From1To2Years></From1To2Years>
-            <From2To5Years></From2To5Years>
-            <MoreThan5Years></MoreThan5Years>
+            <NonDefinedMaturity>3478</NonDefinedMaturity>
+            <To2Weeks>7574</To2Weeks>
+            <From2WeeksTo1Month>3906</From2WeeksTo1Month>
+            <From1To3Months>3100</From1To3Months>
+            <From3To6Months>7837</From3To6Months>
+            <From6MonthsTo1Year>4744</From6MonthsTo1Year>
+            <From1To2Years>2354</From1To2Years>
+            <From2To5Years>8637</From2To5Years>
+            <MoreThan5Years>6361</MoreThan5Years>
         </FacilitiesReceived>
         <FacilitiesProvided>
             <Secured>
-                <AgainstBufferSecurities></AgainstBufferSecurities>
-                <AgainstOtherSecurities></AgainstOtherSecurities>
+                <AgainstBufferSecurities>5814</AgainstBufferSecurities>
+                <AgainstOtherSecurities>7064</AgainstOtherSecurities>
             </Secured>
             <Unsecured>
-                <ToCreditInstitutions></ToCreditInstitutions>
-                <ToFirmsSSPEs></ToFirmsSSPEs>
-                <StandbyToOtherInstitutions></StandbyToOtherInstitutions>
-                <ByFirmsSSPEs></ByFirmsSSPEs>
-                <ToNonCreditInstitutions></ToNonCreditInstitutions>
-                <OverdraftCreditCard></OverdraftCreditCard>
-                <PipelineLending></PipelineLending>
-                <RepurchaseObligations></RepurchaseObligations>
-                <OtherUndrawnCommitments></OtherUndrawnCommitments>
+                <ToCreditInstitutions>2309</ToCreditInstitutions>
+                <ToFirmsSSPEs>4711</ToFirmsSSPEs>
+                <StandbyToOtherInstitutions>8143</StandbyToOtherInstitutions>
+                <ByFirmsSSPEs>6320</ByFirmsSSPEs>
+                <ToNonCreditInstitutions>6947</ToNonCreditInstitutions>
+                <OverdraftCreditCard>2619</OverdraftCreditCard>
+                <PipelineLending>4960</PipelineLending>
+                <RepurchaseObligations>7516</RepurchaseObligations>
+                <OtherUndrawnCommitments>9166</OtherUndrawnCommitments>
             </Unsecured>
         </FacilitiesProvided>
     </OffBalanceSheet>
     <DowngradeTriggers>
         <AssetPutBacks>
-            <Down1Notch></Down1Notch>
-            <Down2Notches></Down2Notches>
-            <Down3Notches></Down3Notches>
-            <Down4Notches></Down4Notches>
-            <Down5Notches></Down5Notches>
-            <Down6Notches></Down6Notches>
-            <Down7Notches></Down7Notches>
-            <Down8Notches></Down8Notches>
-            <Down9Notches></Down9Notches>
-            <Down10Notches></Down10Notches>
+            <Down1Notch>5953</Down1Notch>
+            <Down2Notches>4455</Down2Notches>
+            <Down3Notches>3224</Down3Notches>
+            <Down4Notches>1062</Down4Notches>
+            <Down5Notches>2115</Down5Notches>
+            <Down6Notches>6153</Down6Notches>
+            <Down7Notches>3816</Down7Notches>
+            <Down8Notches>7965</Down8Notches>
+            <Down9Notches>9654</Down9Notches>
+            <Down10Notches>3863</Down10Notches>
         </AssetPutBacks>
         <ConditionalLiabilities>
-            <Down1Notch></Down1Notch>
-            <Down2Notches></Down2Notches>
-            <Down3Notches></Down3Notches>
-            <Down4Notches></Down4Notches>
-            <Down5Notches></Down5Notches>
-            <Down6Notches></Down6Notches>
-            <Down7Notches></Down7Notches>
-            <Down8Notches></Down8Notches>
-            <Down9Notches></Down9Notches>
-            <Down10Notches></Down10Notches>
+            <Down1Notch>5762</Down1Notch>
+            <Down2Notches>9848</Down2Notches>
+            <Down3Notches>7464</Down3Notches>
+            <Down4Notches>5892</Down4Notches>
+            <Down5Notches>4160</Down5Notches>
+            <Down6Notches>8610</Down6Notches>
+            <Down7Notches>5306</Down7Notches>
+            <Down8Notches>9664</Down8Notches>
+            <Down9Notches>6395</Down9Notches>
+            <Down10Notches>2038</Down10Notches>
         </ConditionalLiabilities>
         <OTCDerivativeTriggers>
-            <Down1Notch></Down1Notch>
-            <Down2Notches></Down2Notches>
-            <Down3Notches></Down3Notches>
-            <Down4Notches></Down4Notches>
-            <Down5Notches></Down5Notches>
-            <Down6Notches></Down6Notches>
-            <Down7Notches></Down7Notches>
-            <Down8Notches></Down8Notches>
-            <Down9Notches></Down9Notches>
-            <Down10Notches></Down10Notches>
+            <Down1Notch>2193</Down1Notch>
+            <Down2Notches>8626</Down2Notches>
+            <Down3Notches>3860</Down3Notches>
+            <Down4Notches>9552</Down4Notches>
+            <Down5Notches>5822</Down5Notches>
+            <Down6Notches>4887</Down6Notches>
+            <Down7Notches>5745</Down7Notches>
+            <Down8Notches>7551</Down8Notches>
+            <Down9Notches>5156</Down9Notches>
+            <Down10Notches>6226</Down10Notches>
         </OTCDerivativeTriggers>
         <OtherContingentLiabilities>
-            <Down1Notch></Down1Notch>
-            <Down2Notches></Down2Notches>
-            <Down3Notches></Down3Notches>
-            <Down4Notches></Down4Notches>
-            <Down5Notches></Down5Notches>
-            <Down6Notches></Down6Notches>
-            <Down7Notches></Down7Notches>
-            <Down8Notches></Down8Notches>
-            <Down9Notches></Down9Notches>
-            <Down10Notches></Down10Notches>
+            <Down1Notch>7955</Down1Notch>
+            <Down2Notches>7542</Down2Notches>
+            <Down3Notches>8510</Down3Notches>
+            <Down4Notches>8301</Down4Notches>
+            <Down5Notches>4259</Down5Notches>
+            <Down6Notches>2825</Down6Notches>
+            <Down7Notches>3070</Down7Notches>
+            <Down8Notches>7180</Down8Notches>
+            <Down9Notches>8279</Down9Notches>
+            <Down10Notches>1986</Down10Notches>
         </OtherContingentLiabilities>
     </DowngradeTriggers>
     <Derivatives>
         <OTCDerivativeMarginGiven>
-            <CashNominal></CashNominal>
-            <CollateralMarketValue></CollateralMarketValue>
-            <InitialMargin></InitialMargin>
-            <MTMExposureMargined></MTMExposureMargined>
-            <MTMExposureNonMargined></MTMExposureNonMargined>
+            <CashNominal>8162</CashNominal>
+            <CollateralMarketValue>5739</CollateralMarketValue>
+            <InitialMargin>1218</InitialMargin>
+            <MTMExposureMargined>3857</MTMExposureMargined>
+            <MTMExposureNonMargined>5110</MTMExposureNonMargined>
         </OTCDerivativeMarginGiven>
         <ExchangeTradedMarginGiven>
-            <CashNominal></CashNominal>
-            <CollateralMarketValue></CollateralMarketValue>
-            <InitialMargin></InitialMargin>
+            <CashNominal>3220</CashNominal>
+            <CollateralMarketValue>1137</CollateralMarketValue>
+            <InitialMargin>4238</InitialMargin>
         </ExchangeTradedMarginGiven>
         <OTCDerivativeMarginReceived>
-            <CashNominal></CashNominal>
-            <CollateralMarketValue></CollateralMarketValue>
-            <InitialMargin></InitialMargin>
-            <MTMExposureMargined></MTMExposureMargined>
-            <MTMExposureNonMargined></MTMExposureNonMargined>
+            <CashNominal>2084</CashNominal>
+            <CollateralMarketValue>5350</CollateralMarketValue>
+            <InitialMargin>2250</InitialMargin>
+            <MTMExposureMargined>2562</MTMExposureMargined>
+            <MTMExposureNonMargined>3061</MTMExposureNonMargined>
         </OTCDerivativeMarginReceived>
         <ExchangeTradedMarginReceived>
-            <CashNominal></CashNominal>
-            <CollateralMarketValue></CollateralMarketValue>
-            <InitialMargin></InitialMargin>
+            <CashNominal>3674</CashNominal>
+            <CollateralMarketValue>1371</CollateralMarketValue>
+            <InitialMargin>1170</InitialMargin>
         </ExchangeTradedMarginReceived>
     </Derivatives>
     <ReHypothecationAssetsCustomerBalance>
-        <LiquidAssetBufferSecurities></LiquidAssetBufferSecurities>
+        <LiquidAssetBufferSecurities>1942</LiquidAssetBufferSecurities>
         <OtherHighQualityGovernment>
-            <CentralBanksSupranationalsGovernments></CentralBanksSupranationalsGovernments>
-            <USBackedSecurities></USBackedSecurities>
+            <CentralBanksSupranationalsGovernments>9617</CentralBanksSupranationalsGovernments>
+            <USBackedSecurities>3819</USBackedSecurities>
         </OtherHighQualityGovernment>
         <AssetBackedAndCovered>
-            <AssetBackedSecurities></AssetBackedSecurities>
-            <CoveredBonds></CoveredBonds>
+            <AssetBackedSecurities>8949</AssetBackedSecurities>
+            <CoveredBonds>6188</CoveredBonds>
         </AssetBackedAndCovered>
-        <SecuritiesIssuedByGroup></SecuritiesIssuedByGroup>
+        <SecuritiesIssuedByGroup>6314</SecuritiesIssuedByGroup>
         <HighQualityCorporateBonds>
-            <UKCreditInstitutions></UKCreditInstitutions>
-            <NonUKCreditInstitutions></NonUKCreditInstitutions>
-            <NonCreditInstitutions></NonCreditInstitutions>
+            <UKCreditInstitutions>8568</UKCreditInstitutions>
+            <NonUKCreditInstitutions>9313</NonUKCreditInstitutions>
+            <NonCreditInstitutions>7787</NonCreditInstitutions>
         </HighQualityCorporateBonds>
-        <EquitiesInMajorIndices></EquitiesInMajorIndices>
-        <OtherSecuritiesAndCommodities></OtherSecuritiesAndCommodities>
+        <EquitiesInMajorIndices>3310</EquitiesInMajorIndices>
+        <OtherSecuritiesAndCommodities>5774</OtherSecuritiesAndCommodities>
     </ReHypothecationAssetsCustomerBalance>
 
 </FSA048-EMR>

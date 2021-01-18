@@ -5,37 +5,37 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>294428</FirmReferenceNumber>
+            <FirmReferenceNumber>302408</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
 
     <SpecificCountryValues>
-        <AU></AU>
-        <AT></AT>
-        <BE></BE>
-        <CA></CA>
-        <DK></DK>
-        <FI></FI>
-        <FR></FR>
-        <DE></DE>
-        <IE></IE>
-        <IT></IT>
-        <JP></JP>
-        <LU></LU>
-        <NO></NO>
-        <NL></NL>
-        <PT></PT>
-        <SI></SI>
-        <ES></ES>
-        <SE></SE>
-        <CH></CH>
-        <GB></GB>
-        <US></US>
+        <AU>996188</AU>
+        <AT>250189</AT>
+        <BE>627193</BE>
+        <CA>308480</CA>
+        <DK>745012</DK>
+        <FI>693038</FI>
+        <FR>144825</FR>
+        <DE>294428</DE>
+        <IE>327592</IE>
+        <IT>452270</IT>
+        <JP>841059</JP>
+        <LU>891047</LU>
+        <NO>244512</NO>
+        <NL>305601</NL>
+        <PT>701045</PT>
+        <SI>520781</SI>
+        <ES>336040</ES>
+        <SE>240968</SE>
+        <CH>853965</CH>
+        <GB>779464</GB>
+        <US>307700</US>
     </SpecificCountryValues>
 
-    <OtherCountriesValue></OtherCountriesValue>
-    <DesignatedMultilateralDevelopmentBanksValue></DesignatedMultilateralDevelopmentBanksValue>
-    <GeneralCollateralEuropeValue></GeneralCollateralEuropeValue>
+    <OtherCountriesValue>647375</OtherCountriesValue>
+    <DesignatedMultilateralDevelopmentBanksValue>159106</DesignatedMultilateralDevelopmentBanksValue>
+    <GeneralCollateralEuropeValue>922329</GeneralCollateralEuropeValue>
 
 </FSA050-QualifyingSecurities>

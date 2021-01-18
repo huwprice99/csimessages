@@ -8,64 +8,64 @@
                 <OperateUCITSSchemes></OperateUCITSSchemes>
     <UseDerivatives></UseDerivatives>
     <FundAndRisk>
-        <FundName>aJnSuypxylvUGskqtlmNOesJpglYoCPgCOJKkgpPaugjYYPGfHztHKWVrDEopp</FundName>
+        <FundName>aDQSXXaeVMvBrnpYpctQNuhJxEqocVfJGgDKYFKXWAygxBFcOmqfOwzGvgvuHMbYGKTkIEaIsvToVanUYoyPGYUlGWpSlrqlyyAL</FundName>
         <Authorisation>UK</Authorisation>
-        <PRNLEI>lUtosQHAfmTvMuW</PRNLEI>
-        <AssetsUnderMgmt>849148</AssetsUnderMgmt>
-        <GrossLongPos>0.87</GrossLongPos>
-        <GrossShortPos>0.78</GrossShortPos>
-        <InvPurposes>Yes</InvPurposes>
+        <PRNLEI>HutkmGNtCmJv</PRNLEI>
+        <AssetsUnderMgmt>500244</AssetsUnderMgmt>
+        <GrossLongPos>0.27</GrossLongPos>
+        <GrossShortPos>0.07</GrossShortPos>
+        <InvPurposes>No</InvPurposes>
         <GlobalExpo>
-            <ExpoLeverage>Yes</ExpoLeverage>
+            <ExpoLeverage>No</ExpoLeverage>
         </GlobalExpo>
         <RiskMeasures>
             <CommitmentApproach>
-                <MeanAvgValuePast12Mth>0.59</MeanAvgValuePast12Mth>
+                <MeanAvgValuePast12Mth>0.73</MeanAvgValuePast12Mth>
             </CommitmentApproach>
         </RiskMeasures>
         <Leverage>
             <Average>
-                <MeanAvgLev12Mth>0.02</MeanAvgLev12Mth>
+                <MeanAvgLev12Mth>0.18</MeanAvgLev12Mth>
             </Average>
             <LevLimit>
-                <MaxExpLvlLev>0.74</MaxExpLvlLev>
-                <UseLvlPerProsp>0.08</UseLvlPerProsp>
-                <InternalMaxLevLmt>0.72</InternalMaxLevLmt>
+                <MaxExpLvlLev>0.26</MaxExpLvlLev>
+                <UseLvlPerProsp>0.89</UseLvlPerProsp>
+                <InternalMaxLevLmt>0.51</InternalMaxLevLmt>
             </LevLimit>
         </Leverage>
     </FundAndRisk>
     <DerivativeUse>
-        <FundName>pjdwJSgDLytFVqTpqufTfFosNIelJkDhvGllMHOfOKeFAMrlWWrfUfkJULIaOVTBUmlqfK</FundName>
+        <FundName>TAvupmtGPJELqhzafJOxAAoEToEYkBHunSXJUVUnfSVWPHTehMoSxnUtmPzbHuwockyxjPelNCsGDrOntzRyoNWaXEyf</FundName>
         <DerivativeType>
             <Forward>
-                <Commodity>yes</Commodity>
-                <Equity>no</Equity>
-                <FixedIncome>no</FixedIncome>
-                <FX>yes</FX>
-                <Index>no</Index>
-                <InterestRate>no</InterestRate>
-            </Forward>
-            <Option>
                 <Commodity>no</Commodity>
                 <Equity>yes</Equity>
-                <FixedIncome>no</FixedIncome>
+                <FixedIncome>yes</FixedIncome>
                 <FX>yes</FX>
                 <Index>yes</Index>
                 <InterestRate>yes</InterestRate>
-                <Swaption>no</Swaption>
+            </Forward>
+            <Option>
+                <Commodity>yes</Commodity>
+                <Equity>yes</Equity>
+                <FixedIncome>yes</FixedIncome>
+                <FX>no</FX>
+                <Index>no</Index>
+                <InterestRate>yes</InterestRate>
+                <Swaption>yes</Swaption>
             </Option>
             <Warrant>
-                <Equity>yes</Equity>
+                <Equity>no</Equity>
             </Warrant>
         </DerivativeType>
     </DerivativeUse>
-    <Comments>lKFnUSAXxXCLtmOYGohNWQeHJGLcEtyjYPXKTtdfnvOHEJNvJrBYtqctFXDpgxueztMDodenlcACcxcaRqsoQzOINFeVPOXObKhmWkhGmoOrPAqjVDwPffnaDeOIYjxvdKBspQdHjLbCJyRnpVamtjJUxhHRvzGdPuneYXSfANHudKqfmBtcjmbTbFThlkmJeXLqmNordTLEBpQMRBGTfDTEssctdLUpCWpfXYTyocYozwtMOhpHDsDAdgXSKUnsYxcDYLNSHjFcEGfUYqEUwoLltObQbbMtOHpctOMcuwYvLAVxbcSuqsUKKSlkJWQGvnnVrdBlDBBapqxRREPYhtcxMErAFBtwEsYyoYfWAIPNPUwvvrtegRzckPlMMbEchevVqYESzSyyCoHQhVfojppLSWoyOslzeNGKzzewLzEouazVhtFQUrTRPJcsKgdhIYuOHVsIQJBIKbsSyrqwLtDMSNUOwLKFwwFuGKpkaWYmOmhNslTuQHvpvGUSbCmfYVmowWmMbewOtsXHFgxnQqNObqXYOvlxLTnSYTsuWhsLkFVdIooTeXoIhxnfXnXFUXdzeeHLOdpJWbDvuUrAhpsMFDKBGmvKlMQnBxXDGBfbJEKfTRLdVxxFFrSBufeCHDAkkrSVVMTGlqcbREHOAsNLpmGkDxlAwDufeAUDXOhjCQvppQIOxqbqONVXJIsyDtkGVVWsIeQKlFjyPrUMNucgBeqqEVSqwIFjGOttTrftzrflEyhtMFJlqeeRFGNLkBoAYaRbWCRxoJGkXgKfOACQYwRBJBMnCthWcElEGgvkMnUGxTSzVHWKYxBDhqrwOFTTBIjtVgzHfrdMAmePHorUwxXEdGxrOXwhsbeNLzCOhqEHuOdUkANBpYyeJDqqJjRhUUuzhrehKBMfSrkoCBfplURsCYdhlnfYxxMyuDNTwFPNmsmttbMhdDWadcVhoWXyvNIvELSXMmRDeefkNJOjzWUSALvsHGGzHrsyJPOHhNvQKtUXVLtDhPYyROURqBrgFtVNMHAWThaKCejgQxwVocrRsTFUUWrGx</Comments>
+    <Comments>wTFLxHTEjxUsIeeTUoPTbnHhBXaooyyDsYMTWGlUxldVDAOjJcfJODdlmxlzHFrJXsYIrlWodTxQjLDbjQEktONNUDHzwKoRRtWmAgRzeQGTgnaAThqPagrlDmMMCxQsFFYONrBbXffCjSHIDgFpuyQLcNIptfWGYopBnkMCGpQUaOaJEdlvRCWhNnMYInHShyDTEfvsudIfHULoNXKqVBOwqgMYyNStGWMBkfeyHQaOTRASBymKCsWFJgEytvSGlpyJhlcHTmHeBaCyGTyaBjQpahQeBGemXuEFtQKrwEPqKReIEgRyWSebxlIasWfnhvfgwVeOlgDWsBEhchAvNFpfpChlhJXyyCjqLXnHbcpQpgJUFAXlxJzBfaQSNUGzhfzOtpweUSuLryPjSmEHLNaNdHlLguSfvPIlHTCreTpEqMlHkIaBrYNteKKLfJWBYorAOGAXJoCQzwyrxBAytrOvcqeWlQmuVNEcwISDjbRdxVTInupDlzhIyUyzCCORbhTKQwTNIWqsyLXfvvKOCHkxFVDBktbFnYbpbjRQzAUnlPlMWsdgRYquWxfURtCpUJezJIenDTqbLXoPLPDRqTMnIGsEdWXfXGrzKKcpoQDXJpHXjpjbOKYaWRPdqAlGUldfGOeaNpEyrODuXtvNNVqnGqCSUYXMGVczmCrulhoAfAIhoveVewSYTPyrnmfNrQRvLejwcbDFHPggGuEzUbHkddFvdagXczjoIowlnHTdRnrdIsJSHFSplGrIzNsbTFDjGSytXunnhEsQLBLLroqwGTebVMKypRjnIjwPSrUnsFhEoAVWbGKGphCMNwwkJNXpwfjDeVRYtddaMzMwPMxIgBXAFJbxTJDDHRjjstSeNKomdBaoIavVrpjThHWvTvfJzzsTrEexTsTvoMxdJNNToGnsJobJvyktFELDlfWeUXcXvMFukSLfHkvSnYkcDubwhBPJbSTDQIXqEpWWHGzBMeKvjRrkTTBBVGQSWVtsYhpXmepXbouVUAJcPuAjCJIVhxtWxeYLngCEOMjdDtjGzEFwWOcCvkPqysQOLrAWoIJNXendmxEjAcwCQWaIbxrcrngwUusnRmsQUQyRBYrXGGOvUoWNrQUQrHwLXPhQesqpKFHazhhcftwKxKAGxDUbqAAouMTLQzSoqzKqGWpjJSKXmLonpAuAwpYlfuFLnvkGzhuXakazpLrwPBbIzGwqfsRbAAknrCVoHeydrqneATmJWCuDsWnGYUBhqtxzYNjMPdOKdXrjtsOkfhdWfHTupqpMDqNXRNeMLzSTNIAuFenGfqbhqztsSNxANbhMltrFnczGojlxgANkcHGnpGHsuMSWbsfLANlnMGtcQvSgqVksanxfvUxDKXmzjBEUcxVtqBxwoDwSMBcyCAWOUarFqGBOvTSpPWdRYRcyObQQyEPlVNWIEPacfrcIaIbuJgdOxlyKyzYSjAgLPrRGVkKYVaLIOtygaxgsAbMMpnlfQhTFlrSIPuyywdRwxOVeaRRLtOkOEfrJbFjOggzxAOqGXHUxjqpAreeXqjmufedKcOxQTdqrqyEmCmMLSNFpPQsVAkyWTerwKFDlkeCeYXlRzSwdwAAsyOTkwAqJEswkgjAVHCBOkBpRHzwHNvBuEXXVLtNJNSzHCXLrszwSXLhVAbDVdIUlPbGhkEkoNQasbGqINfppXIwRQbwJORFfWpQAsDgNphfgKPUSLUhXuGmhFNrljBzUmUuLPOrlYAYQCphbfCWTKGLrdJUDnVFMIlUPvjdWDWYSGuErGqdF</Comments>
             </FSA042-UCITS>
         </dataItemBody>
     </dataItem>
     <reportingPeriod>
-        <startDate>2019-03-06</startDate> 
-        <endDate>2020-11-23</endDate> 
-        <submissionDueDate>2021-01-05</submissionDueDate> 
+        <startDate>2020-06-08</startDate> 
+        <endDate>2020-07-23</endDate> 
+        <submissionDueDate>2020-12-28</submissionDueDate> 
     </reportingPeriod>
 </XMLUploadRequest>

@@ -6,35 +6,35 @@
 
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber>272119</FirmReferenceNumber>
+            <FirmReferenceNumber>272137</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     <GeneralInfo>
-        <LocationDisclosures>wFOGREkGqegzxgjltLYttmpadekELzUOfauRTjWMgroJajnovfsRVtYkrOCNuFUPlstwLqpkNnmcWEYUQVlFhdRMblBfFjtAvxAIOPBePhdJgVnMOHVxwpIgAGvCOlEFTKGzdrfaueOaYhGeVOrXmUegOthjvYqGCyOvqNIxBVdrAIhsaqGaSFtYGAKKjWFvOjxBskOjgSwqQMFgmPjfsqNVfPOPdWoDqHBskGYOBySYjchSTDytOAczuAvCvYfjFSYjmoUFPtDTwONcIVUzyUOPFcWKkxtCsKuqcXHFHSCvVjdFMtSzdFJJdjDjrkvtabBKuxYJopQFsuTxYrWRDSyM</LocationDisclosures>
-        <RiskTransferAdditionalCapital>532337</RiskTransferAdditionalCapital>
-        <PenaltyAdditionalCapital>831664</PenaltyAdditionalCapital>
-        <ReductionInRWAs>170670</ReductionInRWAs>
+        <LocationDisclosures>DEkEldHfTMWcTmhturFWzarMHRJIeEVVSajeXqGsAWdQYVXunkWpKffDoxVruXbqPajTcdudKnwCWzMKSpwSGGmMTFQAtpXCUNaXMerlPSExJCGNKmyeChIjOwYxmTJwpTGlzOWOWmcNcOdrXcPhPSYNeQlreTWVljhOVxpUoJgqeTgasHyjdCFvTSeHEGJdpfETGovBNTTgMJIlKlYwvOSHCMUcsGrGYdbXqmtdnWujHyIlkTVvGnIAnWrTttjhDngIIJTyPUlyuJYddKRyJVaMuALtTzKSNnFvrYBAayELclgCWn</LocationDisclosures>
+        <RiskTransferAdditionalCapital>688825</RiskTransferAdditionalCapital>
+        <PenaltyAdditionalCapital>833630</PenaltyAdditionalCapital>
+        <ReductionInRWAs>398684</ReductionInRWAs>
     </GeneralInfo>
     
     <TransactionDetails>
         <Programme>
-            <ProgrammeName>lJqqCSFdwyRRNtGBbALkmOKGYYFCnzmWDYhSoWLvDQWPAYThyKSUblKvYIqDodQ</ProgrammeName>
-            <AssetClass>WmToNmNodOrGuQTgaeydCG</AssetClass>
-            <OriginatorsInterest>341033</OriginatorsInterest>
-            <InvestorsInterest>773383</InvestorsInterest>
-            <LocationInvestorReports>VKwOfJCrDfCqyPYprTXUAyTHxHlguQqAqYCtfQmmQWjNcrIqAKJJHPFxPOryAvVLOcazoFlzHMdCqfFfXSGJhFRzueDqANKvawYYrjcTAkbULcgJjkzGOnEjlAfjcSXTbHCSgFOOQLjVEWNrXSgppeGNRPOQdSRGmhTdAoDDwJPddHEnLNkjMJFVbOarPXLWSCKxcJQJqDSFoCJlmCeqHITBCWcLnnNxXRlBWhkcWBSlQaHzePeoTvqlHjUfHewdOvGwshndrbsgPKKCpCGwhADCCYTNnfvRfPuwtmgWDbVRdjuWytPeyYUpQeTsozQmGAbYq</LocationInvestorReports>
+            <ProgrammeName>PHBKxHnuohXADqkq</ProgrammeName>
+            <AssetClass>KgeEMdl</AssetClass>
+            <OriginatorsInterest>981704</OriginatorsInterest>
+            <InvestorsInterest>981568</InvestorsInterest>
+            <LocationInvestorReports>rymrpJkujwHJcsdPWhWKtCzTpALzaytALylmkrXKdNPeVFhXGqgwPsPOXsbNWKuJdgWEjQFGlnHFMvWI</LocationInvestorReports>
             <AssetsOnFSA001>Yes</AssetsOnFSA001>
             <BIPRU9-3-1RApplies>No</BIPRU9-3-1RApplies>
-            <ConversionFactorApplied>Yes</ConversionFactorApplied>
-            <ExposureBeforeSecuritisation>817583</ExposureBeforeSecuritisation>
-            <CapitalRequirementBeforeSecuritisation>147323</CapitalRequirementBeforeSecuritisation>
-            <ExposureAfterSecuritisation>514259</ExposureAfterSecuritisation>
-            <ExposureDeductedFromResources>601037</ExposureDeductedFromResources>
-            <CapitalRequirementBeforeCap>369962</CapitalRequirementBeforeCap>
-            <CapitalRequirementAfterCap>732868</CapitalRequirementAfterCap>
-            <NetEconomicInterestRetention>57</NetEconomicInterestRetention>
-            <RetentionMethod>a</RetentionMethod>
+            <ConversionFactorApplied>No</ConversionFactorApplied>
+            <ExposureBeforeSecuritisation>645259</ExposureBeforeSecuritisation>
+            <CapitalRequirementBeforeSecuritisation>825909</CapitalRequirementBeforeSecuritisation>
+            <ExposureAfterSecuritisation>879552</ExposureAfterSecuritisation>
+            <ExposureDeductedFromResources>338008</ExposureDeductedFromResources>
+            <CapitalRequirementBeforeCap>810997</CapitalRequirementBeforeCap>
+            <CapitalRequirementAfterCap>911685</CapitalRequirementAfterCap>
+            <NetEconomicInterestRetention>73</NetEconomicInterestRetention>
+            <RetentionMethod>b</RetentionMethod>
         </Programme>
         <Programme>
             <ProgrammeName>Stone</ProgrammeName>
@@ -60,90 +60,90 @@
         <StandardisedExposures>
             <Originator>
                 <Securitisation>
-                    <CQS1>821017</CQS1>
-                    <CQS2>303379</CQS2>
-                    <CQS3>962244</CQS3>
-                    <CQS4>839406</CQS4>
-                    <AllOtherAssessments>128787</AllOtherAssessments>
-                    <CapitalDeductions>792482</CapitalDeductions>
-                    <ConcentrationRatioExposure>398856</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>538074</ConcentrationRatioRequirement>
+                    <CQS1>991659</CQS1>
+                    <CQS2>847378</CQS2>
+                    <CQS3>301929</CQS3>
+                    <CQS4>411168</CQS4>
+                    <AllOtherAssessments>845848</AllOtherAssessments>
+                    <CapitalDeductions>249038</CapitalDeductions>
+                    <ConcentrationRatioExposure>395147</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>563485</ConcentrationRatioRequirement>
                 </Securitisation>
                 <Resecuritisation>
-                    <CQS1>512514</CQS1>
-                    <CQS2>333741</CQS2>
-                    <CQS3>510897</CQS3>
-                    <CQS4>663388</CQS4>
-                    <AllOtherAssessments>317672</AllOtherAssessments>
-                    <CapitalDeductions>978517</CapitalDeductions>
-                    <ConcentrationRatioExposure>545662</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>216839</ConcentrationRatioRequirement>
+                    <CQS1>365361</CQS1>
+                    <CQS2>986727</CQS2>
+                    <CQS3>996122</CQS3>
+                    <CQS4>278911</CQS4>
+                    <AllOtherAssessments>232870</AllOtherAssessments>
+                    <CapitalDeductions>926840</CapitalDeductions>
+                    <ConcentrationRatioExposure>672369</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>290468</ConcentrationRatioRequirement>
                 </Resecuritisation>
             </Originator>
             <Sponsor>
                 <Securitisation>
-                    <CQS1>613356</CQS1>
-                    <CQS2>797304</CQS2>
-                    <CQS3>189534</CQS3>
-                    <CQS4>561484</CQS4>
-                    <AllOtherAssessments>749513</AllOtherAssessments>
-                    <CapitalDeductions>324796</CapitalDeductions>
-                    <ConcentrationRatioExposure>732365</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>729840</ConcentrationRatioRequirement>
+                    <CQS1>414514</CQS1>
+                    <CQS2>548526</CQS2>
+                    <CQS3>205566</CQS3>
+                    <CQS4>626546</CQS4>
+                    <AllOtherAssessments>246623</AllOtherAssessments>
+                    <CapitalDeductions>891116</CapitalDeductions>
+                    <ConcentrationRatioExposure>794911</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>577055</ConcentrationRatioRequirement>
                 </Securitisation>
                 <Resecuritisation>
-                    <CQS1>348324</CQS1>
-                    <CQS2>206920</CQS2>
-                    <CQS3>767894</CQS3>
-                    <CQS4>721479</CQS4>
-                    <AllOtherAssessments>226431</AllOtherAssessments>
-                    <CapitalDeductions>254918</CapitalDeductions>
-                    <ConcentrationRatioExposure>379671</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>609637</ConcentrationRatioRequirement>
+                    <CQS1>586441</CQS1>
+                    <CQS2>588666</CQS2>
+                    <CQS3>551266</CQS3>
+                    <CQS4>510485</CQS4>
+                    <AllOtherAssessments>191360</AllOtherAssessments>
+                    <CapitalDeductions>261312</CapitalDeductions>
+                    <ConcentrationRatioExposure>502872</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>706035</ConcentrationRatioRequirement>
                 </Resecuritisation>
             </Sponsor>
             <Counterparty>
                 <Securitisation>
-                    <CQS1>695193</CQS1>
-                    <CQS2>354778</CQS2>
-                    <CQS3>306290</CQS3>
-                    <CQS4>853756</CQS4>
-                    <AllOtherAssessments>406563</AllOtherAssessments>
-                    <CapitalDeductions>680597</CapitalDeductions>
-                    <ConcentrationRatioExposure>487683</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>345172</ConcentrationRatioRequirement>
+                    <CQS1>732019</CQS1>
+                    <CQS2>457084</CQS2>
+                    <CQS3>241768</CQS3>
+                    <CQS4>791138</CQS4>
+                    <AllOtherAssessments>397590</AllOtherAssessments>
+                    <CapitalDeductions>644639</CapitalDeductions>
+                    <ConcentrationRatioExposure>314701</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>911019</ConcentrationRatioRequirement>
                 </Securitisation>
                 <Resecuritisation>
-                    <CQS1>768534</CQS1>
-                    <CQS2>125922</CQS2>
-                    <CQS3>699535</CQS3>
-                    <CQS4>759664</CQS4>
-                    <AllOtherAssessments>867957</AllOtherAssessments>
-                    <CapitalDeductions>569115</CapitalDeductions>
-                    <ConcentrationRatioExposure>606988</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>537196</ConcentrationRatioRequirement>
+                    <CQS1>807713</CQS1>
+                    <CQS2>421044</CQS2>
+                    <CQS3>531676</CQS3>
+                    <CQS4>385121</CQS4>
+                    <AllOtherAssessments>194592</AllOtherAssessments>
+                    <CapitalDeductions>390516</CapitalDeductions>
+                    <ConcentrationRatioExposure>314561</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>729741</ConcentrationRatioRequirement>
                 </Resecuritisation>
             </Counterparty>
             <AllOther>
                 <Securitisation>
-                    <CQS1>281765</CQS1>
-                    <CQS2>774284</CQS2>
-                    <CQS3>321408</CQS3>
-                    <CQS4>858313</CQS4>
-                    <AllOtherAssessments>222447</AllOtherAssessments>
-                    <CapitalDeductions>470036</CapitalDeductions>
-                    <ConcentrationRatioExposure>854780</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>954701</ConcentrationRatioRequirement>
+                    <CQS1>391981</CQS1>
+                    <CQS2>912659</CQS2>
+                    <CQS3>181477</CQS3>
+                    <CQS4>518432</CQS4>
+                    <AllOtherAssessments>290632</AllOtherAssessments>
+                    <CapitalDeductions>229714</CapitalDeductions>
+                    <ConcentrationRatioExposure>337331</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>962148</ConcentrationRatioRequirement>
                 </Securitisation>
                 <Resecuritisation>
-                    <CQS1>101837</CQS1>
-                    <CQS2>411232</CQS2>
-                    <CQS3>523368</CQS3>
-                    <CQS4>976923</CQS4>
-                    <AllOtherAssessments>541360</AllOtherAssessments>
-                    <CapitalDeductions>274835</CapitalDeductions>
-                    <ConcentrationRatioExposure>505607</ConcentrationRatioExposure>
-                    <ConcentrationRatioRequirement>160603</ConcentrationRatioRequirement>
+                    <CQS1>821605</CQS1>
+                    <CQS2>269813</CQS2>
+                    <CQS3>602469</CQS3>
+                    <CQS4>651861</CQS4>
+                    <AllOtherAssessments>509193</AllOtherAssessments>
+                    <CapitalDeductions>673488</CapitalDeductions>
+                    <ConcentrationRatioExposure>150097</ConcentrationRatioExposure>
+                    <ConcentrationRatioRequirement>867629</ConcentrationRatioRequirement>
                 </Resecuritisation>
             </AllOther>
         </StandardisedExposures>
@@ -151,236 +151,236 @@
         <IRBExposures>
             <Originator>
                 <A>
-                    <CQS1>402239</CQS1>
-                    <CQS2>252065</CQS2>
-                    <CQS3>517340</CQS3>
-                    <CQS4>506940</CQS4>
-                    <CQS5>877857</CQS5>
-                    <CQS6>513340</CQS6>
-                    <CQS7>472069</CQS7>
-                    <CQS8>378732</CQS8>
-                    <CQS9>462764</CQS9>
-                    <CQS10>711158</CQS10>
-                    <CQS11>259841</CQS11>
-                    <BelowCQS11>235089</BelowCQS11>
-                    <FormulaExposureValue>945052</FormulaExposureValue>
-                    <FormulaCapitalRequirement>318836</FormulaCapitalRequirement>
-                    <CapitalDeductions>751714</CapitalDeductions>
+                    <CQS1>274364</CQS1>
+                    <CQS2>268531</CQS2>
+                    <CQS3>426462</CQS3>
+                    <CQS4>413842</CQS4>
+                    <CQS5>172908</CQS5>
+                    <CQS6>361326</CQS6>
+                    <CQS7>499124</CQS7>
+                    <CQS8>223895</CQS8>
+                    <CQS9>798557</CQS9>
+                    <CQS10>183704</CQS10>
+                    <CQS11>483087</CQS11>
+                    <BelowCQS11>827686</BelowCQS11>
+                    <FormulaExposureValue>407001</FormulaExposureValue>
+                    <FormulaCapitalRequirement>796979</FormulaCapitalRequirement>
+                    <CapitalDeductions>786992</CapitalDeductions>
                 </A>
                 <B>
-                    <CQS1>761676</CQS1>
-                    <CQS2>903942</CQS2>
-                    <CQS3>890211</CQS3>
-                    <CQS4>951575</CQS4>
-                    <CQS5>423305</CQS5>
-                    <CQS6>745427</CQS6>
-                    <CQS7>769250</CQS7>
-                    <CQS8>575613</CQS8>
-                    <CQS9>402298</CQS9>
-                    <CQS10>783195</CQS10>
-                    <CQS11>181593</CQS11>
-                    <BelowCQS11>278907</BelowCQS11>
+                    <CQS1>503777</CQS1>
+                    <CQS2>948135</CQS2>
+                    <CQS3>506364</CQS3>
+                    <CQS4>900710</CQS4>
+                    <CQS5>210633</CQS5>
+                    <CQS6>686738</CQS6>
+                    <CQS7>833568</CQS7>
+                    <CQS8>759042</CQS8>
+                    <CQS9>533687</CQS9>
+                    <CQS10>114265</CQS10>
+                    <CQS11>506813</CQS11>
+                    <BelowCQS11>150776</BelowCQS11>
                 </B>
                 <C>
-                    <CQS1>279934</CQS1>
-                    <CQS2>599647</CQS2>
-                    <CQS3>592909</CQS3>
-                    <CQS4>736042</CQS4>
-                    <CQS5>401741</CQS5>
-                    <CQS6>306635</CQS6>
-                    <CQS7>199196</CQS7>
-                    <CQS8>971588</CQS8>
+                    <CQS1>449339</CQS1>
+                    <CQS2>215619</CQS2>
+                    <CQS3>814638</CQS3>
+                    <CQS4>903565</CQS4>
+                    <CQS5>427564</CQS5>
+                    <CQS6>789332</CQS6>
+                    <CQS7>342441</CQS7>
+                    <CQS8>608006</CQS8>
                     <CQS9>320</CQS9>
-                    <CQS10>176574</CQS10>
-                    <CQS11>968699</CQS11>
-                    <BelowCQS11>695436</BelowCQS11>
+                    <CQS10>894612</CQS10>
+                    <CQS11>946337</CQS11>
+                    <BelowCQS11>781926</BelowCQS11>
                 </C>
                 <D>
-                    <CQS1>229911</CQS1>
-                    <CQS2>702169</CQS2>
-                    <CQS3>882815</CQS3>
-                    <CQS4>517179</CQS4>
-                    <CQS5>121366</CQS5>
-                    <CQS6>402549</CQS6>
-                    <CQS7>728607</CQS7>
+                    <CQS1>702584</CQS1>
+                    <CQS2>417886</CQS2>
+                    <CQS3>862093</CQS3>
+                    <CQS4>177148</CQS4>
+                    <CQS5>438797</CQS5>
+                    <CQS6>498804</CQS6>
+                    <CQS7>793322</CQS7>
                     <CQS8>421</CQS8>
-                    <CQS9>422123</CQS9>
-                    <CQS10>296944</CQS10>
-                    <CQS11>689773</CQS11>
-                    <BelowCQS11>668958</BelowCQS11>
-                    <FormulaExposureValue>343943</FormulaExposureValue>
-                    <FormulaCapitalRequirement>321806</FormulaCapitalRequirement>
-                    <CapitalDeductions>943565</CapitalDeductions>
+                    <CQS9>150804</CQS9>
+                    <CQS10>547366</CQS10>
+                    <CQS11>746699</CQS11>
+                    <BelowCQS11>942734</BelowCQS11>
+                    <FormulaExposureValue>350356</FormulaExposureValue>
+                    <FormulaCapitalRequirement>341314</FormulaCapitalRequirement>
+                    <CapitalDeductions>586652</CapitalDeductions>
                 </D>
                 <E>
-                    <CQS1>895697</CQS1>
-                    <CQS2>670783</CQS2>
-                    <CQS3>523073</CQS3>
-                    <CQS4>178496</CQS4>
-                    <CQS5>865831</CQS5>
-                    <CQS6>624210</CQS6>
-                    <CQS7>288796</CQS7>
-                    <CQS8>112327</CQS8>
+                    <CQS1>958584</CQS1>
+                    <CQS2>934165</CQS2>
+                    <CQS3>135787</CQS3>
+                    <CQS4>515654</CQS4>
+                    <CQS5>794425</CQS5>
+                    <CQS6>802912</CQS6>
+                    <CQS7>449877</CQS7>
+                    <CQS8>431113</CQS8>
                     <CQS9>322</CQS9>
-                    <CQS10>140605</CQS10>
-                    <CQS11>329826</CQS11>
-                    <BelowCQS11>552544</BelowCQS11>
+                    <CQS10>248997</CQS10>
+                    <CQS11>614066</CQS11>
+                    <BelowCQS11>880741</BelowCQS11>
                 </E>
             </Originator>
             <Sponsor>
                 <A>
-                    <CQS1>104533</CQS1>
-                    <CQS2>436289</CQS2>
-                    <CQS3>495530</CQS3>
-                    <CQS4>909160</CQS4>
-                    <CQS5>726710</CQS5>
-                    <CQS6>894717</CQS6>
-                    <CQS7>789803</CQS7>
-                    <CQS8>716068</CQS8>
-                    <CQS9>391630</CQS9>
-                    <CQS10>670940</CQS10>
-                    <CQS11>902511</CQS11>
-                    <BelowCQS11>577752</BelowCQS11>
-                    <FormulaExposureValue>728098</FormulaExposureValue>
-                    <FormulaCapitalRequirement>711435</FormulaCapitalRequirement>
-                    <CapitalDeductions>922927</CapitalDeductions>
+                    <CQS1>692875</CQS1>
+                    <CQS2>318407</CQS2>
+                    <CQS3>594728</CQS3>
+                    <CQS4>583656</CQS4>
+                    <CQS5>853014</CQS5>
+                    <CQS6>444090</CQS6>
+                    <CQS7>665853</CQS7>
+                    <CQS8>868293</CQS8>
+                    <CQS9>298696</CQS9>
+                    <CQS10>325613</CQS10>
+                    <CQS11>667041</CQS11>
+                    <BelowCQS11>699313</BelowCQS11>
+                    <FormulaExposureValue>648560</FormulaExposureValue>
+                    <FormulaCapitalRequirement>947287</FormulaCapitalRequirement>
+                    <CapitalDeductions>129224</CapitalDeductions>
                 </A>
                 <B>
-                    <CQS1>711249</CQS1>
-                    <CQS2>604113</CQS2>
-                    <CQS3>711527</CQS3>
-                    <CQS4>834348</CQS4>
-                    <CQS5>440681</CQS5>
-                    <CQS6>457304</CQS6>
-                    <CQS7>389615</CQS7>
-                    <CQS8>543148</CQS8>
-                    <CQS9>567521</CQS9>
-                    <CQS10>771898</CQS10>
-                    <CQS11>796785</CQS11>
-                    <BelowCQS11>312082</BelowCQS11>
+                    <CQS1>981873</CQS1>
+                    <CQS2>987275</CQS2>
+                    <CQS3>623124</CQS3>
+                    <CQS4>165403</CQS4>
+                    <CQS5>100227</CQS5>
+                    <CQS6>119711</CQS6>
+                    <CQS7>883277</CQS7>
+                    <CQS8>659995</CQS8>
+                    <CQS9>368314</CQS9>
+                    <CQS10>865184</CQS10>
+                    <CQS11>411787</CQS11>
+                    <BelowCQS11>143422</BelowCQS11>
                 </B>
                 <C>
-                    <CQS1>801797</CQS1>
-                    <CQS2>372243</CQS2>
-                    <CQS3>792108</CQS3>
-                    <CQS4>495134</CQS4>
-                    <CQS5>734202</CQS5>
-                    <CQS6>285376</CQS6>
-                    <CQS7>854629</CQS7>
-                    <CQS8>704257</CQS8>
+                    <CQS1>181124</CQS1>
+                    <CQS2>695583</CQS2>
+                    <CQS3>303539</CQS3>
+                    <CQS4>443641</CQS4>
+                    <CQS5>694840</CQS5>
+                    <CQS6>730309</CQS6>
+                    <CQS7>895539</CQS7>
+                    <CQS8>339407</CQS8>
                     <CQS9>750</CQS9>
-                    <CQS10>606370</CQS10>
-                    <CQS11>128015</CQS11>
-                    <BelowCQS11>607627</BelowCQS11>
+                    <CQS10>263139</CQS10>
+                    <CQS11>736388</CQS11>
+                    <BelowCQS11>862289</BelowCQS11>
                 </C>
                 <D>
-                    <CQS1>584048</CQS1>
-                    <CQS2>478365</CQS2>
-                    <CQS3>151863</CQS3>
-                    <CQS4>660438</CQS4>
-                    <CQS5>831730</CQS5>
-                    <CQS6>573827</CQS6>
-                    <CQS7>690444</CQS7>
+                    <CQS1>589908</CQS1>
+                    <CQS2>849857</CQS2>
+                    <CQS3>801716</CQS3>
+                    <CQS4>679769</CQS4>
+                    <CQS5>321632</CQS5>
+                    <CQS6>542569</CQS6>
+                    <CQS7>602084</CQS7>
                     <CQS8>651</CQS8>
-                    <CQS9>472521</CQS9>
-                    <CQS10>298853</CQS10>
-                    <CQS11>701421</CQS11>
-                    <BelowCQS11>278461</BelowCQS11>
-                    <FormulaExposureValue>860732</FormulaExposureValue>
-                    <FormulaCapitalRequirement>854668</FormulaCapitalRequirement>
-                    <CapitalDeductions>198836</CapitalDeductions>
+                    <CQS9>493512</CQS9>
+                    <CQS10>643930</CQS10>
+                    <CQS11>786042</CQS11>
+                    <BelowCQS11>466386</BelowCQS11>
+                    <FormulaExposureValue>259923</FormulaExposureValue>
+                    <FormulaCapitalRequirement>910820</FormulaCapitalRequirement>
+                    <CapitalDeductions>203888</CapitalDeductions>
                 </D>
                 <E>
-                    <CQS1>675284</CQS1>
-                    <CQS2>757865</CQS2>
-                    <CQS3>714917</CQS3>
-                    <CQS4>893141</CQS4>
-                    <CQS5>928009</CQS5>
-                    <CQS6>237261</CQS6>
-                    <CQS7>929925</CQS7>
-                    <CQS8>682634</CQS8>
+                    <CQS1>413281</CQS1>
+                    <CQS2>181698</CQS2>
+                    <CQS3>100668</CQS3>
+                    <CQS4>689048</CQS4>
+                    <CQS5>922945</CQS5>
+                    <CQS6>125728</CQS6>
+                    <CQS7>657018</CQS7>
+                    <CQS8>307218</CQS8>
                     <CQS9>752</CQS9>
-                    <CQS10>988006</CQS10>
-                    <CQS11>443824</CQS11>
-                    <BelowCQS11>599522</BelowCQS11>
+                    <CQS10>629545</CQS10>
+                    <CQS11>430484</CQS11>
+                    <BelowCQS11>644090</BelowCQS11>
                 </E>
             </Sponsor>
             <Counterparty>
                 <A>
-                    <CQS1>798519</CQS1>
-                    <CQS2>330516</CQS2>
-                    <CQS3>797994</CQS3>
-                    <CQS4>602862</CQS4>
-                    <CQS5>906135</CQS5>
-                    <CQS6>512061</CQS6>
-                    <CQS7>246300</CQS7>
-                    <CQS8>624816</CQS8>
-                    <CQS9>340406</CQS9>
-                    <CQS10>346218</CQS10>
-                    <CQS11>382109</CQS11>
-                    <BelowCQS11>439391</BelowCQS11>
-                    <FormulaExposureValue>849255</FormulaExposureValue>
-                    <FormulaCapitalRequirement>624116</FormulaCapitalRequirement>
-                    <CapitalDeductions>117088</CapitalDeductions>
+                    <CQS1>403887</CQS1>
+                    <CQS2>559294</CQS2>
+                    <CQS3>640656</CQS3>
+                    <CQS4>877671</CQS4>
+                    <CQS5>903589</CQS5>
+                    <CQS6>308735</CQS6>
+                    <CQS7>518614</CQS7>
+                    <CQS8>716967</CQS8>
+                    <CQS9>493381</CQS9>
+                    <CQS10>283811</CQS10>
+                    <CQS11>941596</CQS11>
+                    <BelowCQS11>997791</BelowCQS11>
+                    <FormulaExposureValue>574380</FormulaExposureValue>
+                    <FormulaCapitalRequirement>229541</FormulaCapitalRequirement>
+                    <CapitalDeductions>117368</CapitalDeductions>
                 </A>
                 <B>
-                    <CQS1>215950</CQS1>
-                    <CQS2>878023</CQS2>
-                    <CQS3>548584</CQS3>
-                    <CQS4>632271</CQS4>
-                    <CQS5>569899</CQS5>
-                    <CQS6>779094</CQS6>
-                    <CQS7>697898</CQS7>
-                    <CQS8>420226</CQS8>
-                    <CQS9>273645</CQS9>
-                    <CQS10>713151</CQS10>
-                    <CQS11>541288</CQS11>
-                    <BelowCQS11>945865</BelowCQS11>
+                    <CQS1>916197</CQS1>
+                    <CQS2>192564</CQS2>
+                    <CQS3>177918</CQS3>
+                    <CQS4>681169</CQS4>
+                    <CQS5>337898</CQS5>
+                    <CQS6>856945</CQS6>
+                    <CQS7>566983</CQS7>
+                    <CQS8>123462</CQS8>
+                    <CQS9>416373</CQS9>
+                    <CQS10>897550</CQS10>
+                    <CQS11>982557</CQS11>
+                    <BelowCQS11>201700</BelowCQS11>
                 </B>
                 <C>
-                    <CQS1>313114</CQS1>
-                    <CQS2>608850</CQS2>
-                    <CQS3>225236</CQS3>
-                    <CQS4>341684</CQS4>
-                    <CQS5>945819</CQS5>
-                    <CQS6>943860</CQS6>
-                    <CQS7>940095</CQS7>
-                    <CQS8>897406</CQS8>
+                    <CQS1>572195</CQS1>
+                    <CQS2>723797</CQS2>
+                    <CQS3>302295</CQS3>
+                    <CQS4>220351</CQS4>
+                    <CQS5>475732</CQS5>
+                    <CQS6>180866</CQS6>
+                    <CQS7>848002</CQS7>
+                    <CQS8>956883</CQS8>
                     <CQS9>0</CQS9>
-                    <CQS10>426146</CQS10>
-                    <CQS11>261954</CQS11>
-                    <BelowCQS11>256954</BelowCQS11>
+                    <CQS10>606951</CQS10>
+                    <CQS11>464493</CQS11>
+                    <BelowCQS11>837524</BelowCQS11>
                 </C>
                 <D>
-                    <CQS1>961330</CQS1>
-                    <CQS2>667388</CQS2>
-                    <CQS3>301342</CQS3>
-                    <CQS4>969799</CQS4>
-                    <CQS5>708791</CQS5>
-                    <CQS6>350717</CQS6>
-                    <CQS7>101901</CQS7>
+                    <CQS1>608511</CQS1>
+                    <CQS2>589175</CQS2>
+                    <CQS3>497871</CQS3>
+                    <CQS4>116478</CQS4>
+                    <CQS5>249213</CQS5>
+                    <CQS6>684449</CQS6>
+                    <CQS7>248258</CQS7>
                     <CQS8>681</CQS8>
-                    <CQS9>937175</CQS9>
-                    <CQS10>334337</CQS10>
-                    <CQS11>478765</CQS11>
-                    <BelowCQS11>268168</BelowCQS11>
-                    <FormulaExposureValue>767932</FormulaExposureValue>
-                    <FormulaCapitalRequirement>952069</FormulaCapitalRequirement>
-                    <CapitalDeductions>502671</CapitalDeductions>
+                    <CQS9>596057</CQS9>
+                    <CQS10>835367</CQS10>
+                    <CQS11>947434</CQS11>
+                    <BelowCQS11>770622</BelowCQS11>
+                    <FormulaExposureValue>171567</FormulaExposureValue>
+                    <FormulaCapitalRequirement>311886</FormulaCapitalRequirement>
+                    <CapitalDeductions>250645</CapitalDeductions>
                 </D>
                 <E>
-                    <CQS1>476339</CQS1>
-                    <CQS2>268196</CQS2>
-                    <CQS3>200620</CQS3>
-                    <CQS4>910289</CQS4>
-                    <CQS5>624349</CQS5>
-                    <CQS6>889711</CQS6>
-                    <CQS7>464846</CQS7>
-                    <CQS8>566196</CQS8>
+                    <CQS1>457737</CQS1>
+                    <CQS2>769437</CQS2>
+                    <CQS3>261985</CQS3>
+                    <CQS4>112453</CQS4>
+                    <CQS5>176944</CQS5>
+                    <CQS6>815950</CQS6>
+                    <CQS7>286611</CQS7>
+                    <CQS8>114206</CQS8>
                     <CQS9>2</CQS9>
-                    <CQS10>933185</CQS10>
-                    <CQS11>115965</CQS11>
-                    <BelowCQS11>215170</BelowCQS11>
+                    <CQS10>570740</CQS10>
+                    <CQS11>501020</CQS11>
+                    <BelowCQS11>834885</BelowCQS11>
                 </E>
             </Counterparty>
             <AllOther>

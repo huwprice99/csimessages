@@ -7,66 +7,66 @@
 
     <Capital>
         <OwnFundsCalculation>
-            <ShareCapital>752957</ShareCapital>
-            <PerpetualNonCumulativePreferenceShare>596109</PerpetualNonCumulativePreferenceShare>
-            <SharePremiumAccount>667379</SharePremiumAccount>
-            <Reserves>870420</Reserves>
-            <RetainedEarnings>161850</RetainedEarnings>
-            <InterimNetProfits>650048</InterimNetProfits>
-            <PartnersCapital>411562</PartnersCapital>
-            <MembersCapital>139858</MembersCapital>
-            <SoleTraderCapital>407875</SoleTraderCapital>
+            <ShareCapital>955538</ShareCapital>
+            <PerpetualNonCumulativePreferenceShare>115260</PerpetualNonCumulativePreferenceShare>
+            <SharePremiumAccount>309299</SharePremiumAccount>
+            <Reserves>366125</Reserves>
+            <RetainedEarnings>565271</RetainedEarnings>
+            <InterimNetProfits>932001</InterimNetProfits>
+            <PartnersCapital>472593</PartnersCapital>
+            <MembersCapital>291861</MembersCapital>
+            <SoleTraderCapital>118216</SoleTraderCapital>
             <Deductions>
                 <InvestmentOwnShares>220</InvestmentOwnShares>
                 <IntangibleAssets>40</IntangibleAssets>
                 <MaterialLosses>60</MaterialLosses>
                 <ExcessDrawings>0</ExcessDrawings>
             </Deductions>
-            <RevaluationReserves>210917</RevaluationReserves>
-            <PerpetualCumulativePreferenceShare>698155</PerpetualCumulativePreferenceShare>
-            <LongTermSubLoans>960707</LongTermSubLoans>
-            <FixedPreferenceShare>835714</FixedPreferenceShare>
-            <MaterialHoldings>693841</MaterialHoldings>
+            <RevaluationReserves>624511</RevaluationReserves>
+            <PerpetualCumulativePreferenceShare>484414</PerpetualCumulativePreferenceShare>
+            <LongTermSubLoans>161469</LongTermSubLoans>
+            <FixedPreferenceShare>705370</FixedPreferenceShare>
+            <MaterialHoldings>162635</MaterialHoldings>
             <OwnFunds></OwnFunds>
         </OwnFundsCalculation>
     </Capital>
     <CapitalTest>
         <RequirementMethod>Capital</RequirementMethod>
         <Requirement>
-            <OwnFundsRequirement>755585</OwnFundsRequirement>
-            <PIIOwnFundsRequirement>400019</PIIOwnFundsRequirement>
-            <OtherOwnFundsRequirement>277961</OtherOwnFundsRequirement>
-            <OwnFunds>479561</OwnFunds>
-            <Surplus>-954004</Surplus>
+            <OwnFundsRequirement>559938</OwnFundsRequirement>
+            <PIIOwnFundsRequirement>214906</PIIOwnFundsRequirement>
+            <OtherOwnFundsRequirement>673973</OtherOwnFundsRequirement>
+            <OwnFunds>332103</OwnFunds>
+            <Surplus>-1116714</Surplus>
         </Requirement>
         <PII>
-            <CurrentlyHoldPII>No</CurrentlyHoldPII>
-            <InsuranceDistribution>Yes</InsuranceDistribution>
+            <CurrentlyHoldPII>Yes</CurrentlyHoldPII>
+            <InsuranceDistribution>No</InsuranceDistribution>
             <PIIRenewed>Yes</PIIRenewed>
-            <ChangeToCover>Yes</ChangeToCover>
-            <StartDate>2020-06-06</StartDate>
-            <Compliant>No</Compliant>
+            <ChangeToCover>No</ChangeToCover>
+            <StartDate>2020-12-27</StartDate>
+            <Compliant>Yes</Compliant>
             <PIIPolicies>
                 <PIIPolicy>
                     <BasicInformation>
-                        <Premium>474759</Premium>
+                        <Premium>141742</Premium>
                         <Insurer>CNA Insurance</Insurer>
-                        <StartDate>2020-09-26</StartDate>
-                        <RenewalDate>2020-04-27</RenewalDate>
+                        <StartDate>2020-09-07</StartDate>
+                        <RenewalDate>2020-01-20</RenewalDate>
                         <IndemnityLimitCurrency>GBP</IndemnityLimitCurrency>
                         <LimitIndemnityRequired>
-                            <Single>804343</Single>
-                            <Aggregate>698428</Aggregate>
+                            <Single>851147</Single>
+                            <Aggregate>840343</Aggregate>
                         </LimitIndemnityRequired>
                         <LimitIndemnityReceived>
-                            <Single>834822</Single>
-                            <Aggregate>239243</Aggregate>
+                            <Single>232458</Single>
+                            <Aggregate>933419</Aggregate>
                         </LimitIndemnityReceived>
                     </BasicInformation>
                     <DetailedInformation>
                         <PolicyExcessDetail>
                             <BusinessLine>Mortgages - Other Mortgage type</BusinessLine>
-                            <PolicyExcess>457655</PolicyExcess>
+                            <PolicyExcess>402187</PolicyExcess>
                         </PolicyExcessDetail>
                         <PolicyExcessDetail>
                             <BusinessLine>Other FCA regulated business</BusinessLine>
@@ -83,12 +83,12 @@
                     </DetailedInformation>
                 </PIIPolicy>
             </PIIPolicies>
-            <AnnualIncome>860531</AnnualIncome>
-            <AdditionalCapitalRequiredExcesses>518833</AdditionalCapitalRequiredExcesses>
-            <OwnFundsRequiredExclusions>282084</OwnFundsRequiredExclusions>
-            <AdditionalOwnFunds>400019</AdditionalOwnFunds>
-            <ReadilyRealisableOwnFunds>686192</ReadilyRealisableOwnFunds>
-            <Excess>286173</Excess>
+            <AnnualIncome>449981</AnnualIncome>
+            <AdditionalCapitalRequiredExcesses>575146</AdditionalCapitalRequiredExcesses>
+            <OwnFundsRequiredExclusions>501730</OwnFundsRequiredExclusions>
+            <AdditionalOwnFunds>214906</AdditionalOwnFunds>
+            <ReadilyRealisableOwnFunds>609412</ReadilyRealisableOwnFunds>
+            <Excess>394506</Excess>
         </PII>
     </CapitalTest>
 </FSA032-CapitalAdequacy>

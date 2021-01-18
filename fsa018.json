@@ -5,43 +5,43 @@
     
     <OtherGroupFirms>
         <Firm>
-            <FirmReferenceNumber>281903</FirmReferenceNumber>
-            <CNCOM>698133</CNCOM>
+            <FirmReferenceNumber>212315</FirmReferenceNumber>
+            <CNCOM>280134</CNCOM>
         </Firm>
         <Firm>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
             <CNCOM>625875</CNCOM>
         </Firm>
-        <TotalCNCOM>698133</TotalCNCOM>
+        <TotalCNCOM>280134</TotalCNCOM>
     </OtherGroupFirms>
 
 
-    <GroupCapitalResources>805787</GroupCapitalResources>
+    <GroupCapitalResources>252616</GroupCapitalResources>
     <Exposures>
         <Exposure>
-            <WiderGroupBlocks>mJXsGltIADRrQWGSjArKrOdjLOFhbkyKQuQxJPOrrWDOhHKvDqKDVLt</WiderGroupBlocks>
-            <GrossExposure>185659</GrossExposure>
-            <Percentage10-8-13>23.0407</Percentage10-8-13>
-            <ExposureMitigation>779550</ExposureMitigation>
+            <WiderGroupBlocks>PyJVWEuTRdVpemEjjoo</WiderGroupBlocks>
+            <GrossExposure>603676</GrossExposure>
+            <Percentage10-8-13>238.9698</Percentage10-8-13>
+            <ExposureMitigation>714708</ExposureMitigation>
             <OfWhich>
                 <ExemptExposures>
-                    <Amount>518339</Amount>
-                    <ExemptPercentage>64.32705</ExemptPercentage>
+                    <Amount>777755</Amount>
+                    <ExemptPercentage>307.8803</ExemptPercentage>
                 </ExemptExposures>
                 <NonExemptExposures>
-                    <NonTradingBook>658724</NonTradingBook>
-                    <NonTradingBookPercentage>81.74915</NonTradingBookPercentage>
-                    <TradingBook>553811</TradingBook>
-                    <TradingBookPercentage>68.7292</TradingBookPercentage>
-                    <AggregatePercentage>150.4783</AggregatePercentage>
+                    <NonTradingBook>893647</NonTradingBook>
+                    <NonTradingBookPercentage>353.7571</NonTradingBookPercentage>
+                    <TradingBook>898639</TradingBook>
+                    <TradingBookPercentage>355.7332</TradingBookPercentage>
+                    <AggregatePercentage>709.4903</AggregatePercentage>
                 </NonExemptExposures>
             </OfWhich>
-            <CNCOM>295039</CNCOM>
+            <CNCOM>770490</CNCOM>
         </Exposure>
         <Total>
-            <NonTradingBookPercentage>81.74915</NonTradingBookPercentage>
-            <TradingBookPercentage>68.7292</TradingBookPercentage>
-            <CNCOM>698133</CNCOM>
+            <NonTradingBookPercentage>353.7571</NonTradingBookPercentage>
+            <TradingBookPercentage>355.7332</TradingBookPercentage>
+            <CNCOM>280134</CNCOM>
         </Total>
     </Exposures>
 

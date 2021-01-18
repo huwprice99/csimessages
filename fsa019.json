@@ -6,7 +6,7 @@
     <GroupInfo>
         <GroupReference>H1234</GroupReference>
         <OtherGroupFirms>
-            <FirmReferenceNumber>291814</FirmReferenceNumber>
+            <FirmReferenceNumber>216001</FirmReferenceNumber>
             <FirmReferenceNumber>202013</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
@@ -76,9 +76,9 @@
             </Other>
         </RiskExposure>
         <WindDownCost>Yes</WindDownCost>
-        <WindDownPeriod>8264</WindDownPeriod>
-        <WindDownGrossCost>333721</WindDownGrossCost>
-        <WindDownNetCost>297328</WindDownNetCost>
+        <WindDownPeriod>3220</WindDownPeriod>
+        <WindDownGrossCost>463353</WindDownGrossCost>
+        <WindDownNetCost>623119</WindDownNetCost>
         <PIICover></PIICover>
         <AggregateLimit></AggregateLimit>
         <LargestSingleClaim></LargestSingleClaim>

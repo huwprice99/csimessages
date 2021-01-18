@@ -13,168 +13,144 @@
     
     <IntroductoryMatters currency="GBP">
         <ConsolidationGroup>no</ConsolidationGroup>
-        <TotalIncome></TotalIncome>
-        <TotaPSRIncome></TotaPSRIncome>
-        <OperatingProfitLoss></OperatingProfitLoss>
+        <TotalIncome>219830</TotalIncome>
+        <TotaPSRIncome>970871</TotaPSRIncome>
+        <OperatingProfitLoss>532665</OperatingProfitLoss>
     </IntroductoryMatters>
     
     <CapitalRequirement currency="EUR">
-        <InitialCapital></InitialCapital>
+        <InitialCapital>588249</InitialCapital>
         <OFRMethod>
             <Method>Method A (Based on levels of overheads)</Method>
         </OFRMethod>
         <MethodACalculation>
-                <FixedOverheads></FixedOverheads>
-                <OwnFundsRequirement>0</OwnFundsRequirement>
-                <TotalCapitalRequirement></TotalCapitalRequirement>
+                <FixedOverheads>710694</FixedOverheads>
+                <OwnFundsRequirement>71070</OwnFundsRequirement>
+                <TotalCapitalRequirement>588249</TotalCapitalRequirement>
         </MethodACalculation> 
     </CapitalRequirement>
     
     <CapitalResources currency="GBP">
         <CET1Capital>
-            <Items></Items>
-            <Adjustments></Adjustments>
-            <Deductions></Deductions>
-            <Exemptions></Exemptions>
-            <TempWaivers></TempWaivers>
-            <Total></Total>
+            <Items>7496964</Items>
+            <Adjustments>63390</Adjustments>
+            <Deductions>32806</Deductions>
+            <Exemptions>26010</Exemptions>
+            <TempWaivers>12436</TempWaivers>
+            <Total>7362322</Total>
         </CET1Capital>
         <AT1Capital>
-            <Items></Items>
-            <Deductions></Deductions>
-            <TempWaivers></TempWaivers>
-            <Total></Total>
+            <Items>7694651</Items>
+            <Deductions>82975</Deductions>
+            <TempWaivers>48770</TempWaivers>
+            <Total>7562906</Total>
         </AT1Capital>
         <T2Capital>
-            <Items></Items>
-            <Deductions></Deductions>
-            <TempWaivers></TempWaivers>
-            <Total></Total>
+            <Items>7352362</Items>
+            <Deductions>45381</Deductions>
+            <TempWaivers>38513</TempWaivers>
+            <Total>7268468</Total>
         </T2Capital>
         <EligibleCapital>
             <CET1Capital>
-                <TotalAmount></TotalAmount>
-                <EligibleAmount></EligibleAmount>
+                <TotalAmount>7362322</TotalAmount>
+                <EligibleAmount>7362322</EligibleAmount>
             </CET1Capital>
             <AT1Capital>
-                <TotalAmount></TotalAmount>
-                <EligibleAmount>0</EligibleAmount>
-                <Excess></Excess>
+                <TotalAmount>7562906</TotalAmount>
+                <EligibleAmount>2453862</EligibleAmount>
+                <Excess>5109044</Excess>
             </AT1Capital>
             <T1Capital>
-                <EligibleAmount></EligibleAmount>
+                <EligibleAmount>9816184</EligibleAmount>
             </T1Capital>
             <T2Capital>
-                <TotalAmount></TotalAmount>
-                <EligibleAmount>0</EligibleAmount>
-                <Excess></Excess>
+                <TotalAmount>7268468</TotalAmount>
+                <EligibleAmount>2422581</EligibleAmount>
+                <Excess>4845887</Excess>
             </T2Capital>
         </EligibleCapital>
-        <TotalResourcesSterling></TotalResourcesSterling>
+        <TotalResourcesSterling>12238765</TotalResourcesSterling>
     </CapitalResources>
     
     <SurplusDeficitCalculation currency="EUR">
         <ExchangeRate>1.5460</ExchangeRate>
-        <TotalResourcesEuro>0</TotalResourcesEuro>
-        <TotalRequirementEuro></TotalRequirementEuro>
-        <SurplusEuro>0</SurplusEuro>
+        <TotalResourcesEuro>18921131</TotalResourcesEuro>
+        <TotalRequirementEuro>588249</TotalRequirementEuro>
+        <SurplusEuro>18332882</SurplusEuro>
     </SurplusDeficitCalculation>
     
     <SupplementaryInformation>
         <Safeguarding>
             <SeparateAccount>
-                <Placed>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Placed>
+                <Placed>Yes</Placed>
+                <CreditInstitution>Conn Group</CreditInstitution>
+                <LocationOfAccount>IR</LocationOfAccount>
             </SeparateAccount>
             <InvestedAuthorisedCustodian>
-                <Invested>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Invested>
+                <Invested>No</Invested>
             </InvestedAuthorisedCustodian>
             <InsurancePolicy>
-                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Covered>
+                <Covered>Yes</Covered>
+                <CreditInstitution>Quigley, Grant and Schmidt</CreditInstitution>
+                <LocationOfAccount>CG</LocationOfAccount>
             </InsurancePolicy>
             <GuaranteeInsurer>
-                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Covered>
+                <Covered>No</Covered>
             </GuaranteeInsurer>
             <GuaranteeCreditInstitution>
-                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</Covered>
+                <Covered>No</Covered>
             </GuaranteeCreditInstitution>
         </Safeguarding>
         <Agents>
-            <Number></Number>
+            <Number>6400</Number>
         </Agents>
         <PaymentSystems>
             <MemberOf>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
+                <SterInterPaySys>LINK</SterInterPaySys>
+                <SterInterPaySys>No</SterInterPaySys>
+                <SterInterPaySys>Faster Payments</SterInterPaySys>
             </MemberOf>
             <MemberOfOther>Free Text up to 100 characters</MemberOfOther>
             <AccessIndirectly>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
-                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</SterInterPaySys>
+                <SterInterPaySys>Cheque and Credit</SterInterPaySys>
+                <SterInterPaySys>CHAPS</SterInterPaySys>
+                <SterInterPaySys>Cheque and Credit</SterInterPaySys>
             </AccessIndirectly>
             <AccessIndirectlyOther>Free Text up to 100 characters</AccessIndirectlyOther>
-            <PrimaryProvider>RandomHelper.Faker.Company.CompanyName().ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</PrimaryProvider>
+            <PrimaryProvider>Kozey - Frami</PrimaryProvider>
         </PaymentSystems>
         <TransactionUserInfo>
-            <FullMnthsAuth></FullMnthsAuth>
-            <NumberOfTransactions></NumberOfTransactions>
+            <FullMnthsAuth>3258</FullMnthsAuth>
+            <NumberOfTransactions>2118</NumberOfTransactions>
             <ValueOfTransactions>
                 <GBPTransaction currency="GBP">
-                    <GBP></GBP>
+                    <GBP>618765</GBP>
                 </GBPTransaction>
                 <EURTransaction currency="EUR">
-                    <EUR></EUR>
+                    <EUR>595994</EUR>
                 </EURTransaction>
             </ValueOfTransactions>
-            <NumberOfPSRUsers></NumberOfPSRUsers>
+            <NumberOfPSRUsers>6808</NumberOfPSRUsers>
         </TransactionUserInfo>
     </SupplementaryInformation>
     
     <AISPISProviders currency="EUR">
         <AIS>
-            <AcctsAccessed></AcctsAccessed>
-            <CustomersUsedAIS></CustomersUsedAIS>
-            <PIIAmount></PIIAmount>
-            <PIICoverage></PIICoverage>
-            <PIIChanged>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</PIIChanged>
+            <AcctsAccessed>1765</AcctsAccessed>
+            <CustomersUsedAIS>5128</CustomersUsedAIS>
+            <PIIAmount>979491</PIIAmount>
+            <PIICoverage>880606</PIICoverage>
+            <PIIChanged>Yes</PIIChanged>
             <IfYesExplain>Free Text up to 400 characters</IfYesExplain>
         </AIS>
         <PIS>
-            <AcctsAccessed></AcctsAccessed>
-            <NumberOfTransInitiated></NumberOfTransInitiated>
-            <ValueOfTransInitiated></ValueOfTransInitiated>
-            <PIIAmount></PIIAmount>
-            <PIICoverage></PIICoverage>
-            <PIIChanged>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</PIIChanged>
+            <AcctsAccessed>8977</AcctsAccessed>
+            <NumberOfTransInitiated>1586</NumberOfTransInitiated>
+            <ValueOfTransInitiated>530015</ValueOfTransInitiated>
+            <PIIAmount>222989</PIIAmount>
+            <PIICoverage>377668</PIICoverage>
+            <PIIChanged>Yes</PIIChanged>
             <IfYesExplain>Free Text up to 400 characters</IfYesExplain>
         </PIS>
     </AISPISProviders>
@@ -186,17 +162,11 @@ Unknown identifier 'RandomHelper' (at index 0).
     
     <reportingPeriod>
         
-        <startDate>RandomHelper.Faker.Date.Recent(1).ToString("yyyy-MM-dd").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</startDate>
+        <startDate>2021-01-18</startDate>
         
-        <endDate>RandomHelper.Faker.Date.Future(1).ToString("yyyy-MM-dd").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</endDate>
+        <endDate>2021-12-15</endDate>
         
-        <submissionDueDate>RandomHelper.Faker.Date.Future(2).ToString("yyyy-MM-dd").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</submissionDueDate>
+        <submissionDueDate>2021-08-02</submissionDueDate>
         
     </reportingPeriod>
     

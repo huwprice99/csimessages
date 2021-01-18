@@ -6,29 +6,29 @@
     <GroupInfo>
         <GroupReference>H1234</GroupReference>
         <OtherGroupFirms>
-            <FirmReferenceNumber>794817</FirmReferenceNumber>
+            <FirmReferenceNumber>698192</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
     <Profitability>
-        <NetInterestIncome>312851</NetInterestIncome>
-        <OtherIncome>465327</OtherIncome>
-        <Expenditure>580190</Expenditure>
-        <ImpairmentProvisions>298758</ImpairmentProvisions>
-        <TotalProfit>187683</TotalProfit>
-        <NetProfit>718035</NetProfit>
+        <NetInterestIncome>216285</NetInterestIncome>
+        <OtherIncome>902516</OtherIncome>
+        <Expenditure>905966</Expenditure>
+        <ImpairmentProvisions>998546</ImpairmentProvisions>
+        <TotalProfit>178858</TotalProfit>
+        <NetProfit>756249</NetProfit>
     </Profitability>
     <BalanceSheet>
-        <Cash>651414</Cash>
-        <Loans>180098</Loans>
-        <Investments>794817</Investments>
-        <CustomerAccounts>246438</CustomerAccounts>
-        <BankDeposits>196719</BankDeposits>
-        <TotalAssetsLiabilities>766421</TotalAssetsLiabilities>
+        <Cash>493931</Cash>
+        <Loans>206290</Loans>
+        <Investments>698192</Investments>
+        <CustomerAccounts>669948</CustomerAccounts>
+        <BankDeposits>691132</BankDeposits>
+        <TotalAssetsLiabilities>824892</TotalAssetsLiabilities>
     </BalanceSheet>
     <CapitalAdequacy>
-        <CapitalResources>430976</CapitalResources>
-        <CapitalRequirement>142015</CapitalRequirement>
+        <CapitalResources>340998</CapitalResources>
+        <CapitalRequirement>351069</CapitalRequirement>
     </CapitalAdequacy>
 </FSA014-ForecastDataFromFirms>
             

@@ -6,8 +6,8 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>299509</FirmReferenceNumber>
+            <FirmReferenceNumber>243485</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
@@ -18,69 +18,41 @@
     <FrameworkDetail>    
     
         <SystemsControls>
-            <ProcessesStrategiesSystems>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</ProcessesStrategiesSystems>
-            <FrameworkDocumented>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</FrameworkDocumented>
-            <InstitutionalAndMarketStresses>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</InstitutionalAndMarketStresses>
-            <AbilityToRaiseFunds>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</AbilityToRaiseFunds>
+            <ProcessesStrategiesSystems>No</ProcessesStrategiesSystems>
+            <FrameworkDocumented>No</FrameworkDocumented>
+            <InstitutionalAndMarketStresses>Yes</InstitutionalAndMarketStresses>
+            <AbilityToRaiseFunds>No</AbilityToRaiseFunds>
         </SystemsControls>
 
 
         <StressTesting>
             <UndertakeStressTesting>yes</UndertakeStressTesting>
-            <ApproachDocumented>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</ApproachDocumented>
-            <TestFrequency></TestFrequency>
+            <ApproachDocumented>Yes</ApproachDocumented>
+            <TestFrequency>1</TestFrequency>
         </StressTesting>
 
 
         <ContingencyFunding>
             <PlanInPlace>yes</PlanInPlace>
-            <PlanUpdateFrequency>RandomHelper.PickRandom("less than once a year,annually,semi-annually,quarterly,monthly", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</PlanUpdateFrequency>
-            <UpdatesOver12Months></UpdatesOver12Months>
+            <PlanUpdateFrequency>quarterly</PlanUpdateFrequency>
+            <UpdatesOver12Months>18</UpdatesOver12Months>
         </ContingencyFunding>
 
 
         <SeniorManagementOversight>
             <ReviewAndUpdateApproach>yes</ReviewAndUpdateApproach>
-            <ApproachReviewFrequency>RandomHelper.PickRandom("less than once a year,annually,semi-annually,quarterly,monthly", ",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</ApproachReviewFrequency>
-            <IssueManagementProcess>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</IssueManagementProcess>
-            <StressTestAndContingency>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</StressTestAndContingency>
+            <ApproachReviewFrequency>semi-annually</ApproachReviewFrequency>
+            <IssueManagementProcess>Yes</IssueManagementProcess>
+            <StressTestAndContingency>No</StressTestAndContingency>
         </SeniorManagementOversight>
 
 
         <RiskManagementConsiderations>
-            <PricingLiquidityRisk>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</PricingLiquidityRisk>
-            <IntradayLiquidityRisk>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</IntradayLiquidityRisk>
-            <CollateralPositions>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</CollateralPositions>
-            <EntitiesBusinessLinesCurrencies>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</EntitiesBusinessLinesCurrencies>
-            <DiversificationAndMarketAccess>RandomHelper.PickRandom("Yes,No",",").ToString()
-Unknown identifier 'RandomHelper' (at index 0).
-</DiversificationAndMarketAccess>
+            <PricingLiquidityRisk>No</PricingLiquidityRisk>
+            <IntradayLiquidityRisk>No</IntradayLiquidityRisk>
+            <CollateralPositions>Yes</CollateralPositions>
+            <EntitiesBusinessLinesCurrencies>No</EntitiesBusinessLinesCurrencies>
+            <DiversificationAndMarketAccess>Yes</DiversificationAndMarketAccess>
         </RiskManagementConsiderations>
 
     </FrameworkDetail>

@@ -5,62 +5,62 @@
     
     <GroupInfo>
         <OtherGroupFirms>
-            <FirmReferenceNumber></FirmReferenceNumber>
-            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber>280033</FirmReferenceNumber>
+            <FirmReferenceNumber>209664</FirmReferenceNumber>
         </OtherGroupFirms>
     </GroupInfo>
     
     <GBP>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>40</PercentageOfAssets>
+        <PercentageOfLiabilities>43</PercentageOfLiabilities>
     </GBP>
     <USD>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>25</PercentageOfAssets>
+        <PercentageOfLiabilities>22</PercentageOfLiabilities>
     </USD>
     <EUR>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>15</PercentageOfAssets>
+        <PercentageOfLiabilities>19</PercentageOfLiabilities>
     </EUR>
     <JPY>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>3</PercentageOfAssets>
+        <PercentageOfLiabilities>3</PercentageOfLiabilities>
     </JPY>
     <CHF>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>2</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </CHF>
     <CAD>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>3</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </CAD>
     <SEK>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>2</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </SEK>
     <NOK>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>1</PercentageOfAssets>
+        <PercentageOfLiabilities>2</PercentageOfLiabilities>
     </NOK>
     <DKK>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>1</PercentageOfAssets>
+        <PercentageOfLiabilities>2</PercentageOfLiabilities>
     </DKK>
     <AUD>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>3</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </AUD>
     <HKD>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>1</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </HKD>
     <ZAR>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>2</PercentageOfAssets>
+        <PercentageOfLiabilities>1</PercentageOfLiabilities>
     </ZAR>
     <Other>
-        <PercentageOfAssets></PercentageOfAssets>
-        <PercentageOfLiabilities></PercentageOfLiabilities>
+        <PercentageOfAssets>2</PercentageOfAssets>
+        <PercentageOfLiabilities>3</PercentageOfLiabilities>
     </Other>
     
 </FSA054-CurrencyAnalysis>
