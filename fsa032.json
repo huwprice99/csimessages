@@ -1,0 +1,94 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<FSA032-CapitalAdequacy schemaLocation="urn:fsa-gov-uk:MER:FSA032:9 "
+                        http://www.fsa.gov.uk/MER/DRG/FSA032/v9/FSA032-Schema.xsd" currency="GBP" units="thousands">
+
+    <Capital>
+        <OwnFundsCalculation>
+            <ShareCapital>752957</ShareCapital>
+            <PerpetualNonCumulativePreferenceShare>596109</PerpetualNonCumulativePreferenceShare>
+            <SharePremiumAccount>667379</SharePremiumAccount>
+            <Reserves>870420</Reserves>
+            <RetainedEarnings>161850</RetainedEarnings>
+            <InterimNetProfits>650048</InterimNetProfits>
+            <PartnersCapital>411562</PartnersCapital>
+            <MembersCapital>139858</MembersCapital>
+            <SoleTraderCapital>407875</SoleTraderCapital>
+            <Deductions>
+                <InvestmentOwnShares>220</InvestmentOwnShares>
+                <IntangibleAssets>40</IntangibleAssets>
+                <MaterialLosses>60</MaterialLosses>
+                <ExcessDrawings>0</ExcessDrawings>
+            </Deductions>
+            <RevaluationReserves>210917</RevaluationReserves>
+            <PerpetualCumulativePreferenceShare>698155</PerpetualCumulativePreferenceShare>
+            <LongTermSubLoans>960707</LongTermSubLoans>
+            <FixedPreferenceShare>835714</FixedPreferenceShare>
+            <MaterialHoldings>693841</MaterialHoldings>
+            <OwnFunds></OwnFunds>
+        </OwnFundsCalculation>
+    </Capital>
+    <CapitalTest>
+        <RequirementMethod>Capital</RequirementMethod>
+        <Requirement>
+            <OwnFundsRequirement>755585</OwnFundsRequirement>
+            <PIIOwnFundsRequirement>400019</PIIOwnFundsRequirement>
+            <OtherOwnFundsRequirement>277961</OtherOwnFundsRequirement>
+            <OwnFunds>479561</OwnFunds>
+            <Surplus>-954004</Surplus>
+        </Requirement>
+        <PII>
+            <CurrentlyHoldPII>No</CurrentlyHoldPII>
+            <InsuranceDistribution>Yes</InsuranceDistribution>
+            <PIIRenewed>Yes</PIIRenewed>
+            <ChangeToCover>Yes</ChangeToCover>
+            <StartDate>2020-06-06</StartDate>
+            <Compliant>No</Compliant>
+            <PIIPolicies>
+                <PIIPolicy>
+                    <BasicInformation>
+                        <Premium>474759</Premium>
+                        <Insurer>CNA Insurance</Insurer>
+                        <StartDate>2020-09-26</StartDate>
+                        <RenewalDate>2020-04-27</RenewalDate>
+                        <IndemnityLimitCurrency>GBP</IndemnityLimitCurrency>
+                        <LimitIndemnityRequired>
+                            <Single>804343</Single>
+                            <Aggregate>698428</Aggregate>
+                        </LimitIndemnityRequired>
+                        <LimitIndemnityReceived>
+                            <Single>834822</Single>
+                            <Aggregate>239243</Aggregate>
+                        </LimitIndemnityReceived>
+                    </BasicInformation>
+                    <DetailedInformation>
+                        <PolicyExcessDetail>
+                            <BusinessLine>Mortgages - Other Mortgage type</BusinessLine>
+                            <PolicyExcess>457655</PolicyExcess>
+                        </PolicyExcessDetail>
+                        <PolicyExcessDetail>
+                            <BusinessLine>Other FCA regulated business</BusinessLine>
+                            <PolicyExcess>100</PolicyExcess>
+                        </PolicyExcessDetail>
+                        <PolicyExclusionDetail>
+                            <PolicyExclusion>No exclusions apply to this policy</PolicyExclusion>
+                        </PolicyExclusionDetail>
+                        <PolicyExclusionDetail>
+                            <PolicyExclusion>Retail investments - Standard/general</PolicyExclusion>
+                            <TimePeriod>Past business</TimePeriod>
+                            <PIIExclusiontype>Volume of business</PIIExclusiontype>
+                        </PolicyExclusionDetail>
+                    </DetailedInformation>
+                </PIIPolicy>
+            </PIIPolicies>
+            <AnnualIncome>860531</AnnualIncome>
+            <AdditionalCapitalRequiredExcesses>518833</AdditionalCapitalRequiredExcesses>
+            <OwnFundsRequiredExclusions>282084</OwnFundsRequiredExclusions>
+            <AdditionalOwnFunds>400019</AdditionalOwnFunds>
+            <ReadilyRealisableOwnFunds>686192</ReadilyRealisableOwnFunds>
+            <Excess>286173</Excess>
+        </PII>
+    </CapitalTest>
+</FSA032-CapitalAdequacy>

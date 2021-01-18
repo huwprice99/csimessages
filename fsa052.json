@@ -1,0 +1,408 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FSA052-Pricing schemaLocation="urn:fsa-gov-uk:MER:FSA052:1"
+                        http://www.fsa.gov.uk/MER/DRG/FSA052/v1/FSA052-Schema.xsd" reportingBasis="DLG by default" units="thousands">
+
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+
+    <GBP currency="RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+">
+        <CashDeposits>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CashDeposits>
+        <SeniorUnsecuredSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </SeniorUnsecuredSecurities>
+        <CoveredBonds>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CoveredBonds>
+        <AssetBackedSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </AssetBackedSecurities>
+    </GBP>
+    <USD currency="">
+        <CashDeposits>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CashDeposits>
+        <SeniorUnsecuredSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </SeniorUnsecuredSecurities>
+        <CoveredBonds>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CoveredBonds>
+        <AssetBackedSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </AssetBackedSecurities>
+    </USD>
+    <EUR currency="">
+        <CashDeposits>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CashDeposits>
+        <SeniorUnsecuredSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </SeniorUnsecuredSecurities>
+        <CoveredBonds>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </CoveredBonds>
+        <AssetBackedSecurities>
+            <From1To3Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To3Months>
+            <From3To6Months>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From3To6Months>
+            <From6MonthsTo1Year>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From6MonthsTo1Year>
+            <From1To2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </From1To2Years>
+            <MoreThan2Years>
+                <Spread>RandomHelper.GetRandomFormattedString("1.##").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Spread>
+                <Volume></Volume>
+            </MoreThan2Years>
+        </AssetBackedSecurities>
+    </EUR>
+
+
+</FSA052-Pricing>

@@ -1,0 +1,88 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FSA055-SystemsControlsQuestionnaire schemaLocation="urn:fsa-gov-uk:MER:FSA055:1"
+                        http://www.fsa.gov.uk/MER/DRG/FSA055/v1/FSA055-Schema.xsd" reportingBasis="DLG by default">
+    
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+    
+    <LiquidityRiskManagementFramework>
+        <FrameworkInPlace>yes</FrameworkInPlace>
+    </LiquidityRiskManagementFramework>
+
+    <FrameworkDetail>    
+    
+        <SystemsControls>
+            <ProcessesStrategiesSystems>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</ProcessesStrategiesSystems>
+            <FrameworkDocumented>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</FrameworkDocumented>
+            <InstitutionalAndMarketStresses>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</InstitutionalAndMarketStresses>
+            <AbilityToRaiseFunds>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</AbilityToRaiseFunds>
+        </SystemsControls>
+
+
+        <StressTesting>
+            <UndertakeStressTesting>yes</UndertakeStressTesting>
+            <ApproachDocumented>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</ApproachDocumented>
+            <TestFrequency></TestFrequency>
+        </StressTesting>
+
+
+        <ContingencyFunding>
+            <PlanInPlace>yes</PlanInPlace>
+            <PlanUpdateFrequency>RandomHelper.PickRandom("less than once a year,annually,semi-annually,quarterly,monthly", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PlanUpdateFrequency>
+            <UpdatesOver12Months></UpdatesOver12Months>
+        </ContingencyFunding>
+
+
+        <SeniorManagementOversight>
+            <ReviewAndUpdateApproach>yes</ReviewAndUpdateApproach>
+            <ApproachReviewFrequency>RandomHelper.PickRandom("less than once a year,annually,semi-annually,quarterly,monthly", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</ApproachReviewFrequency>
+            <IssueManagementProcess>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</IssueManagementProcess>
+            <StressTestAndContingency>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</StressTestAndContingency>
+        </SeniorManagementOversight>
+
+
+        <RiskManagementConsiderations>
+            <PricingLiquidityRisk>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PricingLiquidityRisk>
+            <IntradayLiquidityRisk>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</IntradayLiquidityRisk>
+            <CollateralPositions>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</CollateralPositions>
+            <EntitiesBusinessLinesCurrencies>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</EntitiesBusinessLinesCurrencies>
+            <DiversificationAndMarketAccess>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</DiversificationAndMarketAccess>
+        </RiskManagementConsiderations>
+
+    </FrameworkDetail>
+    
+</FSA055-SystemsControlsQuestionnaire>

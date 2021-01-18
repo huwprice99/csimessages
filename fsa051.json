@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA051-FundingConcentration schemaLocation="urn:fsa-gov-uk:MER:FSA051:1"
+                        http://www.fsa.gov.uk/MER/DRG/FSA051/v1/FSA051-Schema.xsd" reportingBasis="DLG by default" currency="GBP" units="thousands">
+    
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+
+    <WholesaleDeposits>
+        <FundingDetail>
+            <Counterparty>RandomHelper.GetRandomString(RandomHelper.GetRandomInt(1,100),false,false).ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Counterparty>
+            <Amount></Amount>
+            <WeightedAverageMaturity>RandomHelper.GetRandomFormattedString("##.#").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</WeightedAverageMaturity>
+        </FundingDetail>
+    </WholesaleDeposits>
+
+
+    <RepoFunding>
+        <FundingDetail>
+            <Counterparty>RandomHelper.GetRandomString(RandomHelper.GetRandomInt(1,100),false,false).ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Counterparty>
+            <Amount></Amount>
+            <WeightedAverageMaturity>RandomHelper.GetRandomFormattedString("##.#").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</WeightedAverageMaturity>
+        </FundingDetail>
+    </RepoFunding>
+    
+</FSA051-FundingConcentration>
+

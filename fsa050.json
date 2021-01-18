@@ -1,0 +1,41 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA050-QualifyingSecurities schemaLocation="urn:fsa-gov-uk:MER:FSA050:2"
+                        http://www.fsa.gov.uk/MER/DRG/FSA050/v2/FSA050-Schema.xsd" reportingBasis="DLG by default" currency="GBP" units="thousands">
+    
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+
+    <SpecificCountryValues>
+        <AU></AU>
+        <AT></AT>
+        <BE></BE>
+        <CA></CA>
+        <DK></DK>
+        <FI></FI>
+        <FR></FR>
+        <DE></DE>
+        <IE></IE>
+        <IT></IT>
+        <JP></JP>
+        <LU></LU>
+        <NO></NO>
+        <NL></NL>
+        <PT></PT>
+        <SI></SI>
+        <ES></ES>
+        <SE></SE>
+        <CH></CH>
+        <GB></GB>
+        <US></US>
+    </SpecificCountryValues>
+
+    <OtherCountriesValue></OtherCountriesValue>
+    <DesignatedMultilateralDevelopmentBanksValue></DesignatedMultilateralDevelopmentBanksValue>
+    <GeneralCollateralEuropeValue></GeneralCollateralEuropeValue>
+
+</FSA050-QualifyingSecurities>

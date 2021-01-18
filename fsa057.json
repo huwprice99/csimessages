@@ -1,0 +1,89 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA057-SPITransactionReport schemaLocation="http://www.fsa.gov.uk/MER/DRG/FSA057/v2/FSA057-Schema.xsd" units="single">
+    
+    <IntroductoryMatters currency="GBP">
+        <TotalIncome></TotalIncome>
+        <TotalPSRIncome></TotalPSRIncome>
+        <OperatingProfitLoss></OperatingProfitLoss>
+    </IntroductoryMatters>
+    <TransactionUserInfo>
+        <NumberOfTransactions></NumberOfTransactions>
+        <ExchangeRate>1.</ExchangeRate>
+        <ValueOfTransactions>
+            <EURTransaction currency="EUR">
+                <EUR></EUR>
+            </EURTransaction>
+            <GBPTransaction currency="GBP">
+                <GBP></GBP>
+            </GBPTransaction>
+        </ValueOfTransactions>
+        <Months></Months>
+        <MonthlyAvg currency="EUR">
+            <ValueOfPaymentTrans></ValueOfPaymentTrans>
+        </MonthlyAvg>
+        <NumberOfPSRUsers></NumberOfPSRUsers>
+    </TransactionUserInfo>
+    <Safeguarding>
+        <AdoptedArrangements>yes</AdoptedArrangements>
+        <WhichMethod>
+            <SeparateAccount>
+                <Placed>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Placed>
+            </SeparateAccount>
+            <InvestedAuthorisedCustodian>
+                <Invested>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Invested>
+            </InvestedAuthorisedCustodian>
+            <InsurancePolicy>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </InsurancePolicy>
+            <GuaranteeInsurer>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </GuaranteeInsurer>
+            <GuaranteeCreditInstitution>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </GuaranteeCreditInstitution>
+        </WhichMethod>
+    </Safeguarding>
+    <Agents>
+        <Number></Number>
+    </Agents>
+    <PaymentSystems>
+        <MemberOf>
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+        </MemberOf>
+        <MemberOfOther>Free Text up to 100 characters</MemberOfOther>
+        <AccessIndirectly>
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys> 
+            <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys> 
+        </AccessIndirectly>
+        <AccessIndirectlyOther>Free Text up to 100 characters</AccessIndirectlyOther>
+        <PrimaryProvider>RandomHelper.Faker.Company.CompanyName().ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PrimaryProvider>
+    </PaymentSystems>
+</FSA057-SPITransactionReport>

@@ -1,0 +1,62 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FSA053-RetailAndCorporateFunding schemaLocation="urn:fsa-gov-uk:MER:FSA053:1"
+                            http://www.fsa.gov.uk/MER/DRG/FSA053/v1/FSA053-Schema.xsd" reportingBasis="DLG by default" currency="GBP" units="thousands">
+        
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+       
+    <RetailDeposits>
+        <Current>
+            <TypeABalance></TypeABalance>
+            <TypeBBalance></TypeBBalance>
+        </Current>
+        <TaxAdvantaged>
+            <TypeABalance></TypeABalance>
+            <TypeBBalance></TypeBBalance>
+        </TaxAdvantaged>
+        <OnDemand>
+            <TypeABalance></TypeABalance>
+            <TypeBBalance></TypeBBalance>
+        </OnDemand>
+        <FixedTerm>
+            <TypeABalance></TypeABalance>
+            <TypeBBalance></TypeBBalance>
+        </FixedTerm>
+        <FixedNotice>
+            <TypeABalance></TypeABalance>
+            <TypeBBalance></TypeBBalance>
+        </FixedNotice>
+    </RetailDeposits>
+
+    <CorporateAccounts>
+        <Current>
+            <TypeBBalance></TypeBBalance>
+        </Current>
+        <TaxAdvantaged>
+            <TypeBBalance></TypeBBalance>
+        </TaxAdvantaged>
+        <OnDemand>
+            <TypeBBalance></TypeBBalance>
+        </OnDemand>
+        <FixedTerm>
+            <TypeBBalance></TypeBBalance>
+        </FixedTerm>
+        <FixedNotice>
+            <TypeBBalance></TypeBBalance>
+        </FixedNotice>
+    </CorporateAccounts>
+
+    <FSCSTypeProtection>
+        <ProtectedBalance></ProtectedBalance>
+        <UnprotectedBalance></UnprotectedBalance>
+    </FSCSTypeProtection>
+
+
+
+</FSA053-RetailAndCorporateFunding>

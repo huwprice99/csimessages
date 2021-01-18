@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA011-BuildingSocietyLiquidity schemaLocation="urn:fsa-gov-uk:MER:FSA011:4"
+                        http://www.fsa.gov.uk/MER/DRG/FSA011/v4/FSA011-Schema.xsd" reportingBasis="unconsolidated" currency="GBP" units="thousands">
+    
+    <SDL>440885</SDL>
+    <PrudentialLiquidityAmounts>
+        <BuildingSocietyHoldings>866406</BuildingSocietyHoldings>
+    </PrudentialLiquidityAmounts>
+    <SpecialistData>
+        <AssetsNotFSRP>83</AssetsNotFSRP>
+        <DepositsAndLoans>45</DepositsAndLoans>
+        <OffshoreDeposits>510110</OffshoreDeposits>
+        <LargeShareholdings>71</LargeShareholdings>
+    </SpecialistData>
+</FSA011-BuildingSocietyLiquidity>

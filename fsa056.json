@@ -1,0 +1,203 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<XMLUploadRequest>
+
+    <dataItem>
+        
+        <copyNumber>1</copyNumber>
+        
+        <dataItemBody>
+
+<FSA056-APICapital schemaLocation="urn:fsa-gov-uk:MER:FSA056:4 "
+                        http://www.fsa.gov.uk/MER/DRG/FSA056/v4/FSA056-Schema.xsd" units="single">
+    
+    <IntroductoryMatters currency="GBP">
+        <ConsolidationGroup>no</ConsolidationGroup>
+        <TotalIncome></TotalIncome>
+        <TotaPSRIncome></TotaPSRIncome>
+        <OperatingProfitLoss></OperatingProfitLoss>
+    </IntroductoryMatters>
+    
+    <CapitalRequirement currency="EUR">
+        <InitialCapital></InitialCapital>
+        <OFRMethod>
+            <Method>Method A (Based on levels of overheads)</Method>
+        </OFRMethod>
+        <MethodACalculation>
+                <FixedOverheads></FixedOverheads>
+                <OwnFundsRequirement>0</OwnFundsRequirement>
+                <TotalCapitalRequirement></TotalCapitalRequirement>
+        </MethodACalculation> 
+    </CapitalRequirement>
+    
+    <CapitalResources currency="GBP">
+        <CET1Capital>
+            <Items></Items>
+            <Adjustments></Adjustments>
+            <Deductions></Deductions>
+            <Exemptions></Exemptions>
+            <TempWaivers></TempWaivers>
+            <Total></Total>
+        </CET1Capital>
+        <AT1Capital>
+            <Items></Items>
+            <Deductions></Deductions>
+            <TempWaivers></TempWaivers>
+            <Total></Total>
+        </AT1Capital>
+        <T2Capital>
+            <Items></Items>
+            <Deductions></Deductions>
+            <TempWaivers></TempWaivers>
+            <Total></Total>
+        </T2Capital>
+        <EligibleCapital>
+            <CET1Capital>
+                <TotalAmount></TotalAmount>
+                <EligibleAmount></EligibleAmount>
+            </CET1Capital>
+            <AT1Capital>
+                <TotalAmount></TotalAmount>
+                <EligibleAmount>0</EligibleAmount>
+                <Excess></Excess>
+            </AT1Capital>
+            <T1Capital>
+                <EligibleAmount></EligibleAmount>
+            </T1Capital>
+            <T2Capital>
+                <TotalAmount></TotalAmount>
+                <EligibleAmount>0</EligibleAmount>
+                <Excess></Excess>
+            </T2Capital>
+        </EligibleCapital>
+        <TotalResourcesSterling></TotalResourcesSterling>
+    </CapitalResources>
+    
+    <SurplusDeficitCalculation currency="EUR">
+        <ExchangeRate>1.5460</ExchangeRate>
+        <TotalResourcesEuro>0</TotalResourcesEuro>
+        <TotalRequirementEuro></TotalRequirementEuro>
+        <SurplusEuro>0</SurplusEuro>
+    </SurplusDeficitCalculation>
+    
+    <SupplementaryInformation>
+        <Safeguarding>
+            <SeparateAccount>
+                <Placed>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Placed>
+            </SeparateAccount>
+            <InvestedAuthorisedCustodian>
+                <Invested>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Invested>
+            </InvestedAuthorisedCustodian>
+            <InsurancePolicy>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </InsurancePolicy>
+            <GuaranteeInsurer>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </GuaranteeInsurer>
+            <GuaranteeCreditInstitution>
+                <Covered>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</Covered>
+            </GuaranteeCreditInstitution>
+        </Safeguarding>
+        <Agents>
+            <Number></Number>
+        </Agents>
+        <PaymentSystems>
+            <MemberOf>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,LINK,Mastercard,Visa,No", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+            </MemberOf>
+            <MemberOfOther>Free Text up to 100 characters</MemberOfOther>
+            <AccessIndirectly>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+                <SterInterPaySys>RandomHelper.PickRandom("Bacs,CHAPS,Cheque and Credit,Faster Payments,None", ",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</SterInterPaySys>
+            </AccessIndirectly>
+            <AccessIndirectlyOther>Free Text up to 100 characters</AccessIndirectlyOther>
+            <PrimaryProvider>RandomHelper.Faker.Company.CompanyName().ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PrimaryProvider>
+        </PaymentSystems>
+        <TransactionUserInfo>
+            <FullMnthsAuth></FullMnthsAuth>
+            <NumberOfTransactions></NumberOfTransactions>
+            <ValueOfTransactions>
+                <GBPTransaction currency="GBP">
+                    <GBP></GBP>
+                </GBPTransaction>
+                <EURTransaction currency="EUR">
+                    <EUR></EUR>
+                </EURTransaction>
+            </ValueOfTransactions>
+            <NumberOfPSRUsers></NumberOfPSRUsers>
+        </TransactionUserInfo>
+    </SupplementaryInformation>
+    
+    <AISPISProviders currency="EUR">
+        <AIS>
+            <AcctsAccessed></AcctsAccessed>
+            <CustomersUsedAIS></CustomersUsedAIS>
+            <PIIAmount></PIIAmount>
+            <PIICoverage></PIICoverage>
+            <PIIChanged>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PIIChanged>
+            <IfYesExplain>Free Text up to 400 characters</IfYesExplain>
+        </AIS>
+        <PIS>
+            <AcctsAccessed></AcctsAccessed>
+            <NumberOfTransInitiated></NumberOfTransInitiated>
+            <ValueOfTransInitiated></ValueOfTransInitiated>
+            <PIIAmount></PIIAmount>
+            <PIICoverage></PIICoverage>
+            <PIIChanged>RandomHelper.PickRandom("Yes,No",",").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</PIIChanged>
+            <IfYesExplain>Free Text up to 400 characters</IfYesExplain>
+        </PIS>
+    </AISPISProviders>
+</FSA056-APICapital>
+        </dataItemBody>
+        
+    </dataItem>
+    
+    
+    <reportingPeriod>
+        
+        <startDate>RandomHelper.Faker.Date.Recent(1).ToString("yyyy-MM-dd").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</startDate>
+        
+        <endDate>RandomHelper.Faker.Date.Future(1).ToString("yyyy-MM-dd").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</endDate>
+        
+        <submissionDueDate>RandomHelper.Faker.Date.Future(2).ToString("yyyy-MM-dd").ToString()
+Unknown identifier 'RandomHelper' (at index 0).
+</submissionDueDate>
+        
+    </reportingPeriod>
+    
+</XMLUploadRequest>

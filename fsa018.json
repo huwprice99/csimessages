@@ -1,0 +1,48 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA018-UKIntegratedGroupExposures schemaLocation="urn:fsa-gov-uk:MER:FSA018:5  "
+                        http://www.fsa.gov.uk/MER/DRG/FSA018/v5/FSA018-Schema.xsd" reportingBasis="UK integrated group" currency="GBP" units="thousands">
+    
+    <OtherGroupFirms>
+        <Firm>
+            <FirmReferenceNumber>281903</FirmReferenceNumber>
+            <CNCOM>698133</CNCOM>
+        </Firm>
+        <Firm>
+            <FirmReferenceNumber>202013</FirmReferenceNumber>
+            <CNCOM>625875</CNCOM>
+        </Firm>
+        <TotalCNCOM>698133</TotalCNCOM>
+    </OtherGroupFirms>
+
+
+    <GroupCapitalResources>805787</GroupCapitalResources>
+    <Exposures>
+        <Exposure>
+            <WiderGroupBlocks>mJXsGltIADRrQWGSjArKrOdjLOFhbkyKQuQxJPOrrWDOhHKvDqKDVLt</WiderGroupBlocks>
+            <GrossExposure>185659</GrossExposure>
+            <Percentage10-8-13>23.0407</Percentage10-8-13>
+            <ExposureMitigation>779550</ExposureMitigation>
+            <OfWhich>
+                <ExemptExposures>
+                    <Amount>518339</Amount>
+                    <ExemptPercentage>64.32705</ExemptPercentage>
+                </ExemptExposures>
+                <NonExemptExposures>
+                    <NonTradingBook>658724</NonTradingBook>
+                    <NonTradingBookPercentage>81.74915</NonTradingBookPercentage>
+                    <TradingBook>553811</TradingBook>
+                    <TradingBookPercentage>68.7292</TradingBookPercentage>
+                    <AggregatePercentage>150.4783</AggregatePercentage>
+                </NonExemptExposures>
+            </OfWhich>
+            <CNCOM>295039</CNCOM>
+        </Exposure>
+        <Total>
+            <NonTradingBookPercentage>81.74915</NonTradingBookPercentage>
+            <TradingBookPercentage>68.7292</TradingBookPercentage>
+            <CNCOM>698133</CNCOM>
+        </Total>
+    </Exposures>
+
+</FSA018-UKIntegratedGroupExposures>

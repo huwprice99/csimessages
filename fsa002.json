@@ -1,0 +1,95 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA002-IncomeStatement schemaLocation="urn:fsa-gov-uk:MER:FSA002:3"
+                        http://www.fsa.gov.uk/MER/DRG/FSA002/v3/FSA002-Schema.xsd" reportingBasis="UK consolidation group" currency="GBP" units="thousands">
+    
+    <GroupInfo>
+        <GroupReference>H1234</GroupReference>
+        <OtherGroupFirms>
+            <FirmReferenceNumber>283200</FirmReferenceNumber>
+            <FirmReferenceNumber>202013</FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+    
+    <FinancialOperatingIncome>
+        <TotalIncome>
+            <Total></Total>
+            <TradingBook>125683</TradingBook>
+        </TotalIncome>
+        <InterestIncome>
+            <Total>2160204</Total>
+            <RetailSecuredLoans>962976</RetailSecuredLoans>
+            <RetailUnsecuredLoans>310606</RetailUnsecuredLoans>
+            <CardAccounts>431246</CardAccounts>
+            <Other>455376</Other>
+        </InterestIncome>
+        <FeesCommissionIncome>
+            <Total>4143795</Total>
+            <GrossCommissionBrokerage>905735</GrossCommissionBrokerage>
+            <PerformanceFees>459916</PerformanceFees>
+            <InvestmentManagementFees>271305</InvestmentManagementFees>
+            <InvestmentAdvisoryFees>757327</InvestmentAdvisoryFees>
+            <CorporateFinance>698582</CorporateFinance>
+            <UCITSManagementFees>341021</UCITSManagementFees>
+            <Other>709909</Other>
+        </FeesCommissionIncome>
+        <TradingIncome>
+            <Total>1870285</Total>
+            <TradingInvestments>333353</TradingInvestments>
+            <ChargesUCITS>883626</ChargesUCITS>
+            <ForeignExchange>235238</ForeignExchange>
+            <Other>418068</Other>
+        </TradingIncome>
+        <NonTradingInstruments>802267</NonTradingInstruments>
+        <RealisedGainsLosses>697510</RealisedGainsLosses>
+        <DividendIncome>674969</DividendIncome>
+        <OtherOperatingIncome>838806</OtherOperatingIncome>
+        <DisposalGainsLosses>532091</DisposalGainsLosses>
+    </FinancialOperatingIncome>
+
+    <FinancialOperatingCharges>
+        <TotalCharges>
+            <Total></Total>
+            <TradingBook>319564</TradingBook>
+        </TotalCharges>
+        <InterestPaid>
+            <Total>1527525</Total>
+            <BankBuildingDeposits>422824</BankBuildingDeposits>
+            <RetailDeposits>446237</RetailDeposits>
+            <CorporateDeposits>213035</CorporateDeposits>
+            <IntragroupDeposits>228088</IntragroupDeposits>
+            <OtherDeposits>217341</OtherDeposits>
+        </InterestPaid>
+        <FeesCommissionExpenses>650896</FeesCommissionExpenses>
+        <OtherOperatingExpenses>391115</OtherOperatingExpenses>
+    </FinancialOperatingCharges>
+    
+    <OtherCosts>
+        <TotalCosts>
+            <Total></Total>
+            <TradingBook>252178</TradingBook>
+        </TotalCosts>
+        <StaffExpenses>
+            <Total>1131562</Total>
+            <NonDiscretionary>550337</NonDiscretionary>
+            <Discretionary>581225</Discretionary>
+        </StaffExpenses>
+        <GeneralAdministrativeExpenses>165808</GeneralAdministrativeExpenses>
+        <Depreciation>931977</Depreciation>
+        <ImpairmentProvisions>667003</ImpairmentProvisions>
+        <OtherCharges>755746</OtherCharges>
+        <ShareProfitAssociates>581609</ShareProfitAssociates>
+        <ExceptionalItems>448288</ExceptionalItems>
+    </OtherCosts>
+    
+    <ProfitBeforeTax>
+        <Total></Total>
+        <TradingBook>-446059</TradingBook>
+    </ProfitBeforeTax>
+    <TaxExpense>334849</TaxExpense>
+    <ProfitAfterTax></ProfitAfterTax>
+    <MemorandumItems>
+        <DividendsInYear>793926</DividendsInYear>
+        <DetailsExceptionalItems>ratione-ut-eius-sunt-rerum-maxime-totam-quis-nobis-officia-quia-harum-et-beatae-fugit-qui-debitis-esse-porro-saepe-saepe-illum-ipsam-ullam-debitis-atque-doloribus-sed-repellat-dolorum-et</DetailsExceptionalItems>
+    </MemorandumItems>
+</FSA002-IncomeStatement>

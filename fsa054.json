@@ -1,0 +1,67 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA054-CurrencyAnalysis schemaLocation="urn:fsa-gov-uk:MER:FSA054:1"
+                        http://www.fsa.gov.uk/MER/DRG/FSA054/v1/FSA054-Schema.xsd" reportingBasis="DLG by default">
+    
+    <GroupInfo>
+        <OtherGroupFirms>
+            <FirmReferenceNumber></FirmReferenceNumber>
+            <FirmReferenceNumber></FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+    
+    <GBP>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </GBP>
+    <USD>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </USD>
+    <EUR>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </EUR>
+    <JPY>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </JPY>
+    <CHF>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </CHF>
+    <CAD>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </CAD>
+    <SEK>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </SEK>
+    <NOK>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </NOK>
+    <DKK>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </DKK>
+    <AUD>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </AUD>
+    <HKD>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </HKD>
+    <ZAR>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </ZAR>
+    <Other>
+        <PercentageOfAssets></PercentageOfAssets>
+        <PercentageOfLiabilities></PercentageOfLiabilities>
+    </Other>
+    
+</FSA054-CurrencyAnalysis>
+

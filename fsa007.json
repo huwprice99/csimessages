@@ -1,0 +1,62 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA007-OperationalRisk schemaLocation="urn:fsa-gov-uk:MER:FSA007:2"
+                        http://www.fsa.gov.uk/MER/DRG/FSA007/v2/FSA007-Schema.xsd" reportingBasis="UK consolidation group" currency="GBP" units="thousands">
+    
+    <GroupInfo>
+        <GroupReference>H1234</GroupReference>
+        <OtherGroupFirms>
+            <FirmReferenceNumber>297378</FirmReferenceNumber>
+            <FirmReferenceNumber>202013</FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+    <ApproachAdopted>
+        <Standardised>Yes</Standardised>
+        <AdvancedMeasurement>No</AdvancedMeasurement>
+    </ApproachAdopted>
+    <RelevantIncomeIndicator>
+        <CorporateFinance>782188</CorporateFinance>
+        <TradingSales>414327</TradingSales>
+        <RetailBrokerage>513038</RetailBrokerage>
+        <CommercialBanking>430809</CommercialBanking>
+        <RetailBanking>219287</RetailBanking>
+        <PaymentSettlement>710770</PaymentSettlement>
+        <AgencyServices>478127</AgencyServices>
+        <AssetManagement>606261</AssetManagement>
+    </RelevantIncomeIndicator>
+    <NominalAmountLoansAdvances>
+        <RetailBanking>144550</RetailBanking>
+        <CommercialBanking>828665</CommercialBanking>
+    </NominalAmountLoansAdvances>
+    <CapitalRequirement>519548</CapitalRequirement>
+    <ExpectedLoss>901586</ExpectedLoss>
+    <CapitalAlleviation>454544</CapitalAlleviation>
+    <TotalCapitalRequired>
+        <Standardised></Standardised>
+        <AdvancedMeasurement>-836582</AdvancedMeasurement>
+    </TotalCapitalRequired>
+    <OperationalRiskLosses>
+        <PeriodGrossLoss></PeriodGrossLoss>
+        <NumberLossEvents></NumberLossEvents>
+        <LossEvents>
+            <Event>
+                <DateAddedToDatabase>2020-04-30</DateAddedToDatabase>
+                <DateLossEvent>2020-03-15</DateLossEvent>
+                <GrossLoss>186370</GrossLoss>
+                <LossCertainty>itaque-sint-harum-aperiam-facere-aspernatur-impedit-reprehenderit-adipisci-labore-et-voluptate-fugiat-sunt-illo-numquam-eum-reprehenderit-necessitatibus-sequi-ratione-quia-recusandae-ipsum-rerum-natus-provident-fuga-sequi-voluptas-repellat-est-quibusdam-excepturi-repellat-id-placeat-qui-est-vero-consectetur-id-qui-ut-et-accusamus-dignissimos-impedit-placeat-quod-quae-aut-autem-reiciendis-adipisci-optio-eos-ut</LossCertainty>
+                <BusinessLine>explicabo-ut-quos-expedita-aspernatur-corporis-quidem-molestias-exercitationem-est-quos-incidunt-accusantium-beatae</BusinessLine>
+                <EventType>7250</EventType>
+                <Commentary>tempora-sint-numquam-sequi-possimus-non-quis-et-recusandae-sint-et-qui-voluptatibus-numquam-sit-eius-voluptatem-esse-quaerat-iure-cupiditate-nihil-consequatur-est-praesentium-voluptates-quas-delectus-molestiae-voluptatibus-quis-dolorum-pariatur-eos-tempore-sunt-dignissimos-earum-perspiciatis-impedit-eius-incidunt-tempore-aut-minus-aut-explicabo-illum-nihil-voluptatum-ut-et-aliquam-et-et-occaecati-aut-error-optio-nulla-molestiae-quia-eos-hic-ratione-debitis-exercitationem-nulla-perspiciatis-omnis-est-autem-accusamus-omnis-dolorem-nostrum-aperiam-fugiat-sint-in-illum-nobis-voluptatem-ducimus-quidem-laudantium-consequatur-voluptatibus-nihil-voluptatem-laudantium-debitis-dolore-optio-minima-eveniet</Commentary>
+            </Event>
+            <Event>
+                <DateAddedToDatabase>2006-09-05</DateAddedToDatabase>
+                <DateLossEvent>2006-03-03</DateLossEvent>
+                <GrossLoss>500000</GrossLoss>
+                <LossCertainty>management estimate</LossCertainty>
+                <BusinessLine>AS</BusinessLine>
+                <EventType>6</EventType>
+                <Commentary>Power failure to systems for sustained period</Commentary>
+            </Event>
+        </LossEvents>
+    </OperationalRiskLosses>
+</FSA007-OperationalRisk>

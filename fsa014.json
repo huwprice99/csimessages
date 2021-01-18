@@ -1,0 +1,34 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<FSA014-ForecastDataFromFirms schemaLocation="urn:fsa-gov-uk:MER:FSA014:2"
+                                http://www.fsa.gov.uk/MER/DRG/FSA014/v2/FSA014-Schema.xsd" reportingBasis="UK consolidation group" currency="GBP" units="thousands">
+    
+    <GroupInfo>
+        <GroupReference>H1234</GroupReference>
+        <OtherGroupFirms>
+            <FirmReferenceNumber>794817</FirmReferenceNumber>
+        </OtherGroupFirms>
+    </GroupInfo>
+    
+    <Profitability>
+        <NetInterestIncome>312851</NetInterestIncome>
+        <OtherIncome>465327</OtherIncome>
+        <Expenditure>580190</Expenditure>
+        <ImpairmentProvisions>298758</ImpairmentProvisions>
+        <TotalProfit>187683</TotalProfit>
+        <NetProfit>718035</NetProfit>
+    </Profitability>
+    <BalanceSheet>
+        <Cash>651414</Cash>
+        <Loans>180098</Loans>
+        <Investments>794817</Investments>
+        <CustomerAccounts>246438</CustomerAccounts>
+        <BankDeposits>196719</BankDeposits>
+        <TotalAssetsLiabilities>766421</TotalAssetsLiabilities>
+    </BalanceSheet>
+    <CapitalAdequacy>
+        <CapitalResources>430976</CapitalResources>
+        <CapitalRequirement>142015</CapitalRequirement>
+    </CapitalAdequacy>
+</FSA014-ForecastDataFromFirms>
+            
